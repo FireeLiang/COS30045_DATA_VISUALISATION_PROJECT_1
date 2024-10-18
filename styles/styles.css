@@ -43,7 +43,7 @@ section {
 
 /*first parallax image*/
 #parallax1 {
-    background-image: url(../images/BackgroundImageFinal.PNG);
+    background-image: url(../images/Section1.PNG);
     position: relative;
     height: 125%; 
     background-attachment: fixed;
