@@ -1,0 +1,63 @@
+/*HTML height + smooth scroll*/
+html {
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+/*Body height scaling*/
+body {
+    height: 100%;
+    min-height: 100vh;
+    margin: 0px;
+}
+
+/*Title and Caption box font styling*/
+#title {
+    height: 100%;
+}
+
+#caption {
+    position: absolute;
+    top: 29%;
+    width: 100%;
+    text-align: center;
+}
+
+#caption span.border h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+    font-size: 3em;
+    letter-spacing: 0.6em;
+}
+
+#caption span.border h2{
+    color: #333;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+}
+
+/*section display*/
+section {
+    display: block;
+}
+
+/*first parallax image*/
+#parallax1 {
+    background-image: url(../images/BackgroundImageFinal.PNG);
+    position: relative;
+    height: 125%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*section 2*/
+.section1 {
+    height: 125%;
+}
+
+.section2 {
+    height: 125%;
+    background-color: #ccc;
+}
