@@ -1,3 +1,9 @@
+* {
+    font-family: "Viga", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 /*HTML height + smooth scroll*/
 html {
     height: 100%;
@@ -24,7 +30,7 @@ body {
 }
 
 #caption span.border h1{
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
     color: #333;
     font-size: 3em;
     letter-spacing: 0.6em;
@@ -43,7 +49,7 @@ section {
 
 /*first parallax image*/
 #parallax1 {
-    background-image: url(../images/Section1.PNG);
+    background-image: url(../images/section1.png);
     position: relative;
     height: 125%; 
     background-attachment: fixed;
