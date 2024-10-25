@@ -49,7 +49,29 @@ section {
 
 /*first parallax image*/
 #parallax1 {
-    background-image: url(../images/section1.png);
+    background-image: url(../images/Parallax1.PNG);
+    position: relative;
+    height: 125%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*Second parallax image*/
+#parallax2 {
+    background-image: url(../images/Parallax2.PNG);
+    position: relative;
+    height: 125%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*Third parallax image*/
+#parallax3 {
+    background-image: url(../images/Parallax3.PNG);
     position: relative;
     height: 125%; 
     background-attachment: fixed;
