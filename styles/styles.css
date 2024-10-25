@@ -80,7 +80,7 @@ section {
     background-size: 100%;
 }
 
-/*section 2*/
+/*sections*/
 .section1 {
     height: 125%;
 }
@@ -90,12 +90,13 @@ section {
     background-color: #ccc;
 }
 
+/*Parallax 1 Text*/
 #text1 {
     background-color: white;
     color: green;
     font-size: 10em;
     font-weight: bold;
-    margin: 0 auto;
+    margin: auto;
     padding: 10px;
     width: 50%;
     text-align: center; 
@@ -106,12 +107,13 @@ section {
     mix-blend-mode: multiply;
 }
 
+/*Parallax 2 Text*/
 #text2 {
     background-color: white;
     color: black;
     font-size: 10em;
     font-weight: bold;
-    margin: 0 auto;
+    margin: auto;
     padding: 10px;
     width: 50%;
     text-align: center; 
@@ -122,13 +124,13 @@ section {
     mix-blend-mode: screen;
 }
 
-
+/*Parallax 3 Text*/
 #text3 {
 background-color: white;
 color: orange;
 font-size: 10em;
 font-weight: bold;
-margin: 0 auto;
+margin: auto;
 padding: 10px;
 width: 50%;
 text-align: center; 
