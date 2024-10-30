@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8">
+
+        <title>Adult Obesity Percentages</title>
+
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+
+        <link rel="stylesheet" href="https://unpkg.com/d3-simple-slider/dist/d3-simple-slider.css">
+        <script src="https://unpkg.com/d3-simple-slider/dist/d3-simple-slider.js"></script>
+
+        <link rel="stylesheet" href="../styles/chloropleth.css">
+
+        <script src="../scripts/chloropleth.js"></script>
+
+    </head>
+    
+    <body>
+
+        <div id="header">
+            <button id="both" class="buttons">Both</button>
+            <button id="male" class="buttons">Male</button>
+            <button id="female" class="buttons">Female</button>
+        </div>
+
+        <div id="slider-container">
+            <div class="year-label" id="yearLabel">Year: 2022</div>
+            <div id="slider" class="slider-container"></div>
+        </div>
+
+        <div id="map"></div>
+        <div id="legend"></div>
+        <div class="tooltip" id="tooltip"></div>
+
+    </body>
+
+</html>

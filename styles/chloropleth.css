@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    overflow: hidden; 
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.buttons {
+    margin-left: 4em;
+    padding: 0.5em 0.8em;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 7.5em;
+}
+
+.buttons:hover {
+    background-color: green;
+}
+
+#label {
+    font-size: 1em;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#slider-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.5em;
+}
+
+#map {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    height: 65vh;
+}
+
+.country {
+    stroke: white;
+    stroke-width: 1;
+    transition: fill 0.3s;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 0.5em;
+    font: 0.75em sans-serif;
+    color: white;
+    background: green;
+    border-radius: 0.25em;
+    pointer-events: none;
+    opacity: 0; 
+    transition: opacity 0.2s;
+    z-index: 10; 
+    max-width: 12.5em;
+}
+
+.legend {
+    font-size: 0.75em;
+    margin-top: 0.5em;
+}
+
+.year-label {
+    font-size: 1em;
+    white-space: nowrap; 
+    font-weight: bold;
+    color: darkgreen;
+}
+
+.slider-container {
+    width: 80%;
+}
+
+.slider text {
+    fill: darkgreen;
+    font-weight: bold;
+}
