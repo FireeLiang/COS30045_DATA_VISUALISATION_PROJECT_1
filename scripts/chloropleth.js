@@ -52,16 +52,38 @@ function init(){
     d3.select("#both").on("click", function() {
         currentDataset = '../data/chloropleth/Adults.csv'; //Change to Both dataset
         loadData(currentDataset);
+        
+        d3.select("#both")
+            .style('opacity', 1);
+        d3.select("#male")
+            .style('opacity', 0.5);
+        d3.select("#female")
+            .style('opacity', 0.5);
+        
     });
 
     d3.select("#male").on("click", function() {
         currentDataset = '../data/chloropleth/MaleAdults.csv'; //Change to Male dataset
         loadData(currentDataset);
+        
+        d3.select("#both")
+            .style('opacity', 0.5);
+        d3.select("#male")
+            .style('opacity', 1);
+        d3.select("#female")
+            .style('opacity', 0.5);
     });
 
     d3.select("#female").on("click", function() {
         currentDataset = '../data/chloropleth/FemaleAdults.csv'; //Change to Female dataset
         loadData(currentDataset);
+        
+        d3.select("#both")
+            .style('opacity', 0.5);
+        d3.select("#male")
+            .style('opacity', 0.5);
+        d3.select("#female")
+            .style('opacity', 1);
     });
 
     const colorScale = d3.scaleSequential()

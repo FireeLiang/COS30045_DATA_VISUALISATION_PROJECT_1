@@ -88,3 +88,11 @@ body {
     fill: darkgreen;
     font-weight: bold;
 }
+
+#male {
+    opacity: 0.5;
+}
+
+#female {
+    opacity: 0.5;
+}
