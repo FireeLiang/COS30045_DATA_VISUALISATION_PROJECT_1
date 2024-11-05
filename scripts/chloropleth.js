@@ -1,16 +1,16 @@
 function init(){
 
-    const width = window.innerWidth;
+    var width = window.innerWidth;
 
-    const height = window.innerHeight * 0.7;
+    var height = window.innerHeight * 0.7;
     
-    const projection = d3.geoNaturalEarth1()
+    var projection = d3.geoNaturalEarth1()
                         .scale(180)
                         .translate([width / 2, height / 2]);
 
-    const path = d3.geoPath().projection(projection);
+    var path = d3.geoPath().projection(projection);
 
-    const svg = d3.select("#map")
+    var svg = d3.select("#map")
                 .append("svg")
                 .attr("width", width)
                 .attr("height", height)
@@ -49,44 +49,45 @@ function init(){
     //Initial load with the default dataset (Both)
     loadData(currentDataset);
 
-    d3.select("#both").on("click", function() {
-        currentDataset = '../data/chloropleth/Adults.csv'; //Change to Both dataset
-        loadData(currentDataset);
-        
-        d3.select("#both")
-            .style('opacity', 1);
-        d3.select("#male")
-            .style('opacity', 0.5);
-        d3.select("#female")
-            .style('opacity', 0.5);
-        
-    });
+    d3.select("#both")
+        .on("click", function() {
+            d3.select("#both")
+                .style('opacity', '1');
+            d3.select("#male")
+                .style('opacity', '0.75');
+            d3.select("#female")
+                .style('opacity', '0.75');
+            currentDataset = '../data/chloropleth/Adults.csv'; //Change to Both dataset
+            loadData(currentDataset);
+        });
 
-    d3.select("#male").on("click", function() {
-        currentDataset = '../data/chloropleth/MaleAdults.csv'; //Change to Male dataset
-        loadData(currentDataset);
-        
-        d3.select("#both")
-            .style('opacity', 0.5);
-        d3.select("#male")
-            .style('opacity', 1);
-        d3.select("#female")
-            .style('opacity', 0.5);
-    });
+    d3.select("#male")
+        .on("click", function() {
+            d3.select("#both")
+                .style('opacity', '0.75');
+            d3.select("#male")
+                .style('opacity', '1');
+            d3.select("#female")
+                .style('opacity', '0.75');
+            currentDataset = '../data/chloropleth/MaleAdults.csv'; //Change to Male dataset
+            loadData(currentDataset);
+        });
 
-    d3.select("#female").on("click", function() {
-        currentDataset = '../data/chloropleth/FemaleAdults.csv'; //Change to Female dataset
-        loadData(currentDataset);
-        
-        d3.select("#both")
-            .style('opacity', 0.5);
-        d3.select("#male")
-            .style('opacity', 0.5);
-        d3.select("#female")
-            .style('opacity', 1);
-    });
+    d3.select("#female")
+        .on("click", function() {
+            d3.select("#both")
+                .style('opacity', '0.75');
+            d3.select("#male")
+                .style('opacity', '0.75');
+            d3.select("#female")
+                .style('opacity', '1');
+            currentDataset = '../data/chloropleth/FemaleAdults.csv'; //Change to Female dataset
+            loadData(currentDataset);
+            
+           
+        });
 
-    const colorScale = d3.scaleSequential()
+    var colorScale = d3.scaleSequential()
                         .domain([0, 100]) 
                         .interpolator(d3.interpolateRgb("#B3FF5E", "#009E5B")); //Colour Choice
 
@@ -99,7 +100,7 @@ function init(){
             return; 
         }
 
-        const maxValue = d3.max(Object.values(yearData[2022]));
+        var maxValue = d3.max(Object.values(yearData[2022]));
 
         colorScale.domain([0, maxValue]); //Update domain based on current year data
 
@@ -109,14 +110,14 @@ function init(){
             .attr("class", "country")
             .attr("d", path)
             .attr("fill", d => {
-                const value = yearData[year][d.properties.name];
+                var value = yearData[year][d.properties.name];
                 if (value === undefined || value === 0) {
                     return "#ccc"; //Gray for 0% or not available
                 }
                 return colorScale(value);
             })
             .on("mouseover", function(event, d) {
-                const hoveredCountry = d.properties.name; //Get the hovered country name
+                var hoveredCountry = d.properties.name; //Get the hovered country name
 
                 //Reduce opacity of other countries with transition
                 svg.selectAll(".country")
@@ -127,15 +128,15 @@ function init(){
                     .duration(250) 
                     .attr("opacity", 0.3);
 
-                const tooltip = d3.select("#tooltip");
+                var tooltip = d3.select("#tooltip");
 
                 tooltip.transition()
                         .duration(250)
                         .style("opacity", 1);
 
-                const value = yearData[year][hoveredCountry];
+                var value = yearData[year][hoveredCountry];
                 
-                const tooltipText = (value === undefined || value === 0) ? 
+                var tooltipText = (value === undefined || value === 0) ? 
                     `${hoveredCountry}: Data not available` : 
                     `${hoveredCountry}: ${value}%`;
 
@@ -162,10 +163,10 @@ function init(){
 
     }
 
-    const yearLabel = d3.select("#yearLabel");
+    var yearLabel = d3.select("#yearLabel");
 
-    const slider = d3.sliderBottom()
-                    .min(2010)
+    var slider = d3.sliderBottom()
+                    .min(1990)
                     .max(2022)
                     .width(1000)
                     .ticks(33)
@@ -191,14 +192,14 @@ function init(){
             .selectAll("*")
             .remove();
 
-        const legendWidth = 900;
-        const legendHeight = 70;
+        var legendWidth = 900;
+        var legendHeight = 70;
 
-        const legendSvg = d3.select("#legend").append("svg")
+        var legendSvg = d3.select("#legend").append("svg")
                             .attr("width", legendWidth)
                             .attr("height", legendHeight);
 
-        const gradient = legendSvg.append("defs")
+        var gradient = legendSvg.append("defs")
                                 .append("linearGradient")
                                 .attr("id", "gradient")
                                 .attr("x1", "0%")
@@ -206,7 +207,7 @@ function init(){
                                 .attr("x2", "100%")
                                 .attr("y2", "0%");
 
-        const grades = [0, maxValue / 4, maxValue / 2, (3 * maxValue) / 4, maxValue];
+        var grades = [0, maxValue / 4, maxValue / 2, (3 * maxValue) / 4, maxValue];
 
         grades.forEach((grade, i) => {
             gradient.append("stop")
@@ -244,7 +245,7 @@ function init(){
                     .attr("fill", "darkgreen");
         });
 
-        const grayX = legendWidth - 150; //Move gray legend to the right of percentage legend
+        var grayX = legendWidth - 150; //Move gray legend to the right of percentage legend
 
         legendSvg.append("rect")
             .attr("x", grayX)
@@ -264,8 +265,8 @@ function init(){
     }
 
     window.addEventListener('resize', () => {
-        const newWidth = window.innerWidth;
-        const newHeight = window.innerHeight * 0.7;
+        var newWidth = window.innerWidth;
+        var newHeight = window.innerHeight * 0.7;
 
         svg.attr("width", newWidth)
             .attr("height", newHeight)
