@@ -165,7 +165,7 @@ function init(){
     const yearLabel = d3.select("#yearLabel");
 
     const slider = d3.sliderBottom()
-                    .min(1990)
+                    .min(2010)
                     .max(2022)
                     .width(1000)
                     .ticks(33)
