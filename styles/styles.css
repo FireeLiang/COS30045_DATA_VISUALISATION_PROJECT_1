@@ -58,6 +58,59 @@ section {
     background-size: 100%;
 }
 
+/*Parallax 1 Text*/
+#text1 {
+    background-color: white;
+    color: green;
+    font-size: 4em;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    width: 75%;
+    text-align: center; 
+    position: absolute; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    mix-blend-mode: multiply;
+    letter-spacing: 0em;
+}
+
+/*Section 1 Text*/
+#S1text{
+    padding-top: 15%;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#S1text h1{
+    letter-spacing: 0.25em;
+    font-size: 1.5em;
+    text-align: center;
+    padding-bottom: 2.5%;
+}
+
+#S1text p{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1.2em;
+    text-align: center;
+    padding-bottom: 1.2em;
+}
+
+#S1text h1 section{
+    display: inline;
+}
+
+/*section 1 references*/
+#S1references{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1.2em;
+    text-align: center;
+    padding-bottom: 15%;
+}
+
 /*Second parallax image*/
 #parallax2 {
     background-image: url(../images/Parallax2.PNG);
@@ -67,44 +120,6 @@ section {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
-}
-
-/*Third parallax image*/
-#parallax3 {
-    background-image: url(../images/Parallax3.PNG);
-    position: relative;
-    height: 125%; 
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
-
-/*sections*/
-.section1 {
-    height: 125%;
-}
-
-.section2 {
-    height: 125%;
-    background-color: #ccc;
-}
-
-/*Parallax 1 Text*/
-#text1 {
-    background-color: white;
-    color: green;
-    font-size: 10em;
-    font-weight: bold;
-    margin: auto;
-    padding: 10px;
-    width: 50%;
-    text-align: center; 
-    position: absolute; 
-    top: 50%; 
-    left: 50%;
-    transform: translate(-50%, -50%); 
-    mix-blend-mode: multiply;
 }
 
 /*Parallax 2 Text*/
@@ -124,19 +139,69 @@ section {
     mix-blend-mode: screen;
 }
 
+/*Third parallax image*/
+#parallax3 {
+    background-image: url(../images/Parallax3.PNG);
+    position: relative;
+    height: 125%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 /*Parallax 3 Text*/
 #text3 {
-background-color: white;
-color: orange;
-font-size: 10em;
-font-weight: bold;
-margin: auto;
-padding: 10px;
-width: 50%;
-text-align: center; 
-position: absolute; 
-top: 50%; 
-left: 50%;
-transform: translate(-50%, -50%); 
-mix-blend-mode: multiply;
+    background-color: white;
+    color: orange;
+    font-size: 10em;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    text-align: center; 
+    position: absolute; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    mix-blend-mode: multiply;
+}
+
+/*sections*/
+.section1 {
+    height: 125%;
+}
+
+.section2 {
+    height: 125%;
+    background-color: #ccc;
+}
+
+.references {
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 200%;
+    text-align: center;
+}
+
+.reference {
+    height: 10%;
+    font-size: 1.25em;
+    text-align: justify;
+    text-indent: -10.0375em;
+    padding-left: 10.0375em;
+    line-height: 3em;
+    color: #0277BD;
+}
+
+a {
+    color: #0277BD;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }

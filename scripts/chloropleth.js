@@ -1,9 +1,8 @@
-function init(){
+function init() {
 
     var width = window.innerWidth;
-
     var height = window.innerHeight * 0.7;
-    
+
     var projection = d3.geoNaturalEarth1()
                         .scale(180)
                         .translate([width / 2, height / 2]);
@@ -21,7 +20,7 @@ function init(){
     let yearData = {};
     let currentDataset = '../data/chloropleth/Adults.csv'; //Default dataset
     let currentYear = 2022; //Initialize with default year
-    let geoData; 
+    let geoData;
 
     function loadData(dataset) {
 
@@ -49,6 +48,7 @@ function init(){
     //Initial load with the default dataset (Both)
     loadData(currentDataset);
 
+    //Dataset change based on the button clicks
     d3.select("#both")
         .on("click", function() {
             d3.select("#both")
@@ -83,84 +83,100 @@ function init(){
                 .style('opacity', '1');
             currentDataset = '../data/chloropleth/FemaleAdults.csv'; //Change to Female dataset
             loadData(currentDataset);
-            
-           
         });
 
     var colorScale = d3.scaleSequential()
-                        .domain([0, 100]) 
-                        .interpolator(d3.interpolateRgb("#B3FF5E", "#009E5B")); //Colour Choice
+                        .domain([0, 100])
+                        .interpolator(d3.interpolateRgb("#B3FF5E", "#009E5B")); //Color choice
+
+    //Hide tooltip when drawing the map
+    function resetTooltip() {
+        d3.select("#tooltip")
+            .transition()
+            .duration(250)
+            .style("opacity", 0); 
+    }
 
     function drawMap(year) {
+        resetTooltip(); 
 
-        svg.selectAll(".country").remove(); //Clear previous map
+        //Select the countries and bind data
+        var countries = svg.selectAll(".country")
+                            .data(geoData.features);
 
-        if (!yearData[year]) {
-            console.warn(`No data available for year: ${year}`);
-            return; 
-        }
+        //Append new paths for countries that don't exist yet (enter selection)
+        countries.enter()
+                .append("path")
+                .attr("class", "country")
+                .attr("d", path)
+                .attr("fill", d => {
+                    var value = yearData[year][d.properties.name];
+                    if (value === undefined || value === 0) {
+                        return "#ccc"; //Gray for 0% or not available
+                    }
+                    return colorScale(value);
+                })
+                .on("mouseover", function(event, d) {
+                    var hoveredCountry = d.properties.name;
 
-        var maxValue = d3.max(Object.values(yearData[2022]));
+                    //Reduce opacity of other countries
+                    svg.selectAll(".country")
+                        .filter(function(d) {
+                            return d.properties.name !== hoveredCountry;
+                        })
+                        .transition()
+                        .duration(250)
+                        .attr("opacity", 0.3);
 
-        colorScale.domain([0, maxValue]); //Update domain based on current year data
+                    var tooltip = d3.select("#tooltip");
 
-        svg.selectAll(".country")
-            .data(geoData.features)
-            .enter().append("path")
-            .attr("class", "country")
-            .attr("d", path)
-            .attr("fill", d => {
-                var value = yearData[year][d.properties.name];
-                if (value === undefined || value === 0) {
-                    return "#ccc"; //Gray for 0% or not available
-                }
-                return colorScale(value);
-            })
-            .on("mouseover", function(event, d) {
-                var hoveredCountry = d.properties.name; //Get the hovered country name
-
-                //Reduce opacity of other countries with transition
-                svg.selectAll(".country")
-                    .filter(function(d) {
-                        return d.properties.name !== hoveredCountry;
-                    })
-                    .transition()
-                    .duration(250) 
-                    .attr("opacity", 0.3);
-
-                var tooltip = d3.select("#tooltip");
-
-                tooltip.transition()
+                    tooltip.transition()
                         .duration(250)
                         .style("opacity", 1);
 
-                var value = yearData[year][hoveredCountry];
-                
-                var tooltipText = (value === undefined || value === 0) ? 
-                    `${hoveredCountry}: Data not available` : 
-                    `${hoveredCountry}: ${value}%`;
+                    //Get the value for the current year
+                    var value = yearData[currentYear][hoveredCountry]; //Use currentYear here
 
-                tooltip.text(tooltipText)
-                    .style("left", Math.min(event.pageX + 5, window.innerWidth 
-                    - tooltip.node().getBoundingClientRect().width - 10) + "px")
-                    .style("top", Math.min(event.pageY - 28, window.innerHeight 
-                    - tooltip.node().getBoundingClientRect().height - 10) + "px");
-            })
-            .on("mouseout", function() {
-                //Reset opacity of all countries with transition
-                svg.selectAll(".country")
-                    .transition()
-                    .duration(250) 
-                    .attr("opacity", 1);
+                    //Display the tooltip with the current year's data
+                    var tooltipText = (value === undefined || value === 0) ? 
+                        `${hoveredCountry}: Data not available` : 
+                        `${hoveredCountry}: ${value}%`;
 
-                d3.select("#tooltip")
-                    .transition()
-                    .duration(250)
-                    .style("opacity", 0);
-            });
+                    tooltip.text(tooltipText)
+                        .style("left", Math.min(event.pageX + 5, window.innerWidth 
+                        - tooltip.node().getBoundingClientRect().width - 10) + "px")
+                        .style("top", Math.min(event.pageY - 28, window.innerHeight 
+                        - tooltip.node().getBoundingClientRect().height - 10) + "px");
+                })
+                .on("mouseout", function() {
+                    //Reset opacity of all countries
+                    svg.selectAll(".country")
+                        .transition()
+                        .duration(250)
+                        .attr("opacity", 1);
 
-        updateLegend(maxValue);
+                    d3.select("#tooltip")
+                        .transition()
+                        .duration(250)
+                        .style("opacity", 0); //Hide tooltip on mouseout
+                })
+                .merge(countries)  //Merge the enter selection with the update selection
+                .attr("fill", d => {
+                    var value = yearData[year][d.properties.name];
+                    if (value === undefined || value === 0) {
+                        return "#ccc"; //Gray for 0% or not available
+                    }
+                    return colorScale(value);
+                });
 
+        //Handle the exit selection (countries that no longer exist in the data)
+        countries.exit()
+                .transition()
+                .duration(250)
+                .attr("opacity", 0)
+                .remove();
+
+        updateLegend(); //Update legend with maxValue
     }
 
     var yearLabel = d3.select("#yearLabel");
@@ -169,13 +185,13 @@ function init(){
                     .min(1990)
                     .max(2022)
                     .width(1000)
-                    .ticks(33)
+                    .ticks(11)
                     .step(1)
                     .default(2022)
                     .on('onchange', val => {
                         currentYear = Math.round(val); //Update currentYear
                         yearLabel.text(`Year: ${currentYear}`);
-                        drawMap(currentYear);
+                        drawMap(currentYear); //Redraw map with new year
                     });
 
     d3.select('#slider')
@@ -186,8 +202,7 @@ function init(){
         .attr('transform', 'translate(30,30)')
         .call(slider);
 
-    function updateLegend(maxValue) {
-
+    function updateLegend() {
         d3.select("#legend")
             .selectAll("*")
             .remove();
@@ -207,17 +222,17 @@ function init(){
                                 .attr("x2", "100%")
                                 .attr("y2", "0%");
 
-        var grades = [0, maxValue / 4, maxValue / 2, (3 * maxValue) / 4, maxValue];
+        var grades = [0, 25, 50, 75, 100];
 
         grades.forEach((grade, i) => {
             gradient.append("stop")
-                .attr("offset", (i / (grades.length - 1)) * 100 + "%")
-                .attr("stop-color", colorScale(grade));
+                    .attr("offset", (i / (grades.length - 1)) * 100 + "%")
+                    .attr("stop-color", colorScale(grade));
         });
 
         gradient.append("stop")
-            .attr("offset", "100%")
-            .attr("stop-color", "#ccc"); //Gray color for 0% or not available
+                .attr("offset", "100%")
+                .attr("stop-color", "#ccc"); //Gray color for 0% or not available
 
         legendSvg.append("text")
                 .attr("x", 10)
@@ -239,7 +254,7 @@ function init(){
                     .attr("x", 200 + (i / (grades.length - 1)) * (legendWidth - 400))
                     .attr("y", 25)
                     .text(Math.round(grade))
-                    .attr("font-size", "12px")
+                    .attr("font-size", "0.75em")
                     .attr("text-anchor", "middle")
                     .attr("font-weight", "bold")
                     .attr("fill", "darkgreen");
@@ -255,13 +270,12 @@ function init(){
             .style("fill", "#ccc"); //Gray color
 
         legendSvg.append("text")
-            .attr("x", grayX + 40) //Adjust spacing from the rectangle
+            .attr("x", grayX + 40) //Adjust spacing from the colored legend
             .attr("y", 25)
             .text("N/A")
-            .attr("font-size", "12px")
+            .attr("font-size", "0.75em")
             .attr("text-anchor", "start")
             .attr("fill", "darkgreen");
-
     }
 
     window.addEventListener('resize', () => {
@@ -274,8 +288,8 @@ function init(){
 
         projection.translate([newWidth / 2, newHeight / 2]);
 
-        drawMap(currentYear); //Use currentYear for redraw to maintain on currently select year
+        drawMap(currentYear); //Use currentYear for redraw to maintain on currently selected year
     });
-
 }
+
 window.onload = init;
