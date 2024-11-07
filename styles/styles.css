@@ -238,3 +238,6 @@ a:hover {
     overflow-y: auto; /* Enables vertical scrolling */
     text-align: justify;
 }
+.section_line{
+    height: 80%;
+}
