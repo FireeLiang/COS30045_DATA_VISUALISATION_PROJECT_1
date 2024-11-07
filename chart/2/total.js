@@ -9,7 +9,7 @@ var margin = {
   height = 400 - margin.top - margin.bottom;
   
   // append the svg object to the body of the page
-  var svg = d3.select("#female")
+  var svg = d3.select("#total")
   .append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", height + margin.top + margin.bottom + 100) // add extra space for the legend
@@ -18,7 +18,7 @@ var margin = {
     "translate(" + margin.left + "," + margin.top + ")");
   
   // Read the data
-  d3.csv("../../data/line/filtered_xlsx_female_final.csv", function(data) {
+  d3.csv("../../data/line/filtered_xlsx_total_final.csv", function(data) {
   
   // group the data: one line per group
   var sumstat = d3.nest()

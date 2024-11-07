@@ -205,3 +205,7 @@ a:link {
 a:hover {
     text-decoration: underline;
 }
+
+.section_line{
+    height: 80%;
+}
