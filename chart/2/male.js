@@ -18,7 +18,7 @@ var svg = d3.select("#male")
   "translate(" + margin.left + "," + margin.top + ")");
 
 // Read the data
-d3.csv("../../data/line/filtered_xlsx_male_final.csv", function(data) {
+d3.csv("../data/line/filtered_xlsx_male_final.csv", function(data) {
 
 // group the data: one line per group
 var sumstat = d3.nest()
