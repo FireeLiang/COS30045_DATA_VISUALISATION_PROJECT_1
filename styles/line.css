@@ -1,0 +1,32 @@
+/* CSS for layout */
+* {
+    font-family: "Arial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+}
+body {
+    display: flex;
+    align-items: flex-start;
+    font-family: Arial, sans-serif;
+  }
+  
+  #my_dataviz {
+    width: 60%; /* Adjust width as needed */
+    margin-right: 20px;
+  }
+  
+  #text-content {
+    width: 35%; /* Adjust width as needed */
+    line-height: 1.6;
+  }
+  
+  #text-content h2 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  #text-content p {
+    margin: 8px 0;
+  }
+  
