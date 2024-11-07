@@ -154,7 +154,7 @@ section {
 #text3 {
     background-color: white;
     color: orange;
-    font-size: 10em;
+    font-size: 5em;
     font-weight: bold;
     margin: auto;
     padding: 10px;
@@ -206,6 +206,38 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Flex container for chart and text */
+.section1.barclass {
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    height: 100%;
+    box-sizing: border-box; /* Ensures padding is included in the width */
+    overflow: hidden; /* Prevents any content from overflowing outside */
+}
+
+/* Chart container with 60% width */
+#my_dataviz {
+    flex: 0 0 60%; /* 60% width */
+    max-width: 60%; /* Ensures it doesn't exceed 60% of the container */
+    height: 100%;
+    padding-right: 20px; /* Optional space between chart and text */
+    box-sizing: border-box; /* Includes padding in the width calculation */
+}
+
+/* Text container with 40% width */
+#chart_text {
+    flex: 0 0 40%; /* 40% width */
+    max-width: 40%; /* Ensures it doesn't exceed 40% of the container */
+    height: 93%; /* Set a fixed height to control the scrollable area */
+    padding-left: 20px; /* Optional space between text and chart */
+    box-sizing: border-box; /* Includes padding in the width calculation */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Aligns text to the top */
+    overflow-y: auto; /* Enables vertical scrolling */
+    text-align: justify;
+}
 .section_line{
     height: 80%;
 }
