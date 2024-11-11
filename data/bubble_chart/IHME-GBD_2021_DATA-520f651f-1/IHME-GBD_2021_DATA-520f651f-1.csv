@@ -1,0 +1,577 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1150756901518477,0.1766603819185142,0.0568378363747647
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1134053594932755,0.1744572968307171,0.0552852059967684
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1141788267963092,0.1756642169879874,0.0556145689976389
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1135335918255749,0.1748114213509461,0.0546908053406743
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1115812143926433,0.1726558749619794,0.0535493098943385
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1116827959591832,0.1723644464422453,0.0539364939412257
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1109282585403301,0.1712520888273022,0.0542435608320849
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1125242974182872,0.1731723414018929,0.0563480987531684
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1105844705988594,0.17119938649036,0.0541422939565185
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1086962163394074,0.1684430320766436,0.0526479775834337
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0808865967363675,0.1266502194214085,0.0394546547172483
+1,Deaths,33,Armenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0898271432158623,0.1414562217543472,0.0415940644993478
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1164049536861254,0.1706195448222142,0.0677236669919029
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1316857712379522,0.1878543522238502,0.0801982147274933
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1377400448099917,0.1942698333880349,0.0848265536388812
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.136533855137579,0.1933992642072069,0.0847521558133619
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1304744004439374,0.1863935508384793,0.0791653123818679
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1247238763824977,0.1792684335805173,0.0743573108017489
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1191985998636592,0.1718767605371779,0.0700423074934776
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1141588647176068,0.1665221069717825,0.0660683783778118
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1075199711118132,0.1592392442445301,0.0605759851245535
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1054476852685479,0.1571091209740774,0.0590604988633784
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0927925697921367,0.1380144559228304,0.052047025887595
+1,Deaths,35,Georgia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0764584445574535,0.1148953654935615,0.0428469875376626
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1141216167918602,0.1786259509859848,0.0537778672338657
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.114387292529273,0.1782472463178349,0.0543800224340401
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1149399715821459,0.1791227947312201,0.0548313136452207
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1154842216393507,0.1795550650864695,0.0554078748331051
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1164392351616049,0.1797651583921864,0.055651190026538
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1180351012193051,0.1815669096191147,0.0560299348436321
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1192263905443303,0.1820811918945134,0.057122158767225
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1207212385963002,0.1848806457060822,0.0576120612450034
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1218845932803378,0.1865979618776796,0.0578550296489568
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1231264122031365,0.1892179291533796,0.0580859268063106
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.092566260427841,0.1441376549763535,0.0438725723768013
+1,Deaths,34,Azerbaijan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0879666722888456,0.1394346457739295,0.0417959979881556
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0837413480721634,0.1334545909980711,0.0387552964518884
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0819360829823527,0.1323381234945427,0.0370717400760972
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.081089158850432,0.1310736530205947,0.0361023638695641
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0806792347234559,0.130596826425037,0.0353964644633859
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0806150976562599,0.130351673893601,0.0346397022573367
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0806534506556384,0.1308707297518929,0.0345785764121404
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0805800530817438,0.1302047074388999,0.0339473121515155
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0803311183982745,0.1302270948965302,0.0330004870255351
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0809937075002708,0.1319499113551213,0.0332887082885426
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.081343617184501,0.1328492460414566,0.0333791873733087
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0687792470299778,0.1120205755092938,0.0285148629462394
+1,Deaths,36,Kazakhstan,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.05919248659367,0.0974672304692435,0.0240988534886197
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1047156516315952,0.1633358164690637,0.0477149045600015
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1052492219663904,0.1647951241012249,0.0475117890983646
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1058905861420645,0.1665317180003924,0.0476422200775711
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1066647322044828,0.1679765778529571,0.0477851270864823
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1074772288812178,0.1693384140450695,0.0481435142264829
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1082062222902033,0.1695926864638461,0.048382707394272
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.108257110407669,0.1703465634815977,0.0484748845324956
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1089317753701036,0.1720169223806939,0.0485882156255646
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.109318425293406,0.1727395918195481,0.0485197983514485
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1103216450735006,0.1743968456226188,0.049070514852331
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0971986402548634,0.1534457813942437,0.0431137316503707
+1,Deaths,44,Bosnia and Herzegovina,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0875622587979978,0.1383662633684479,0.0383147628925858
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0828028181987835,0.1389057657827469,0.0359943675482593
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0833712964230156,0.1403239160865594,0.0359510032241868
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0839515836665028,0.1411726656228888,0.0362332516336796
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0847994313675539,0.142721987349577,0.0363977800564844
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0855528552994015,0.1435196491451207,0.0366916824967467
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.086281555653315,0.1451145282614998,0.0370395571657421
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.086925188977845,0.1456506236453329,0.0375109448053858
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0875294485445815,0.1473349759492181,0.0379231863913053
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0879131578763839,0.148826914716768,0.0379059554672134
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0881011179797501,0.1487951173499822,0.0375385013714374
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0741292725097752,0.1239537200272224,0.0315469183089487
+1,Deaths,43,Albania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0692156221423722,0.1169153054787308,0.029606659382119
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1043365520089564,0.1631639036248398,0.0523482445041786
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1030911973458409,0.1611547548410385,0.0514665273491691
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1031910329842022,0.1609402973252759,0.0513282950366771
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1045119919862758,0.1628594614282607,0.0525855302121078
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1043396170179152,0.1632459742372708,0.0521511242988363
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1063995544478451,0.166774836313237,0.0535088860358326
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1060395226477416,0.1679524904806805,0.05169243662392
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1065019977066687,0.1691358330970889,0.0503297209336644
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1070124350905085,0.1701045766313956,0.0506180656523888
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1076797940421985,0.1714215862936107,0.0507558840533462
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0991786219524795,0.1580467546976135,0.0471038470340644
+1,Deaths,46,Croatia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.091753964101603,0.1457149164816557,0.0426394037943594
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1090766496041042,0.1642290751353643,0.0561638112257531
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1105998353369959,0.1660007148228247,0.0578931107641529
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1116124988053095,0.1671515372188687,0.0590520560427619
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1133536525887912,0.1692435835482622,0.0605803334858241
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.114779042810524,0.1708414941409582,0.0620314886789126
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1174110361117264,0.1736323835450885,0.0645032484040997
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1209743547008069,0.1778383432867653,0.0668731317272823
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1221400869736652,0.1797217341739868,0.067356476900597
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1221322703278166,0.1802630389490059,0.0672288204346604
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1222870466211771,0.1817397675342049,0.0672699512637209
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1126842973168305,0.1700085297038884,0.0623068052686175
+1,Deaths,48,Hungary,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.098319257460444,0.1497504575749355,0.0512867680220431
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0982382732168732,0.1632459235029488,0.0382382329057343
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1004534075352316,0.1654398225350446,0.0396017522126666
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1018533174631417,0.1663938447607823,0.0405044740656358
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1054995801674758,0.171020068690791,0.0427243968799665
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1063774102428548,0.1723855202235649,0.0434755330918505
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1071227022734743,0.1734029948943417,0.0440341761127196
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1078859513031709,0.174284888008471,0.0447608487264921
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1087855457481396,0.1751083328920878,0.0460814239022835
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1106262279600659,0.1779920775295861,0.0480052758067325
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1116549466176639,0.1789861942177152,0.0490523076927644
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0987332485327858,0.1587332566303278,0.0441007760454488
+1,Deaths,47,Czechia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0912069946818004,0.1484578258006665,0.0384012600353756
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1510592113584759,0.2143385613962603,0.0976616658626682
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1528333442451684,0.216660121017186,0.098551746973399
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1503942067231428,0.2140661269695388,0.0964377783337774
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1496838511012901,0.2130820918649243,0.095823975974997
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1516530086054503,0.2155610447234863,0.0973267595681412
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1530550891383816,0.2176136470257681,0.0981804194418256
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1562619819893425,0.220533387285598,0.1002780751092275
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1555406052323306,0.2192511039187431,0.0996342291892174
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1552132571750559,0.2187591377537855,0.0988421266058254
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1555765362295054,0.2194008433119238,0.0988764897212013
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1354310750504311,0.1907481119538706,0.0863760172653821
+1,Deaths,45,Bulgaria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.1114376839619684,0.1607901258409926,0.0698689417808955
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1080299338148706,0.1738229548761792,0.0448372797237427
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1085598780496044,0.1748978828793832,0.0452926827642431
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1088530459043607,0.1749854208841667,0.0454670333529915
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1093873358733031,0.1754916026025662,0.0458793661705315
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.110345241148112,0.1769480652914966,0.0462267359946748
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1114354269291926,0.1779122812774507,0.0468806873261606
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1121293472539669,0.1798453017360282,0.0474395074259227
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1125747974929507,0.1804635033820497,0.0478637322217307
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.113289884594279,0.181026777551061,0.0484077180277977
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1138252726892982,0.181239049558309,0.0487237190920219
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1007884476249047,0.1631314032178248,0.0437673668611291
+1,Deaths,50,Montenegro,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0824714595687943,0.1342529998729218,0.0359712806901993
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1193916386528697,0.1830370040578336,0.0595781708220314
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1202561046648814,0.184797460454779,0.0602542713902214
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1212165991577232,0.1862263254824916,0.0621443154809012
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1216863365440871,0.1869082923814326,0.0632961134843037
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1222214688986156,0.1882379889268789,0.0634174959715319
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1229418351334236,0.1889227451977124,0.0634265967386022
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1231666499487199,0.1894658997870166,0.0632798494615203
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1238479057354286,0.1907954065238677,0.0632475917498258
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1243700911706962,0.1920921283641366,0.0633645543454642
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1241081656124615,0.1909153815024679,0.0634641008284043
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0998289098611106,0.153681428678911,0.0502718309654716
+1,Deaths,49,North Macedonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0859087308141948,0.1362018763759172,0.0441876259708462
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0896835057109049,0.1434557434746544,0.0414186189358036
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0896074726494996,0.143317176770538,0.0409584723327397
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0894635258365416,0.1431362494114116,0.0404317818534199
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0891633735042434,0.1427841015092125,0.0398781425498447
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0888716837072925,0.142699114781984,0.0394960634623222
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0905200297809604,0.1442323140783297,0.0409323669477915
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0912693695536594,0.1454940437166094,0.0416042460987246
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0925313583439509,0.1472294714854816,0.0428974748461058
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.094141444634829,0.1495325339755761,0.0444175997643427
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0952002178093179,0.1511958947069502,0.0451615115233176
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0827373632258119,0.1297262907156113,0.0391038552499284
+1,Deaths,51,Poland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0769296058152431,0.1223000629757078,0.0349971979328715
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1043396658561586,0.156951101020582,0.0580586068227974
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1048249801665801,0.1577005809967586,0.0585707356577367
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1052720252492856,0.1580015318129914,0.0587446063117293
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1051537171887275,0.1581261424166297,0.0579346881627429
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1052035717109081,0.1586543763748024,0.0578134338876399
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.105967889480905,0.1595440756165282,0.0582149722399755
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1055573642460641,0.1592126215958895,0.0578479156655363
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1058636665290893,0.1600627722540554,0.0580916924876642
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1062092646098168,0.1604231947299816,0.0582657739873094
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1069843704259388,0.161653359665905,0.0585575859581631
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0942650450166301,0.1426581750338771,0.051408079697004
+1,Deaths,52,Romania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0847245177684199,0.1300932870684461,0.0461805668538888
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1076209033807174,0.1709844885350837,0.0486128494601888
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1083124311679024,0.1717568400734642,0.0490886644283696
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1088735159607919,0.1718755159307999,0.0495879627451545
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1095696027222931,0.1728592498259659,0.0500296318987019
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1100323992797596,0.1735312495974816,0.0498568541396089
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1109878042211195,0.1752038942372322,0.0497151506326317
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1115330117263687,0.1761172002773622,0.0497784200961499
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1123050794053606,0.1775990587809757,0.0499728372286088
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1128842630705237,0.1785761944315292,0.0502697002400703
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1135945216471255,0.1792371389298404,0.0505539845965962
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1047026012229275,0.165572909207422,0.0472154467158532
+1,Deaths,54,Slovakia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0865484780520469,0.1407216715331565,0.0386712214486703
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1082705838574835,0.1691035967176397,0.0551314976454623
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1088262102011869,0.1698268802625857,0.0556690431770965
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1097113777166766,0.1712002007897023,0.0561789987606042
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1106401602069426,0.1726069114648935,0.0563105116909635
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1118463420302261,0.1745519179262104,0.0571943487927823
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.113076464283154,0.1763740769106416,0.057770849841059
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1142459929257335,0.1773350344796701,0.0578263678644212
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1153578287990142,0.1775583225999358,0.0580128639654909
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1162355137097509,0.1788344866612313,0.0581380782190405
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1169454950824296,0.1789264935149214,0.0588461162274667
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.105006911806403,0.161552887492345,0.0519951894804422
+1,Deaths,53,Serbia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0976479640517157,0.1513042743677222,0.0492265185766224
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0922681657627163,0.1404709600642258,0.047411530544168
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0943707654977214,0.1433207519570181,0.0483632516896844
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0957502672975141,0.1446948267370985,0.0486962907747781
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0979550438080998,0.1477467645522461,0.0503033984055938
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0998290741494127,0.1500205946977919,0.0515130671673335
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1001269995286161,0.150687847673782,0.0509744970194749
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1003729746966559,0.1510714339321617,0.0511414999537617
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1013810232140854,0.1518525154839782,0.0512311951537151
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1017799378861347,0.1535654360236327,0.0509669782366673
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1026554080294578,0.154967101161118,0.0509779869611514
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0909592596066812,0.1374708555281495,0.0445045000369321
+1,Deaths,55,Slovenia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0898308304204082,0.1379961378524433,0.0445406898441708
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.090987928794133,0.1552134199864027,0.0334562717951524
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0918564119204268,0.1562758075802065,0.0336268376665749
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0930950483528443,0.1598488966709461,0.033528299960242
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0951718731272833,0.1624030617028541,0.0342514370301056
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0967036740381167,0.1654204348868629,0.0347005020403755
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.097468544690922,0.1665832437142989,0.0345478331821459
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0988914534987691,0.1690073733873232,0.0352544174116514
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1002821032011768,0.1713598469984474,0.035914409910769
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1016947739290755,0.1732001338329224,0.0366509509325102
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1027875213919252,0.1747964415061058,0.0371387434331801
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0875086719040159,0.1495237854567253,0.031362709523684
+1,Deaths,57,Belarus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0778216058626079,0.135278242174974,0.0276093338556973
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1060903080483817,0.1693941101748136,0.047989716801572
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1072724488222711,0.1708922431194759,0.0492071720680056
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.106864482630721,0.1705762015557062,0.0493878819189496
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1071893399278198,0.1705064731157163,0.0503717930299964
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1074060232932592,0.1714241041146775,0.0502018794617107
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1074274981723012,0.1722958145281721,0.0498723074086282
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1082059984094258,0.1729756546765273,0.0504216714310974
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1093565834918046,0.1749092325714021,0.05152639696432
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1100832224825063,0.1751935722894746,0.0525102879854541
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1108685264550965,0.1769594640667586,0.0527405200876236
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1063291775833569,0.1714676864359791,0.0515354319992829
+1,Deaths,59,Latvia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0884406402087634,0.1437708300252738,0.0425982243991103
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1370788415245799,0.1939351777469948,0.0867773979648349
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1413325017728959,0.1983639212868939,0.0907661212916273
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1454804941030318,0.2030824358007923,0.0943579109234759
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1508496864060081,0.2098546263523731,0.0956890970104797
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1558183117032396,0.2165828771483107,0.0980007877374944
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1598219932937234,0.2239538526388034,0.0994640259774095
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1625506354800085,0.2266722406733364,0.1002063918277181
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1624293425602077,0.2275850969576164,0.098869249125538
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1616175392354711,0.2259879841957988,0.0976872043422645
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1621660620725843,0.2284240882363702,0.0967071856944426
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1584357914185937,0.2217399138142563,0.0934690234152549
+1,Deaths,58,Estonia,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.1342488992258212,0.1923605644862552,0.0793801831408793
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.1048754660500776,0.1704861282539325,0.0462182233861981
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1074324036305801,0.1745376887192516,0.0475883131300278
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1100392633400862,0.1762404361184106,0.0497845342507617
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.1126874410350688,0.1779827695508103,0.0516645763761918
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1157513424159493,0.1798502592966389,0.0550477574718206
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1199857711265043,0.1834054999354898,0.0599436908033659
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1232837701684138,0.1867999324350895,0.0633219938729695
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1260728810774305,0.1916299441816135,0.0648875345640077
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1271312015398961,0.1927551458986908,0.0656252152089458
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1276994093119886,0.1936722642041631,0.0660592867492095
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1152649696982559,0.1746900974579683,0.0580230458983307
+1,Deaths,61,Republic of Moldova,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.1035781403848669,0.1562862117449768,0.0522311220591689
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0999011901234267,0.165868103890676,0.0388723304073549
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.1003337037718534,0.1662755740956777,0.0390501137937922
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.1008245584830314,0.1666235067035805,0.0393869986708107
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.102247280267728,0.16889123172449,0.0400576166837076
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.1026943965880858,0.1696887847373105,0.0398420413027826
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.1050150389538488,0.1731278334581472,0.0406823127960499
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.1062463829326417,0.1742144057932355,0.0412620807275125
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.1063001885487058,0.1752756401448815,0.0414213379995856
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1066688022655269,0.175153505673458,0.0417209872903333
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1073262874782466,0.1750493118769338,0.041808718179419
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.1021248556911316,0.1658231238944795,0.0397453994973791
+1,Deaths,63,Ukraine,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.088469956368065,0.1465893989307982,0.0340940765796546
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0924231073647845,0.1533222096575688,0.0371924037070012
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0940222402737891,0.1554181281499682,0.0376079872669357
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0946895568557708,0.1562974709763646,0.0379586922768632
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0949154319947709,0.1566164865809371,0.0380326499557144
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0960515103938503,0.158451528017799,0.0384819817387032
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0977069938171042,0.1602279930914444,0.0393082515670921
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0988025432611248,0.1611040682883234,0.0399401645638732
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.101528838278846,0.165059365502849,0.0420737190934952
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.1033617837304195,0.1679312833857081,0.0434503069468793
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.1051690300810461,0.1700320313322663,0.0445098095012377
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0932170543061951,0.1539261316109708,0.0399111746356909
+1,Deaths,60,Lithuania,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0848991862490323,0.1408962580787744,0.0358038274218859
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0696797644572097,0.1130025559015203,0.0334837844092492
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.070983434062247,0.1151315804443669,0.0337649527498288
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0722198018930648,0.1165884027453525,0.03398853211273
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0731957684977593,0.1176124055987731,0.0343583663282721
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0740955640856375,0.1189548257293858,0.0347593178012656
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0748585871409123,0.1200306033668805,0.0348698936046097
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.075812713948398,0.1214690815314187,0.0351431755953894
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.076984317072592,0.1241456826278661,0.0356233023979368
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0778773168330214,0.1257149153477677,0.0358215770068857
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0785412448151339,0.1263826198376323,0.035808544531461
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0677120954712916,0.110163084509262,0.0313839454609816
+1,Deaths,74,Andorra,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.068797614613905,0.1135190995756397,0.0318251241364233
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0884516046491204,0.1462887348221371,0.03571646718218
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0903490678385236,0.1496288097346823,0.0362702263274823
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0914354902743777,0.1514058331993349,0.0364214498527688
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.091908932412684,0.1518418960959967,0.0361707438309863
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0926159166192559,0.1523875542131254,0.0361305721419869
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0939802932124228,0.1538887907098354,0.0362600770579617
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0957758247834636,0.1558999458504553,0.0365793735467576
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0973247646897512,0.1579344842003308,0.0366618555014514
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0985272061031592,0.1597964385580317,0.03685366779713
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0991988721385184,0.1613049483256874,0.0367778549046759
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0834597147938892,0.1373630690978945,0.0311364038014769
+1,Deaths,62,Russian Federation,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0738163656758423,0.1210189493040719,0.0267609843606069
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0571770597701122,0.0946802911850018,0.0207240274138513
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0574361770838546,0.0949488536717357,0.0210480399374274
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0574574333047358,0.0950029976024876,0.0211970726040618
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0578315760074313,0.0952794462497877,0.0215552018892799
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0583380787417117,0.0959458532258249,0.021932189145911
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0584820583866999,0.0964076025666595,0.021896204126846
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0585134097455678,0.0970652924352458,0.0217916525987817
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0582049455425407,0.0976425921189585,0.0214646608085472
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0580887519110068,0.097866439215704,0.021521227464239
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0582604638022151,0.0989132128785672,0.0217706738851107
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0498631037284949,0.085739924764189,0.0188775621135499
+1,Deaths,76,Belgium,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0553528367500264,0.0931650845918734,0.0204793947699501
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0882646877679906,0.139277574397425,0.0429259773492816
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0891634643312851,0.1406396454170132,0.0436195048222379
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0905726122708249,0.1426042647811217,0.0448367542284606
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0920021248239548,0.1441192921904366,0.0460334538734199
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0937433501037381,0.1455491665137864,0.0470148744663524
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0949132372391271,0.1467118689046059,0.0470785289073875
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0949429324456408,0.1476168552480179,0.0474338342625725
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0930832224156933,0.14546399466519,0.0457113201626959
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0926581480653463,0.1451391678490431,0.0453670998869371
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.091480452801173,0.1436621393966199,0.0449025904932753
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0848491304817762,0.1329664086054021,0.0411697960739962
+1,Deaths,75,Austria,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0827957278332311,0.1313969809475054,0.0396390863294409
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0556411735742573,0.0923276530102203,0.020337066136617
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0560905702727274,0.0933900242096411,0.020550989242972
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0563055182733838,0.0940703485177506,0.0206751448893514
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0565548817198099,0.0945954994184259,0.0208097049533254
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0568647246717358,0.0954422249774031,0.0208653728347742
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0574141855806366,0.0963613052714485,0.0210853095531346
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0580446422014025,0.096531881047485,0.0217120672749879
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0580067185771109,0.0963004281043896,0.0219781953315855
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0582157535331732,0.0962889208774514,0.0221588223827455
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0585783077631643,0.0967463343353728,0.0224696846277534
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0578984466150339,0.0959939016420502,0.0222967807158328
+1,Deaths,78,Denmark,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0570398126111799,0.0948736003805335,0.0217919309054621
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0893672861084809,0.1396166564775894,0.043508261178932
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0898628824178054,0.1401373020084433,0.044073426274687
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0905553626300676,0.1406055679862975,0.0445236929519103
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.091516305129454,0.142610985794595,0.0451053644453828
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0920371879245452,0.144577200656912,0.0453252145540781
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0926185057901792,0.1467050994126463,0.0455082966688729
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.092994019363402,0.1475006171950031,0.0458760823320572
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0933932000306964,0.1476647850323016,0.0464350041516716
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0943235118196254,0.149187844433186,0.0470555161307008
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.094656442872032,0.1498975486868881,0.0473399703383523
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0942946972866771,0.1486992963474204,0.0459482372922707
+1,Deaths,77,Cyprus,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0907026110327749,0.1432755011509913,0.0442174255523216
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0605820578629224,0.0990731315004299,0.0242312382078296
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0609677930554438,0.1000153477001568,0.0241944103840536
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0616998405598622,0.101325303368155,0.0245770536060732
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0625537705821961,0.1028851823002092,0.0253786345358661
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0631469756416561,0.1040894891264399,0.0256062901564897
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0635389443363492,0.1049412540154911,0.0258540507205494
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0640184256061248,0.105885357897822,0.0259653459012668
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0647397612226782,0.1076742420222523,0.0264679064419497
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0655923677417852,0.1095604565868542,0.0271779228957662
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0660549415285784,0.1108026901632472,0.0275428242545798
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0603529809335435,0.1001596867825156,0.0249712952462335
+1,Deaths,80,France,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0610966229385852,0.1019930328497732,0.0246383068920587
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0755605368221557,0.127585389332503,0.0307027823145292
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0766707475141493,0.1294329840204514,0.0311741183400754
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0778775603024312,0.1306760441555831,0.0318384759552092
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0793037285914842,0.1320972241707824,0.0328379073587501
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0812517182545684,0.1343276628058015,0.0342383357048646
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0827634757440745,0.1362672047678816,0.0355983887122026
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0836430762713911,0.1368892650454067,0.036495830683371
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0851094403281734,0.1372623989809567,0.0380782839803831
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0862412114817991,0.1379307141596197,0.0395263362773378
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.086587642694804,0.1388171426114089,0.0396454121537464
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0856670965642198,0.136800288712436,0.0398230909869935
+1,Deaths,79,Finland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0842008934822524,0.1356358676660806,0.0391035946742435
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0788163916432858,0.1265461987875027,0.0367541421784974
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0795231118852913,0.127607524196649,0.0369076729697067
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0802583897569747,0.1286003789793799,0.0374705248331811
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0815423497191475,0.1309844656566179,0.0382030767822693
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0831836735007455,0.1338844527374869,0.0387942813432195
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0850403659763308,0.1359189575605591,0.0398657702855098
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0863666584958912,0.1370715580863975,0.0406878756784482
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0877284457847532,0.1394568887742163,0.0409465927079163
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0890574842168754,0.1417637032511302,0.0415593566883516
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0898715245177051,0.143325813077011,0.0417060194863537
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0873017873335689,0.139498451164115,0.0409068772924613
+1,Deaths,82,Greece,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0820487375895677,0.131189523763541,0.038160319267879
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0892858413520644,0.1426687654761294,0.0432718394692886
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0898739870529432,0.1433882076686787,0.0435760858062245
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0907711208882972,0.1451605853873754,0.043938372028789
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0915780603280228,0.1461857194846013,0.0443890543049278
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0916206092055941,0.1466276083191437,0.0442457636147308
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0916802759118143,0.1468670056249953,0.0440719315285242
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0912633804433874,0.1465921104596943,0.0434824891581995
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.090946263723472,0.1462665252545863,0.0429745666060158
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0902719336660092,0.1463231063418963,0.0421854924037021
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0899818186723493,0.1468486706044434,0.0414022068718312
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0874304617603726,0.1426051081764202,0.040311596027886
+1,Deaths,81,Germany,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0844204037571857,0.1377539287113187,0.038868296230579
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0657527435544829,0.111166430153464,0.0237044872352444
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.065995190506154,0.1118611309348488,0.023764121752545
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0670533781436693,0.113589910613254,0.0243768109234503
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0677995646741695,0.114765248347867,0.0245654727645632
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.067199548580675,0.1139637490059994,0.0244643326361089
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0678520812621385,0.1145258701519465,0.0250245979317103
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0682781157045199,0.1144215893210443,0.0251216837486657
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0684680995469178,0.1151309607318307,0.0248661541976345
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.068845781819319,0.1156393565468116,0.0250706883650363
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0690280124237331,0.1167771866006157,0.0251825680249748
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0648474514440813,0.1090163762891151,0.0233081370707443
+1,Deaths,84,Ireland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.062571008708922,0.1055294990343694,0.0221068876400817
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0700272176635823,0.1196241832677107,0.0261746613607783
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0702471894888561,0.1197696661098945,0.0259338525949239
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0710817056028753,0.1206525982887252,0.0265953475004447
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0715201832734515,0.1206980452215309,0.0268920152714871
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0720539670414486,0.1212159003679745,0.0268623878804424
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0717809129087349,0.1206805205199458,0.0267426928178243
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0712762617010352,0.1201049992302518,0.0264638810836388
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0709553964760299,0.1208821053327273,0.0258490145023218
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0710363340178318,0.120982876520089,0.025827832620052
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0719388804373492,0.1217650713877031,0.0260774668169954
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0716994634067461,0.1234273657354901,0.0255884857023355
+1,Deaths,83,Iceland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0723929446578594,0.1242873043466734,0.0257844192763119
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.084614988768655,0.1356024621734162,0.0398743924187496
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0857995146322223,0.1376930663967993,0.040453447186134
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0868766360719798,0.1395913667804086,0.0411044732121778
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0876328040798294,0.1411161094148306,0.0414880830783697
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0882505104312659,0.1422933975698474,0.0416116988336207
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.089652669263506,0.144127049680194,0.0422246992754104
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0899694812112463,0.1435791638589806,0.0421731641600841
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0908247635599142,0.1445729528358117,0.0423564289785712
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0916450327588113,0.1460844322639466,0.042781901428566
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0928704956827582,0.1481537624553997,0.0431846768524351
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.081743887552671,0.1301777033801685,0.0374645934836737
+1,Deaths,86,Italy,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0864115780969051,0.1376112760536987,0.0399052093718892
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0937838237637727,0.1503426401837376,0.0382545428870885
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0935525974752185,0.1505048575265411,0.0380972845430743
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0937761703288382,0.1504981650701732,0.0382485720439569
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0940478056504501,0.1513099088733471,0.0385343603497616
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0920543324114106,0.1480869571219986,0.0379827035420418
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0946720648832408,0.1520688136569756,0.0388324820773929
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0945358985696919,0.1516821130001596,0.0388269492026622
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0942923985230972,0.1514893944638374,0.0382422762197342
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0940123512771383,0.1519394582654923,0.0378772799551731
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.094933275125913,0.1536955346428115,0.0381837054340405
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0892708189189534,0.1447860610631657,0.0358633189667452
+1,Deaths,85,Israel,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0870893138577254,0.1407982987044607,0.0349711256404408
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0701877871674836,0.1125181601477166,0.0304701418807539
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0708575118574508,0.1134972954463443,0.030902072584613
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.071272882129113,0.114297475862388,0.0314598283598628
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0732294860234616,0.1166823664249067,0.0331562810011433
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0740696540728683,0.1175000009855837,0.0336950841934115
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0747003385796191,0.1186180918957961,0.0343456356988088
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0744236640808376,0.1185621719115896,0.0338425666742784
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.075155551944504,0.1199859049192855,0.0338146518510242
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0757598799424466,0.120587138913936,0.0340740367485899
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0758659818745142,0.1225655905811023,0.0339463711857076
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0686078516342141,0.1119583183907271,0.0297784723250003
+1,Deaths,87,Luxembourg,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0700352428466214,0.1134450824902268,0.0306649909189161
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0578199211078616,0.0979505907184207,0.0219776919765089
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0581649665750804,0.098696670259022,0.0222299101014629
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0585212155839448,0.0992647408803386,0.0223127997971788
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0596541430988354,0.1012030259089874,0.0227674574544587
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0603199002172993,0.101975488654221,0.0230568885191025
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0603040891701644,0.1014304421867847,0.0229945153465968
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0603166726613059,0.1017795615907554,0.0229211245086521
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0598793612143161,0.1011354936218372,0.0226312766778031
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0594089977544088,0.1008688157797752,0.0222998549815191
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0596871526223657,0.1009118886286494,0.0222485969539421
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0551200273474682,0.0930723147304484,0.0206238712827675
+1,Deaths,89,Netherlands,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0556492349043799,0.0937563650248232,0.020748722354577
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0827620109806148,0.1340430370437234,0.034968983685436
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0823867835078275,0.1342063719840667,0.0346433863237001
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0829075395528108,0.1352935712822817,0.0350678908639628
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0842009179478979,0.1369340260072388,0.0359753447583046
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0857360559225602,0.1399759562116195,0.0365062254121921
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.087092893935269,0.1425935335423087,0.0370485969828872
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.087221349891349,0.1426670768188908,0.0368477984482841
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0871555591175342,0.1423950852963189,0.0367483510373557
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0874903249638018,0.1435631754061361,0.0368310583920094
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0879027428413898,0.1443710810674377,0.0371767709103413
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0838347177360843,0.1365314121568381,0.035420502870073
+1,Deaths,88,Malta,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0850611947095819,0.1389420863678158,0.0362035851248845
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0768434063313688,0.1272744892687587,0.033406125480313
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0769909757254936,0.1274252878881289,0.0331119274800823
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0773089987623168,0.1282337225622304,0.0330502754954543
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0777072511018616,0.1292245970696154,0.0331104570111494
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0782968059041936,0.1298899413263505,0.0332582213778257
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0784646654293413,0.1296565262200686,0.0329735549109489
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0787121290042247,0.1301828655613195,0.0327712463858563
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0790874550915634,0.1309902425141032,0.0329117679726062
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0802502798138125,0.1324060876362479,0.0335190595936907
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0812723618261235,0.1340264824486161,0.0340133126108568
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.075385453620543,0.1232228433025116,0.0322009242476534
+1,Deaths,91,Portugal,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.075420894826522,0.1240155874923118,0.0318337282269924
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0523358069455303,0.0888384420106862,0.0184383196192137
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0521590945781744,0.0886712665578299,0.0186255259024581
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0523261874378977,0.0891949272489852,0.0188830550976528
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0523476771563103,0.0890377836592758,0.0194511055193272
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0519826987686136,0.0882871002189492,0.019363347099401
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0518097323873841,0.0882208140637586,0.0191315550860248
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0516724269036603,0.0881785132720008,0.0191316743650008
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0514055395288544,0.0880650698146099,0.018997535204016
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0512141326777069,0.0879341597924479,0.0189441802485373
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0519974156249405,0.0893294185852394,0.019351561023907
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0520113513668728,0.0890718564524323,0.0193137378362502
+1,Deaths,90,Norway,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0518225574658352,0.089293580696984,0.0191381136228215
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0692493747320885,0.1140554935695902,0.0288373608508311
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0694027716491409,0.1142966108583307,0.0292951063434394
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0694322354190064,0.113967088389785,0.0298378178667265
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0704455044687883,0.1147750953571366,0.0304987771009824
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0711692416765866,0.1160265889507285,0.0309853864383685
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0718931377987944,0.117654829495125,0.0312771865663549
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0729455689418578,0.1195882845427368,0.0318412940142587
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0735525653106211,0.1201538909646107,0.0323092599533941
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0728386069148944,0.120015784802339,0.0316462503541683
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0728241726367924,0.1201569105013371,0.0314270990998627
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0661699002158954,0.1099346843201631,0.0278760843143531
+1,Deaths,93,Sweden,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0700207142085818,0.1163363945466849,0.0299293515873486
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.082656767721776,0.1361333314053751,0.0343499912233265
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0831089983413006,0.1359900262199968,0.0344235209103096
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0832190668356391,0.1357469402281292,0.0343784821996571
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0842964635226996,0.1368557889411281,0.0351399180338307
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0846583162950784,0.1376536523856392,0.0353568482976476
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0848553259982651,0.1379494877629237,0.0356792419329969
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0853765693638091,0.1385857514026844,0.0356257324692399
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0858645497373514,0.1393790355662504,0.0355891610790165
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0868168075046785,0.1414599545999688,0.0356212251152156
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0876525490382253,0.1426191146450249,0.036039733402118
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0766800483800839,0.1248251887655184,0.0317083779827907
+1,Deaths,92,Spain,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0821711714233666,0.134080126994619,0.0334805343591626
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0708250506313633,0.1117463745509139,0.0325918322370211
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.071354601118451,0.1131283975282164,0.0328616012687412
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0717956411099401,0.11450778127013,0.033009028022583
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0717989899014073,0.1150954417404403,0.0330140927585466
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0717869172437698,0.1152286350873042,0.0329599236117132
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0715799911458676,0.1152539515489814,0.0323583130808899
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.071551521277348,0.1165862297840148,0.032520544543891
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0712662315786409,0.1150561372651163,0.0323505878292787
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0719197546061534,0.1170855010660024,0.03266110665502
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.072620153920115,0.1185685604875304,0.0325860324979183
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0657943354760766,0.1078413328500422,0.0297467909988603
+1,Deaths,94,Switzerland,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0694258089783766,0.1142984758690395,0.0308164829608457
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.064021448497334,0.1105229499887012,0.0214848604867403
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0640874596729884,0.1106947928509853,0.0215427126321947
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0643055766975991,0.1110137337378399,0.0216882302568979
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0644373227180743,0.1111850854639114,0.0218203896041053
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0649394606953613,0.1121123087986371,0.0221074356910099
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.065148200148748,0.112355237413901,0.0222734149206094
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0657888210943506,0.1132482744232743,0.0226948399467544
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.066328981861418,0.1141461852101049,0.0230025513017791
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0668187566416031,0.114872106862027,0.0233122414153387
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0675273179385836,0.1161322717839618,0.0235247651288946
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0586307893940303,0.1009754838154669,0.020402861527474
+1,Deaths,95,United Kingdom,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.058482197516683,0.1001473721197489,0.0200754757442034
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0721980081281635,0.1193244325433969,0.0299932494853113
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0725803222961098,0.119899296638459,0.0303502857191073
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0729078090017414,0.1202006858247935,0.0302704301353251
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0733145127870265,0.1208636158670944,0.0304295468897249
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0736321820447752,0.1214793540748393,0.0303263396771772
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0740894876086774,0.1225908883586518,0.0303928776370781
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0744445245472363,0.1239273985708035,0.0306533516763223
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0748722937289397,0.1255001040286003,0.030733431970807
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0752473607510175,0.1263381042177404,0.0308609752889352
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0755543556428421,0.1273966824927437,0.0306796200099263
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0735640069878286,0.1224208192070379,0.02976393962991
+1,Deaths,367,Monaco,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0656168882641322,0.110177172137941,0.026653593366297
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2010,0.0699989832811789,0.1171463590695441,0.0295317724924247
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2011,0.0709263741412011,0.1181641959425414,0.0299376140877702
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2012,0.0717585313478795,0.1189133983614798,0.030203444893217
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2013,0.0725323363676947,0.1196555196838441,0.0305960930326876
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2014,0.0737450406614523,0.1210918314016166,0.0314650532639989
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2015,0.0746596096471954,0.1223640810336168,0.0320171270029097
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2016,0.0753447210358601,0.1235844343271846,0.032151998476576
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2017,0.0759785389701526,0.1245248758146496,0.0326173902813088
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2018,0.0764273867729396,0.125208840568945,0.0328357135452356
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2019,0.0769610955429628,0.1267375620117074,0.0331142342953269
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2020,0.0630879895458487,0.1079699121739148,0.0243269507476514
+1,Deaths,396,San Marino,3,Both,37,20+ years,294,All causes,108,High body-mass index,2,Percent,2021,0.0669930962312559,0.1141014997966071,0.0253627951520614
