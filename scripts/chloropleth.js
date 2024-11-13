@@ -87,7 +87,7 @@ function init() {
 
     var colorScale = d3.scaleSequential()
                         .domain([0, 100])
-                        .interpolator(d3.interpolateRgb("#B3FF5E", "#009E5B")); //Color choice
+                        .interpolator(d3.interpolateRgb("#FF9900", "#FF00FF")); //Color choice
 
     //Hide tooltip when drawing the map
     function resetTooltip() {
