@@ -20,18 +20,13 @@ body {
     width: 35%; /* Adjust width as needed */
     line-height: 1.6;
   }
-  
-  #text-content h2 {
-    font-size: 18px;
-    font-weight: bold;
-  }
 
-  #text-content h3 {
+h3 {
     font-size: 14px;
     font-weight: bold;
   }
   
-  #text-content p {
+p {
     margin: 8px 0;
   }
 
@@ -49,4 +44,8 @@ body {
     box-sizing: border-box; /* Ensures padding is included in the width */
 }
 
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
   

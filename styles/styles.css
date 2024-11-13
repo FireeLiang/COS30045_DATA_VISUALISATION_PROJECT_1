@@ -299,3 +299,9 @@ a:hover {
     height: 95vh; /* Increased height to allow more content display */
     box-sizing: border-box;
 }
+
+.section_bubble_chart {
+    flex: 1; /* Makes both sections take equal width */
+    height: 100vh; /* Increased height to allow more content display */
+    box-sizing: border-box;
+}
