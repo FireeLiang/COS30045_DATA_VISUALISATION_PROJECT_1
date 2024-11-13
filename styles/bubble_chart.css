@@ -1,0 +1,135 @@
+/* Main container styling */
+.container {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+
+/* Control panel styling */
+.controls {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Advanced styling for the slider */
+.slider-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#yearSlider {
+    -webkit-appearance: none;
+    width: 200px;
+    height: 8px;
+    background: #d3d3d3;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#yearSlider:hover {
+    background: #b3b3b3;
+}
+
+#yearSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    background: #4CAF50;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#yearSlider::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: #4CAF50;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#yearValue {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #4CAF50;
+}
+
+/* Advanced styling for the dropdown */
+.dropdown-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#regionSelect {
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    font-size: 1em;
+    color: #333;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+#regionSelect:hover {
+    background-color: #e9e9e9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Content layout */
+.content {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+}
+
+/* Visualization (chart) styling */
+#my_dataviz {
+    flex: 3;
+    padding: 10px;
+}
+
+/* Table styling */
+#infoTable {
+    flex: 1;
+    padding: 10px;
+}
+
+#infoTable table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+
+#infoTable th, #infoTable td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+#infoTable th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.bubbles {
+    stroke-width: 2px;
+    stroke: white;
+}
+
+.bubbles:hover {
+    stroke: black;
+}
+
+/* Tooltip styling */
+.tooltip {
+    position: absolute;
+    pointer-events: none;
+}

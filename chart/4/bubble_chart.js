@@ -1,5 +1,5 @@
 // Set the dimensions and margins of the graph
-const margin = { top: 50, right: 20, bottom: 30, left: 50 },
+const margin = { top: 50, right: 20, bottom: 80, left: 50 }, // Increased bottom margin for legend space
     width = 1000 - margin.left - margin.right,
     height = 620 - margin.top - margin.bottom;
 
@@ -17,6 +17,7 @@ const svg = d3.select("#my_dataviz")
                 svg.selectAll(".bubbles").attr("transform", transform);
                 xAxis.call(d3.axisBottom(x).scale(transform.rescaleX(x)).ticks(25, "s"));
                 yAxis.call(d3.axisLeft(y).scale(transform.rescaleY(y)));
+                xAxis.raise(); // Ensure x-axis stays on top during zoom
             })
     )
     .append("g")
@@ -31,7 +32,9 @@ svg.append("rect")
 
 // Define scales and axes
 const x = d3.scaleLinear().domain([0, 50]).range([0, width]);
-const xAxis = svg.append("g").attr("transform", `translate(0, ${height})`).call(d3.axisBottom(x).ticks(25, "s"));
+const xAxis = svg.append("g")
+    .attr("transform", `translate(0, ${height})`)
+    .call(d3.axisBottom(x).ticks(25, "s"));
 
 const y = d3.scaleLinear().domain([0, 20]).range([height, 0]);
 const yAxis = svg.append("g").call(d3.axisLeft(y));
@@ -133,5 +136,33 @@ d3.csv("../data/bubble_chart/upload_with_regions.csv").then(function(data) {
     d3.select("#regionSelect").on("change", function() {
         selectedRegion = this.value;
         render();
+    });
+
+    // Add a legend for the regions below the x-axis
+    const legend = svg.append("g")
+        .attr("class", "legend")
+        .attr("transform", `translate(${width / 2 - 400}, ${height + 50})`); // Centered below the x-axis
+
+    const regions = ["Eastern Europe", "Western Europe", "Northern Europe", "Southern Europe", "Central Europe"];
+
+    // Create a legend item for each region
+    regions.forEach((region, i) => {
+        const legendRow = legend.append("g")
+            .attr("transform", `translate(${i * 180}, 0)`); // Space each item horizontally
+
+        // Add colored circle for each region
+        legendRow.append("circle")
+            .attr("cx", 0)
+            .attr("cy", 0)
+            .attr("r", 8)
+            .style("fill", myColor(region));
+
+        // Add text label for each region
+        legendRow.append("text")
+            .attr("x", 20)
+            .attr("y", 0)
+            .attr("text-anchor", "start")
+            .style("alignment-baseline", "middle")
+            .text(region);
     });
 });
