@@ -9,6 +9,26 @@
 
 <body>
 <div class="container">
+    <div class="controls">
+        <div class="slider-container">
+            <label for="yearSlider">Select Year:</label>
+            <input type="range" min="2010" max="2020" value="2010" step="1" id="yearSlider">
+            <span id="yearValue">2010</span>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="regionSelect">Filter by Region:</label>
+            <select id="regionSelect">
+                <option value="All">All Regions</option>
+                <option value="Eastern Europe">Eastern Europe</option>
+                <option value="Western Europe">Western Europe</option>
+                <option value="Northern Europe">Northern Europe</option>
+                <option value="Southern Europe">Southern Europe</option>
+                <option value="Central Europe">Central Europe</option>
+            </select>
+        </div>
+    </div>
+
     <div class="content">
         <!-- Div for the visualization -->
         <div id="my_dataviz"></div>
@@ -33,34 +53,8 @@
                     </tr>
                 </tbody>
             </table>
-            <br>
-            <span>Bubble = Population</span>
         </div>
     </div>
-
-    <div class="controls">
-      <div id="infoTable">
-      <div class="slider-container">
-          <label for="yearSlider">Select Year:</label>
-          <input type="range" min="2010" max="2020" value="2010" step="1" id="yearSlider">
-          <span id="yearValue">2010</span>
-      </div>
-    </div>
-
-      <div class="dropdown-container">
-        <div id="infoTable">
-          <label for="regionSelect">Filter by Region:</label>
-          <select id="regionSelect">
-              <option value="All">All Regions</option>
-              <option value="Eastern Europe">Eastern Europe</option>
-              <option value="Western Europe">Western Europe</option>
-              <option value="Northern Europe">Northern Europe</option>
-              <option value="Southern Europe">Southern Europe</option>
-              <option value="Central Europe">Central Europe</option>
-          </select>
-      </div>
-    </div>
-  </div>
 </div>
 
 <script src="../chart/4/bubble_chart.js"></script>

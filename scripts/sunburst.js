@@ -28,7 +28,7 @@ d3.json("../scripts/sunburst_data.json").then(data => {
     .outerRadius(d => Math.max(d.y0 * radius, d.y1 * radius - 1));
 
   const svg = d3.create("svg")
-    .attr("viewBox", [-width / 2, -width / 2, width, width]) // Centered viewBox
+    .attr("viewBox", [-width / 2, -width / 2 + 100, width, width - 200]) // Centered viewBox
     .style("font", "5px sans-serif"); // Set smaller font size for better readability
 
   const g = svg.append("g");
@@ -117,3 +117,4 @@ d3.json("../scripts/sunburst_data.json").then(data => {
 
   return svg.node();
 }
+
