@@ -1,0 +1,123 @@
+ {
+    "name": "Responses",
+    "children": [
+        {
+            "name": "Yes",
+            "children": [
+                {
+                    "name": "Eastern Europe",
+                    "children": [
+                        {"name": "Armenia", "value": 1},
+                        {"name": "Belarus", "value": 1},
+                        {"name": "Bulgaria", "value": 1},
+                        {"name": "Czech Republic", "value": 1},
+                        {"name": "Georgia", "value": 1},
+                        {"name": "Hungary", "value": 1},
+                        {"name": "Kazakhstan", "value": 1},
+                        {"name": "Moldova", "value": 1},
+                        {"name": "Romania", "value": 1},
+                        {"name": "Russia", "value": 1},
+                        {"name": "Turkmenistan", "value": 1},
+                        {"name": "Ukraine", "value": 1},
+                        {"name": "Uzbekistan", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Northern Europe",
+                    "children": [
+                        {"name": "Denmark", "value": 1},
+                        {"name": "Estonia", "value": 1},
+                        {"name": "Finland", "value": 1},
+                        {"name": "Iceland", "value": 1},
+                        {"name": "Republic of Ireland", "value": 1},
+                        {"name": "Lithuania", "value": 1},
+                        {"name": "Norway", "value": 1},
+                        {"name": "United Kingdom", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Southern Europe",
+                    "children": [
+                        {"name": "Albania", "value": 1},
+                        {"name": "Bosnia and Herzegovina", "value": 1},
+                        {"name": "Israel", "value": 1},
+                        {"name": "Italy", "value": 1},
+                        {"name": "Portugal", "value": 1},
+                        {"name": "Serbia", "value": 1},
+                        {"name": "Slovenia", "value": 1},
+                        {"name": "Spain", "value": 1},
+                        {"name": "Turkey", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Western Europe",
+                    "children": [
+                        {"name": "France", "value": 1},
+                        {"name": "Germany", "value": 1},
+                        {"name": "Netherlands", "value": 1},
+                        {"name": "Switzerland", "value": 1}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "No",
+            "children": [
+                {
+                    "name": "Eastern Europe",
+                    "children": [
+                        {"name": "Azerbaijan", "value": 1},
+                        {"name": "Kyrgyzstan", "value": 1},
+                        {"name": "Poland", "value": 1},
+                        {"name": "Slovakia", "value": 1},
+                        {"name": "Tajikistan", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Northern Europe",
+                    "children": [
+                        {"name": "Latvia", "value": 1},
+                        {"name": "Sweden", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Southern Europe",
+                    "children": [
+                        {"name": "Andorra", "value": 1},
+                        {"name": "Croatia", "value": 1},
+                        {"name": "Greece", "value": 1},
+                        {"name": "Malta", "value": 1},
+                        {"name": "Montenegro", "value": 1},
+                        {"name": "North Macedonia", "value": 1},
+                        {"name": "San Marino", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Western Europe",
+                    "children": [
+                        {"name": "Austria", "value": 1},
+                        {"name": "Luxembourg", "value": 1},
+                        {"name": "Monaco", "value": 1}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Don't know",
+            "children": [
+                {
+                    "name": "Southern Europe",
+                    "children": [
+                        {"name": "Cyprus", "value": 1}
+                    ]
+                },
+                {
+                    "name": "Western Europe",
+                    "children": [
+                        {"name": "Belgium", "value": 1}
+                    ]
+                }
+            ]
+        }
+    ]
+}
