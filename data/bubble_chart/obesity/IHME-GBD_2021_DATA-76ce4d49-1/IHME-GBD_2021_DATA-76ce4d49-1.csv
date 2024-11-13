@@ -1,0 +1,577 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,26.183533774041802,31.113218496572692,21.72569326882261
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,29.26052961002888,36.35632448185046,23.5697780342072
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,36.301222355439826,42.03125917093817,29.49650913463781
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,32.435322033408234,37.71706015941122,27.14737814759755
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,29.424859719122033,35.728078880235195,23.49608252824059
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,33.08525489506002,38.59693507137112,26.35851193039561
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,24.72480553232716,30.58537574389564,21.05498292847663
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,28.54005977762919,35.15873980835188,23.49478302324097
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,25.885523765449868,31.444379881092548,21.84712714037734
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,26.10197064600187,32.14143871285512,21.88074739798668
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,26.38297814860043,32.352057165345386,21.96607745277467
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,27.67835886365924,32.898153841514535,22.47054188580413
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,31.80025003870285,38.04531652230294,26.350454911102823
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,31.324778330243053,37.45939037391614,24.79209316034986
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,31.98411929366371,37.7796827389012,25.35034391729285
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,32.84722214333364,38.94695038241895,27.31170751926979
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,30.80173573087462,36.65928678855076,25.72339835246072
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,24.7410296252809,30.972045456553786,20.470691785772
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,25.43005423638235,30.920533491782443,21.62117434728833
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,30.742780633161548,38.14145877305147,25.106802635466757
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,23.852030990540328,29.663689225799413,19.866175190184972
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,25.08028060322095,30.670129100242686,21.52283995063418
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,21.59193584626975,25.922057826252136,18.75763818191247
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,31.54029177084503,38.97305166907552,25.73905881758995
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,26.44080937580685,31.304676372646277,21.97702306477424
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,29.622555290016123,36.77107104976188,23.81236949729045
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,36.62756007969049,42.49965626970286,29.806403416338068
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,32.91219383595907,38.20124131299283,27.51633762797111
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,29.88000653198018,36.19733441644862,23.859882769670122
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,33.60875887481174,39.13750249433132,26.75661590631056
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,25.12199680203378,31.06905154969794,21.4543305829594
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,28.71173675884206,35.35183335149493,23.60683209666091
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,26.106469980187917,31.677172213559253,22.052005516294578
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,26.38100042883675,32.48472164375775,22.08821743151697
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,26.60284787370435,32.61369734969334,22.20649629655697
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,27.869502323899443,33.08277351481132,22.60736804157964
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,32.09638066663209,38.29394069576288,26.53238795490438
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,31.67588431562513,37.81011233593941,25.025273206339136
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,32.444663510827944,38.26907575624874,25.761849917307327
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,33.183106948401445,39.19837849325928,27.59640269676812
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,31.281128748722182,37.23616211814992,26.04940484212092
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,26.70726775575935,31.56832983080363,22.19693381996978
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,30.02078959894763,37.36710477525691,24.07634478875566
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,24.98799983267251,31.27497724490233,20.6790216298539
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,36.965649053193914,42.87723022702728,30.1053904295483
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,25.68308933774206,31.23571937077726,21.86886330002376
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,33.399125110057845,38.79660638943496,27.8058794558308
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,31.10853114346524,38.55762479722914,25.29664970000345
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,24.08764680290583,29.950630117967346,20.02138486150215
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,30.36258733899786,36.75294839700566,24.12025947969145
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,25.25290693238338,30.89174079332457,21.70472912048868
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,34.1754295657246,39.75338787333685,27.182782115013147
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,21.76860571286425,26.122556287772408,18.97870006140002
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,25.531731684622223,31.459221639581298,21.777675027730663
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,28.904763473516997,35.55595367698544,23.7753524059058
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,26.32847270300371,32.004594425837915,22.25404567656813
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,26.66376881448538,32.84722335724104,22.31944045369663
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,26.829582726932422,32.85520527508365,22.50479292168423
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,31.86882291055056,39.32024025193161,25.97997184008922
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,26.944520399840897,33.191737697823996,22.57753738988981
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,27.06665489241052,33.14774527200551,22.68323037951696
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,26.99114130386774,31.76893299080643,22.32980858309429
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,30.42659293295511,37.88210548468571,24.32918804558383
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,37.31034979613278,43.16479952948024,30.39803578449845
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,33.87676991935986,39.45316324661049,28.18636708285081
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,30.87023540538824,37.32172850460716,24.49752037872484
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,34.76244136276408,40.40174300758694,27.652914638711714
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,25.949713535532098,31.853450982741847,22.11380592816533
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,29.103594880716848,35.77189153557022,23.918014581378742
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,26.560559249832988,32.36438343406776,22.44259966119073
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,27.290732196930573,32.059245228303205,22.46631244447309
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,30.800064970213647,38.3068984129019,24.657860914257988
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,37.66214948517622,43.54169987311815,30.65993519860395
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,34.34361949641585,39.98672222425515,28.57394567116201
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,31.3994644829177,37.89360898711019,24.89481414279125
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,35.352325190723874,41.08081770477543,28.12269613664762
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,26.37054773656457,32.30756984062122,22.41208120784338
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,29.296551018940033,36.056872794233804,24.0819283678541
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,26.804598644304978,32.726881269698886,22.63199204528414
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,27.21980399399279,33.56109510571065,22.79080582116698
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,27.31091975761966,33.51598081905545,22.85539878460389
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,28.0903274611118,33.24377397333955,22.75968555487784
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,32.40184002003192,38.51016799094259,26.7816228675739
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,32.04944024844286,38.16769102508482,25.27710281605166
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,32.913889712638614,38.71978955968161,26.1404161460058
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,33.54989101587732,39.52433987720116,27.91363028802364
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,31.82192607800543,37.94469442572538,26.44419162696718
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,25.31398710640806,31.6875763372162,20.91926895703225
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,25.932581854504832,31.61394365563951,22.09600187019726
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,31.499649150566228,39.034791657775244,25.56394250967754
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,24.357373425732938,30.29434473475328,20.20830627377926
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,25.45821629234511,31.16250246778068,21.9128679379144
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,21.96303916197181,26.381265382089808,19.15710029015947
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,29.08937112853165,35.631721920683916,24.57611959586922
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,32.209516550211184,39.65606916617223,26.2480701681283
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,27.82314885633222,35.01425178029151,21.80411213205075
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,33.17989898297949,40.46973223567462,25.698556425823337
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,29.101483222788886,35.712460422327105,23.58664183016514
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,34.604376549665226,41.384330201954064,28.41534067425162
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,30.508793409386183,37.19221513704408,24.46059682900289
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,26.08199968046047,31.69638795147552,22.343598074814032
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,24.933631645064082,29.962127318344876,21.49881557485707
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,30.26422222720562,37.616183679268936,24.945035077374108
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,27.12090996208365,33.29082070314241,22.58093847145404
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,30.9684158374733,37.73473643507359,25.224496175240517
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,27.59968873086664,32.43003602973863,22.59700292325364
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,31.13404793782842,38.721973614309576,24.95034235625874
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,38.01236212994656,44.03680528797237,30.85899672152713
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,34.80261702543247,40.49156431924321,28.96774095383624
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,31.93417373799013,38.62699062404475,25.26284952218752
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,35.91318559751175,41.661940579175436,28.57927559402369
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,26.787127177651637,32.75979119800392,22.66495128801287
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,29.480432381531642,36.30224073573782,24.17272290462087
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,27.056374498363773,33.04649980513313,22.72836133297064
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,27.48884811294583,33.80254062816065,22.99829651457527
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,27.56673819648647,33.89945828275009,22.98836967389004
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,32.48000753388807,39.2808140745448,25.723054200323332
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,36.45500744129972,42.27211498473793,29.01379413191184
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,27.18921142979968,33.09577799018853,22.99851198182872
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,29.64612755812096,36.60982649630696,24.31388062818186
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,27.30749635588012,33.29124343730477,22.92621899415154
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,27.758311425692373,34.06225905180751,23.15294789558072
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,27.82805204137344,34.26974682518118,23.18338271498409
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,27.9253968020955,32.8297768219912,22.86203910718326
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,31.44914722120127,39.17145196049387,25.09780043449638
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,38.38001482492725,44.448583913507875,31.08469002728907
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,35.21183168311454,40.94646216517215,29.343105470022252
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,28.29090864464114,33.206762610560084,23.23915566370722
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,31.754106817027072,39.54959851055589,25.30337216895613
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,38.79689598787688,44.912420788359356,31.155764129869677
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,35.61056486780073,41.37727479091843,29.84917193525163
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.03662917996945,39.924933778217394,26.112973382929074
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,36.999523694710376,42.84189424397994,29.38787755517089
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,27.601000247343922,33.68914177965317,23.26287839977731
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,29.82176808655556,36.8216041069643,24.47802932543312
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,27.57686887157586,33.6152196766676,23.18339965869294
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,28.03875847939888,34.375311340602806,23.37743052423874
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,28.11469248253217,34.65197491809145,23.42024494838691
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,29.27152310081616,35.88020804717237,24.71442155522502
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,28.16099400883675,35.403458052655616,21.98494219347091
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,33.48622577860832,40.84311177199495,25.95604302445553
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,29.38535387337589,36.0538504153486,23.77459551565303
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,35.00480335215046,41.87706729843753,28.70201286340451
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,30.832557320739852,37.55448927100339,24.707079906401518
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,26.37458798215691,32.11768583386135,22.55084680511251
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,25.307424216898223,30.456239970801207,21.73422006180624
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,30.62583602697951,38.06422801285967,25.258569145318837
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,27.43950301240332,33.764099360250285,22.76848650373528
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,28.36658769566372,33.537514396270964,22.94591910128512
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,31.29395048214717,38.08398826732615,25.455488210508797
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,32.71803861952075,38.69926449949825,26.9882258057264
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,32.42961035844423,38.63509173157151,25.54572822702944
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,33.37238243548367,39.189642420511426,26.448764541760088
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,33.91990407250536,39.94461449357005,28.18093996738053
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,32.40106116408582,38.67269896542428,26.86033125383905
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,25.72117364662727,32.2288018068825,21.26620573249857
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,26.17091258199744,31.93557182772036,22.22632245451241
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,31.90486385344702,39.57870895719529,25.76566513545969
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,24.65520260241739,30.69689724573688,20.4099113168352
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,25.68665086714386,31.43383807505925,22.1462111765621
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,22.1761979064954,26.633621186385643,19.3197802012806
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,32.55127478125965,39.99615349914301,26.52737955531065
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,28.67669094833023,33.76223204986656,23.542936524802098
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,32.06810792598438,39.97722736043627,25.469799273550446
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,39.21376067988122,45.62293518196862,31.502394456491622
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,36.00218428807115,41.76981491668208,30.25279706159192
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,33.592847155214514,40.66289472338247,26.602342327033853
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,37.55359017314548,43.44813605370664,29.76284723704401
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,28.01179001500394,34.37025410513282,23.53693523882714
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,30.012923813173547,37.082679666659715,24.60900923037891
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,27.85138808688253,33.959083645287244,23.33838113300081
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,28.3186867903589,34.71637277767302,23.59673605926148
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,28.39902505920751,35.02338015513674,23.65748271964299
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,29.06316932002427,34.369228925805515,23.77699029163479
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,32.36321320633376,40.164554158219566,25.65289542419398
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,39.59998852091576,46.228172372764796,31.78318678188239
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,36.34492820787762,42.14997749612335,30.56722445037202
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.12285689526452,41.30379999152825,26.86229669567196
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,38.09770936902684,44.13988137987672,30.06959345281448
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,28.407145634215592,34.92443106944728,23.81879807479337
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,30.206550156549838,37.37735727400186,24.731508181752428
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,28.1153730599926,34.29802304593163,23.485454527190967
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,28.57673587180658,35.05677047627465,23.68828819277578
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,28.659555931747022,35.27181343159252,23.80203118119197
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,29.490572477555187,36.25532576285599,24.87688822574173
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,28.50622624808231,35.86947067741346,22.27873532388818
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,33.824449066808285,41.10948804697242,26.270240660471337
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,29.679124791225618,36.41698928048413,23.97612159092179
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,35.43741578134298,42.42893846991059,29.034498665940927
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,31.15978204251537,37.904339690000945,24.95506438159329
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,29.4494109216018,34.740055574772185,24.10008517975626
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,26.67793447951203,32.50621218106537,22.78916424574252
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,32.65460779985921,40.6903487846337,25.80825657948122
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,25.684382848159238,31.016066647514478,21.948782029316412
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,39.97999176741605,46.47776722515598,32.14885467837645
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,30.997820746635778,38.521415881884316,25.5623102671921
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,36.67097298904808,42.50707516657178,30.80107514115952
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,27.758727717812583,34.05787291934737,22.955247662436502
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,31.63663828255354,38.423083016891965,25.69029985611262
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.64616818063256,41.97140789722362,27.12887234109157
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,38.66698261430952,44.831009774351074,30.55523396212721
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,28.801589004174026,35.24816106225968,24.15709917121942
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,30.42990298872151,37.60374856079124,24.881423812484048
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,28.390425651224938,34.64179971601726,23.78817485722063
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,28.846679412641567,35.53169659806764,23.93253520620367
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,28.92033709033498,35.72148075195495,24.11378201139717
+29,Summary exposure value,89,Netherlands,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,29.10824368234198,35.87854936474395,24.22311885301976
+29,Summary exposure value,93,Sweden,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,29.162341498409678,36.0210385789973,24.099644637334162
+29,Summary exposure value,36,Kazakhstan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,29.821214801626063,35.29952506384511,24.37850225262203
+29,Summary exposure value,44,Bosnia and Herzegovina,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,32.98810435054921,40.985870772277224,26.284289009348072
+29,Summary exposure value,48,Hungary,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,40.334002566675494,46.89243536592365,31.87741743411757
+29,Summary exposure value,52,Romania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,36.91730432505752,42.800283905047856,30.75203928187952
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,28.68595658749592,33.92168272112865,23.20744400905993
+29,Summary exposure value,57,Belarus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,35.12943887853115,42.40409453874662,27.18903399045421
+29,Summary exposure value,61,Republic of Moldova,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,39.17755486194519,45.43725088141255,31.03415007640386
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,33.04430078621452,39.1474559750852,27.181775308405843
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,32.80296030118112,39.22236061555937,25.79226349968672
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,29.742936112536576,36.628023445378375,25.277981038523002
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,33.820760687243016,39.600105793338095,26.765458005103348
+29,Summary exposure value,77,Cyprus,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,29.1928600960704,35.81222339470943,24.3147457362197
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,28.85467062293617,36.25870140714629,22.56175372011759
+29,Summary exposure value,81,Germany,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,30.65832438574278,37.75060424213119,24.91861259376201
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,34.18186247313649,41.48084359818152,26.60761367543969
+29,Summary exposure value,85,Israel,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,28.65142619209292,35.04732831250216,24.086488480059177
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,29.97995112899637,36.795954345542484,24.18341293976222
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,34.30553301769917,40.35631000004207,28.41962657129531
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,35.882362634067135,42.96858280742375,29.340138971681817
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,32.986555208475735,39.36458416765573,27.248440364193062
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,31.49595737889505,38.27660368517123,25.208994582437683
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,26.106095272362367,32.688827054836324,21.584911656118962
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,26.98932545797423,32.90846659588309,22.95672422250544
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,26.058374702796698,31.54874125075479,22.27273999982341
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,26.40441014744629,32.23053943288186,22.37196616734001
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,31.37349411236801,38.91844167931158,25.88931403701014
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,28.064248198176937,34.422063135644436,23.21883358511706
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,32.30235484722237,40.07691671497079,25.90117518269272
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,31.99663807651238,38.746902205437465,25.93691575467883
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,24.97706455110391,31.13232982175662,20.62251592533864
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,25.9292168319467,31.729460676166738,22.37806453103428
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,22.40155354400461,26.82922549385206,19.490876744413622
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,32.88322646794017,40.3550801198084,26.76361224660865
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,30.00450457008887,37.05804293659335,25.5897687242444
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,29.21383452004384,36.57752545987018,22.82871381817519
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,34.55959163117745,42.03036176069414,26.903806003528057
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,30.2830985830148,37.19012566214195,24.364092482826
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,36.3246360828145,43.60856186587071,29.72140350137588
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,31.865224249316398,38.72257706502267,25.49117845404087
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,27.306890474009272,33.362869198134334,23.10186899843643
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,26.424277577527228,32.043420763852595,22.5792454094521
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,31.738440063941358,39.32840584976815,26.158646432714338
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,28.36060692259665,34.86667127743239,23.34356590076349
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,32.37097062457812,39.148852419639105,26.17588112668196
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,32.76047567400006,39.60281727741238,26.411578270667192
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,30.23767573314521,37.36636689179066,25.80147645647508
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,29.593122118996853,36.96705682726289,23.03523075970654
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,34.943553060945845,42.47673688688704,27.220403583068908
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,30.58644553237397,37.59757806512397,24.53905018228414
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,36.75036591048959,44.15649256004015,29.865044170157915
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,32.2589375946141,39.1820677126006,25.82349688568485
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,27.62252484062717,33.862159334172446,23.34028441669979
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,26.77251199128843,32.47946455006067,22.90622050512969
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,32.08604408821877,39.77030524454772,26.42056181032434
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,28.656547429712546,35.2757681101085,23.454933682699288
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,30.43068637127834,37.65496790722917,25.79782959482649
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,29.980065538395912,37.490271088722146,23.24240481170524
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,35.33339647149401,42.800254877585495,27.58566288066667
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,30.89193488595024,37.971363559083386,24.70320782567627
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,37.186091228362415,44.58301626720318,30.246850847760843
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,32.66713877843611,39.62049437097897,26.05551443783922
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,27.92259750951024,34.23879595520246,23.552489990108068
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,27.097710487331078,32.87435873786737,23.11347507363954
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,32.4082844091147,40.13565060002329,26.610826221137767
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,28.93071958590055,35.64083178776491,23.67247486696572
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,33.17414167875264,40.159141406559826,26.67929205808386
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,30.61090007582058,37.92725309497722,25.793561574066707
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,30.34076657366868,37.84792555921316,23.383513324461187
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,35.72280113146087,43.31587181172792,27.879303192452582
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,31.203082172805306,38.38348310586446,24.94476415767528
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,37.62944845218691,45.1590995633246,30.64605936079632
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.11384246668704,40.199435332858755,26.41550785860761
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,28.23401141891782,34.62756765335311,23.80435564535309
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,27.422772080135736,33.24841198560842,23.33379899283857
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,29.014911404165687,34.355216711417604,23.44151539354403
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,32.72310872055859,40.61511503061638,26.84525345134573
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,29.213240790097178,35.96098061550536,23.93702930909303
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,33.3655242680141,39.5067134731365,27.409301108730162
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.649585850548306,40.75471851261428,27.04500855105687
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,33.17440980499915,39.64587968430829,25.97061544848861
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,34.287023699181866,40.07240617643433,27.064869673951858
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,34.67739617500534,40.67574665483606,28.74192955858128
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,33.55670133082534,40.03135473645143,27.58251981880343
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,26.48080990646562,33.21781765018027,21.85306767121591
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,26.620189087639517,32.46017548276966,22.50184426903173
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,32.68692221359462,40.500768375244824,26.08402016184439
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,25.311442220875406,31.62177747827803,20.808846088422158
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,26.16731799124985,32.01399452450132,22.5631358317624
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,22.633800012007228,27.13321823534811,19.6418431133912
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,33.19440921786815,40.75814885670503,26.97596138956555
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,33.01754744145297,41.07094296150581,26.98104669388221
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,29.493977431198008,36.25248355612592,24.11191855112165
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,34.14566646314337,41.34951356156894,27.25980712814351
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,30.785312539820808,38.20016530671929,25.79695522910218
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,30.7003051025383,38.20105342593591,23.61118173792757
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,36.10877590053927,43.87045776698354,28.097999714753392
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,31.515712243982367,38.70646087648718,25.158542547649898
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,38.05996377856888,45.67496449031794,30.95067005864298
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,33.57320015208324,40.74737540790972,26.61664334758962
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,28.542299812524718,34.96554001579591,24.031432330441792
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,27.737829970338414,33.695603510457126,23.50835435757642
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,27.30458466125814,32.59177804637221,22.06515936931194
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,33.98581658184336,40.452473924598095,27.087909733232564
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,37.0743820407042,44.077248069529,29.621877561278144
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,32.85977364659841,39.16172512012205,26.37115979601976
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,32.90837021161515,39.52662075003648,26.72072565679296
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,30.86398635010913,36.18129560467503,26.20219922717882
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,24.47437963742953,30.49078172842669,20.24999090285665
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,29.368246936923743,35.92792527368709,24.20788269115901
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,32.50559727327737,39.78752674591543,26.367786962838903
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,26.99586827524203,32.90875361860987,23.06791234981005
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,28.199313101923718,35.43969598616457,22.68745970572532
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,32.05428456882938,39.29825328020405,25.591558898433753
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,30.949722876552137,38.44300550288644,25.804802007654693
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,31.069836234707708,38.62312784174363,23.8721158058554
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,36.47571866630658,44.45194616839751,28.262625292630013
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,31.82307203676834,39.09150906707012,25.26441065827386
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,38.45096090641288,46.11989813330688,31.289629146221543
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.01967404381683,41.30656775881368,26.834694794673442
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,28.83712131414607,35.328447327479864,24.24532347829979
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,28.030837222044603,34.104651709085346,23.66404032074401
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,33.27955294824726,41.43944678806978,27.08818231819809
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,29.76046383669832,36.56291163169646,24.3552778566758
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.60919353729429,41.83160210240959,27.528494168627237
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2010,34.42561046105503,42.5682220399269,27.99390271953368
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,29.35966793091543,34.912729541048485,23.69279957052188
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,33.69182738064409,39.863096641353444,27.66103325317049
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,33.5463263837171,40.009784431113424,26.235920291139198
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,34.75515309853929,40.54300825673686,27.41613174966163
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,35.01448121447732,41.06853347380439,29.058392386532162
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,34.08896531590527,40.661318307946395,27.94342499290773
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,26.90387865416301,33.74884918957219,22.18670625966288
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,26.8250660262633,32.67771956733748,22.770904723166378
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,27.614649945153808,32.93244656348592,22.284797206372108
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,33.04588571506344,40.97395859465437,26.410094028866958
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,34.39325509515755,40.87740704128311,27.39544453270882
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,37.55331755502089,44.57922590119262,29.81938750149003
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,33.21462736752113,39.50283207646397,26.799588002133177
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,33.19679444373081,39.83311630346541,26.84538386158517
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,34.649397984293564,42.80734750859976,28.08957542456561
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,31.23150544684517,36.61361324036838,26.45570333788002
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,25.66879691891593,32.11891367708854,21.06468399006152
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,26.396136632792413,32.25595629787167,22.7469409716173
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,33.48050430021905,41.13876839561777,27.12849216402994
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,24.747131776351388,30.765155765057067,20.40796731303172
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,22.87053863410748,27.435761932771964,19.82363360117719
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,29.58850267635187,36.15129889215911,24.404962515124883
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,32.7920222521411,40.10501856705607,26.62294337192626
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,27.23699819692269,33.20420291041343,23.21748465515029
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,28.529920416024453,35.86436267441899,23.076992493333982
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2011,32.29114682665623,39.56269281478241,25.7412301787681
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,27.95953534223548,33.258612855488565,22.52245345722729
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,34.81637621748085,41.30434749309724,27.76291973805904
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,38.0515441784685,45.19255601002928,30.18955196431183
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,33.60320222054738,39.96874422077617,27.279228188409
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,32.53869691199214,39.88712373709501,25.90511160809899
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,33.52271057684032,40.27252418720699,27.06916224752312
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,31.623478324645397,37.14325929353778,26.7117483361783
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,25.04258355467886,31.125509575533577,20.63993428194388
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,29.80976034588435,36.442256073820836,24.65168454899054
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,33.08713976517854,40.37834380731898,26.9060352082055
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,27.46913477763574,33.48223813081126,23.3116965116071
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,28.87163839098904,36.29085723511617,23.44297315497887
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2012,34.894075626138246,43.06063514612057,28.318513986732256
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,35.35515867775255,41.472944968777284,29.201237293997202
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,34.61608549764157,41.32924931348013,28.33072717193511
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,27.318587796166373,34.25446567147178,22.47069660815942
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,27.045408055120312,32.97413845156203,23.051083639734628
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.40461917854367,41.43935054241167,26.63565676613261
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,29.73218428603625,35.37788239928829,24.00517852169013
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,26.09960442595307,32.64293057564835,21.38574173744585
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,26.648791169799914,32.514977613723836,22.94322449497807
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,34.06301111090182,40.220385204254846,28.026878293969443
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,23.13939643976885,27.76505364030418,20.01333685056271
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.917158575273135,40.39562100105419,26.51569121134954
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,35.21362903306413,41.00273334415976,27.73709868282864
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.76790492780034,41.572295051906124,27.407536459083122
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,28.33276788415463,33.67968960314667,22.78245284184424
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,35.25921597315856,41.7875854474662,28.075629869140677
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,38.55256302583963,45.90405818471037,30.453538532979664
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,34.01815877408998,40.397580484527964,27.646031745679938
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,33.860047516546274,40.625573289381265,27.255291022495058
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,32.045268842856686,37.851927461847836,26.99458618713312
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,25.3403864358761,31.494040690795238,20.85248137971587
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,30.03465616748382,36.70722998969001,24.76756663864812
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,33.36284747262654,40.6855026882825,27.15254750329632
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,27.719463966691283,33.80313067154858,23.43967736870591
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,29.21635858794729,36.596180800730075,23.75549972940644
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,32.79082506126831,40.23496041541538,26.074398463172884
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2013,35.15438056120509,43.385787780049974,28.47453833527631
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,30.137832671383258,35.93259550577132,24.27674214313949
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,34.42863782664673,40.50480228158181,28.19464896281081
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,34.285793307255105,40.84721202051358,26.796629038138033
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,35.678072479273844,41.34281776147646,28.133715068965
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,35.70562466906012,41.9801863652201,29.35288334853196
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,35.13993172188164,42.04788399138522,28.7257563379736
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,27.749621660515437,34.81093254810259,22.772604138889548
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,27.26381189344908,33.30829564379199,23.25003266778645
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,33.76493872497643,41.85452244703611,26.84752218937332
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,26.54934486086799,33.27753625391013,21.725740442026932
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,26.906486540824346,32.82382669935647,23.05603466383942
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,23.41857242531514,28.17241951077244,20.07675190173199
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,34.04292816543587,41.94630924579218,27.568913192573053
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,28.735600976196668,34.17450766477397,23.070860617329718
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,35.68938238204656,42.2630439213434,28.384282674570173
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,39.03346640300744,46.43750078346247,30.72208978720389
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,34.454619944176066,40.926914487668206,27.93617829573001
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,34.22927928819546,41.07837193614963,27.477003492278918
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,32.475355022493815,38.52759639636052,27.311721419238932
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,25.62433712055043,31.86894820383312,21.01090968571449
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,30.256298044603618,37.0108647557515,24.95799254236508
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,33.61822946653527,40.941316398171416,27.2479414891508
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,27.9909370750682,34.145214677932465,23.71301509810707
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,29.55799826779495,36.955056973173924,23.96365889230829
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,33.042966234197294,40.56751633330286,26.2434439917336
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2014,35.42649026462291,43.79648931192861,28.767158645214643
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,29.14465890686797,34.61530231813494,23.375537444205712
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,36.09359182596338,42.790087117585415,28.61515083619084
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,39.4710932360338,46.91823018092055,30.99932291506353
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,34.89566983566664,41.3616337211578,28.222923527734
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,34.60642391446517,41.61336314129943,27.63730861672376
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,32.89469667098478,39.10747830779704,27.57534087998681
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,30.53836185261496,36.4485542484273,24.56773542119451
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,25.889507831267473,32.2571912165237,21.15247818230831
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,30.48285879336408,37.28054823863552,25.0338710955745
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,33.84500204240888,41.19957906169706,27.24947263075676
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.73444821265165,40.78302071268542,28.42067576553108
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.64168806660473,41.25876548333876,26.966707612525
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,28.25526918903239,34.48580750700207,23.94777500070929
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,36.14190802556484,41.82809218343123,28.530563124149
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,29.896092315887667,37.39711450079738,24.19800942597648
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,33.28926098648386,40.889083648966576,26.39692176520891
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,36.05353608546817,42.35302383671214,29.44645387406595
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,35.643510934735126,42.64282650288987,29.088142786259354
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,28.145715306060097,35.24254581924501,22.98774810433649
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,27.468532161372877,33.59266320691264,23.312044675920397
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.105143460850776,42.2712015786221,26.994912757409377
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,26.97988979186058,33.92035600537821,22.05759183015268
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,27.152712414357723,33.18352343751258,23.1543646729202
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,23.68871430871347,28.58385094928888,20.22732135714736
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.29844187397213,42.31964167139926,27.70619460691185
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2015,35.67323166425061,44.106536263678024,28.964399045410126
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,29.573359958224138,35.20865778637791,23.64668823441671
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,36.47839684214894,43.23391806472222,29.01025134335559
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,39.89818373084028,47.401820381005,31.27348886200853
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,35.34664602362509,41.87488297731886,28.583846642842232
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,34.980131244273586,42.220815853143954,27.923878083322727
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,33.2973702473099,39.66909058928923,27.854698435725062
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,26.14505684770133,32.44425509132841,21.37702440763914
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,35.95048820977511,44.42371195256017,29.09520607294167
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,30.70794116072243,37.51911197438651,25.26249888383679
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,34.0539940203559,41.48058924470997,27.41417686851879
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,28.503817825402837,34.81397458863998,24.14855839848126
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,30.238247586827338,37.80393605754667,24.50226311927293
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2016,33.52428298919642,41.16886281527058,26.559169973426073
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.989068852440255,41.1270796040282,28.25065641088493
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.989580705326304,41.61727828121218,27.174765027074198
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,36.611371904547404,42.40921000365574,28.94480002473909
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,36.43688621115458,42.70848797344804,29.8541473230234
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,36.16927617618912,43.27885415330842,29.4987024346403
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,28.53145883431128,35.673399619113226,23.25306933982808
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,27.67749115087959,33.861662607360834,23.41163281091173
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.45084889008482,42.62003905923203,27.150684403826
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,27.403788413164808,34.44485431977845,22.44920428898762
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,27.40234997482613,33.54859370420624,23.30397605464993
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,23.97527396244008,28.8668801299503,20.331163538607598
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,30.018047508800024,35.82873029064966,24.06930643547687
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,36.24337396010405,44.75922720140338,29.245309586795372
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,30.96214844911645,36.844221025738136,24.90391162803751
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,31.12392283128741,38.56958000499367,25.938505595625326
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,36.84780078072913,43.61956314875402,29.286573188264242
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,31.44312864284841,39.191878008175465,24.19979973624487
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,40.313240055968194,47.92751818271336,31.6560312418763
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,36.83223598349621,44.89098928359367,28.48633734041871
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,35.81455606181669,42.530459601948216,28.83446846156432
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,32.16112835837055,39.57799485260123,25.62160151427314
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,38.83916820760713,46.58596352000472,31.48087518381043
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,35.378549001177554,42.73620235024799,28.13887629150569
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.50059635304625,41.85239319984747,27.296068279301988
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.708171230200115,40.24828879682103,28.17774145126143
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,26.423871723924268,32.73921800088822,21.63228451099853
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,29.147474347304858,35.66815738239963,24.43208092979719
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,30.96400452452004,37.8056915173835,25.509018541486988
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,28.32708329473727,34.342053965893356,24.17830520021751
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,34.25768241161178,41.66895336199835,27.515156444495183
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,33.52233422988522,41.68393595891426,27.22388444419281
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,28.742333843851046,35.16354888055274,24.28019891862876
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,30.0327947322333,36.84278089438837,24.569805416457168
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,30.6087104101681,38.32287128505487,24.69103580341113
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,35.04952566117175,42.47839960127465,27.95100061729398
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2017,33.768029571434774,41.45613285094034,26.736727171911923
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.55001649361707,42.34557239344363,27.88254566850371
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,31.21854621059075,38.08620856977658,25.734407123250357
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,34.47350680728982,41.885868391175,27.61554291518748
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,29.00075328835508,35.48683910650786,24.44600365647425
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,30.97253366439071,38.83084643618795,24.98413738874876
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,34.010524723218225,41.75879762441471,26.91856361914333
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,30.47300614222246,36.41101950393561,24.45779883015696
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,37.212201217562814,44.04074371616415,29.61070616597289
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,40.70832533939647,48.36681828722661,31.90150678772261
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,36.27534738396464,43.142284259448736,29.09942746630672
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,35.775694477301414,43.166309123585876,28.49081007050243
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,34.135255156648356,40.72752560316768,28.467113310942437
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,26.71615333809888,33.21241903306379,21.839022815352298
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2018,36.529144659951854,45.04916843888599,29.394013889396597
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,36.78799440861671,45.41156656889558,29.562899718299303
+29,Summary exposure value,33,Armenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,31.34933267950819,37.3070366955829,25.10907767157316
+29,Summary exposure value,45,Bulgaria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,35.2314641856586,41.26530958306399,28.67874705337649
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,30.924880740334583,36.8875119678844,24.80910429876771
+29,Summary exposure value,49,North Macedonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,35.33384863094028,42.101830942238784,27.39350281815531
+29,Summary exposure value,53,Serbia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,37.0503660149528,42.705529353909796,29.15447259722233
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,37.570084491649204,44.287183803301374,29.848320148377077
+29,Summary exposure value,58,Estonia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,36.72585686385896,43.26037981768025,30.01263267442703
+29,Summary exposure value,62,Russian Federation,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,36.65013073497564,43.94282868136812,29.81083521546251
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,41.06592415404886,48.76169304336238,31.82028060612172
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,36.70962539465534,43.71679619987686,29.24148628682099
+29,Summary exposure value,74,Andorra,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,28.93310297304809,36.069633697410616,23.50026604115078
+29,Summary exposure value,78,Denmark,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,27.900251915215307,34.065681389774596,23.615256760770333
+29,Summary exposure value,82,Greece,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,34.78640688073612,42.98414378338411,27.11961360677278
+29,Summary exposure value,86,Italy,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,27.82704751871196,35.010235917499685,22.79142325229768
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,36.149759117284454,43.5977830577609,28.7265060542803
+29,Summary exposure value,90,Norway,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,27.64899230410254,33.90103591359045,23.67715688934792
+29,Summary exposure value,94,Switzerland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,24.24981145771698,29.229111373808582,20.77380929589674
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.5635089155495,41.13838024864661,28.70115768544348
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,26.98840216848818,33.60713415458927,22.02643663382066
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,31.45064409874361,38.33053256663259,25.92172275627192
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.68491430486714,42.12627148951797,27.776278127516267
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,29.26943948449665,35.81398673357088,24.59567040916592
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,31.29121800514683,39.21241581489558,25.144482774154568
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2019,34.24126818668331,42.03911638348088,27.05872961212864
+29,Summary exposure value,396,San Marino,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,34.80438437925057,42.776623265474875,27.938275204655582
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,37.06080990146352,45.68267532535415,29.76446718195932
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,31.35878437357227,37.303056104027085,24.997539670371697
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,37.995641482660346,44.86110844279279,30.12091925073564
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,41.447730983515854,49.17282594608388,32.29016373083392
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,37.16188123445476,44.19486439464511,29.80423105264855
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,36.551412606558145,44.33028123295688,29.023233410173383
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,35.06088323380976,41.7540758201784,29.21964104216049
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,27.25703710652274,33.84543626894835,22.43771971662408
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,31.67370216937132,38.811657035606764,25.93704621716831
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.903447978942296,42.48422008873204,27.863410319375582
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,29.55861264191909,36.08114492633502,24.92681396005562
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,31.558739424219773,39.58049757629194,25.27067675009238
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2020,34.46860102932007,42.298554475064506,27.18695349578446
+29,Summary exposure value,75,Austria,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,27.54825827802621,34.21116149047437,22.317211312571338
+29,Summary exposure value,79,Finland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,31.88450287860739,38.93536242320802,25.96735967166056
+29,Summary exposure value,83,Iceland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,35.131545025143026,42.69279123792356,28.053607154580252
+29,Summary exposure value,87,Luxembourg,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,29.84314886748301,36.35941812365376,25.17041838104106
+29,Summary exposure value,91,Portugal,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,31.86104589246923,39.76043157773055,25.58467074642678
+29,Summary exposure value,95,United Kingdom,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,34.73982753810725,42.65139701145068,27.396214106358258
+29,Summary exposure value,34,Azerbaijan,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,31.808537210961564,37.953643981420385,25.2945389309177
+29,Summary exposure value,367,Monaco,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,37.339844022994015,46.03728455550847,29.91374396782439
+29,Summary exposure value,46,Croatia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,38.42658992512663,45.35670015028181,30.436577058898678
+29,Summary exposure value,50,Montenegro,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,41.78957135495518,49.68909101296312,32.75084661933952
+29,Summary exposure value,54,Slovakia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,37.53644556750914,44.59679380329053,29.92950737871043
+29,Summary exposure value,59,Latvia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,36.84712276565828,44.5204578048525,29.2970820954696
+29,Summary exposure value,63,Ukraine,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,35.50427269536852,42.17144021343206,29.40482011263674
+29,Summary exposure value,35,Georgia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,31.284632220412227,38.984604875028204,26.145074009988267
+29,Summary exposure value,43,Albania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,31.81153615422848,39.76884621460614,24.54407642787989
+29,Summary exposure value,47,Czechia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,37.16466979115222,45.34449546334578,28.67516513324532
+29,Summary exposure value,51,Poland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,32.52085013164235,39.90775360464497,25.72105912883736
+29,Summary exposure value,55,Slovenia,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,39.1864285279089,46.99152675984291,31.64126349901445
+29,Summary exposure value,60,Lithuania,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,34.92744719759525,42.4197164622541,27.62048301341758
+29,Summary exposure value,76,Belgium,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,29.44153398506376,36.01771123009797,24.87480682204155
+29,Summary exposure value,80,France,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,28.60110377386499,34.71324061457801,24.31914814456539
+29,Summary exposure value,84,Ireland,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,33.76964015715566,42.12718472914493,27.59451024737647
+29,Summary exposure value,88,Malta,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,30.331167607047547,37.22262376254581,24.75378421820588
+29,Summary exposure value,92,Spain,3,Both,37,20+ years,108,High body-mass index,3,Rate,2021,35.60982976712293,42.98552445600425,28.39097637029867

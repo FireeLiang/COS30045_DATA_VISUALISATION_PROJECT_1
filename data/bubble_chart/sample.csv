@@ -1,0 +1,7 @@
+"country","continent","year","lifeExp","pop","gdpPercap"
+"Afghanistan","Asia",2007,43.828,310889923,974.5803384
+"Albania","Europe",2007,76.423,3600523,5937.029526
+"Algeria","Africa",2007,72.301,33333216,6223.367465
+"Afghanistan","Asia",2008,44.5,32000000,1000.0
+"Albania","Europe",2008,76.8,3650000,6100.0
+"Algeria","Africa",2008,72.5,34000000,6300.0
