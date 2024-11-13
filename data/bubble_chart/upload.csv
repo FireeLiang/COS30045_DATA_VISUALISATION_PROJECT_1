@@ -1,0 +1,577 @@
+﻿location_name,regions,sex_name,year,death,obesity
+Albania,,Both,2010,8.28,27.82
+Albania,,Both,2011,8.34,28.16
+Albania,,Both,2012,8.40,28.51
+Albania,,Both,2013,8.48,28.85
+Albania,,Both,2014,8.56,29.21
+Albania,,Both,2015,8.63,29.59
+Albania,,Both,2016,8.69,29.98
+Albania,,Both,2017,8.75,30.34
+Albania,,Both,2018,8.79,30.70
+Albania,,Both,2019,8.81,31.07
+Albania,,Both,2020,7.41,31.44
+Albania,,Both,2021,6.92,31.81
+Andorra,,Both,2010,6.97,24.74
+Andorra,,Both,2011,7.10,24.99
+Andorra,,Both,2012,7.22,25.31
+Andorra,,Both,2013,7.32,25.72
+Andorra,,Both,2014,7.41,26.11
+Andorra,,Both,2015,7.49,26.48
+Andorra,,Both,2016,7.58,26.90
+Andorra,,Both,2017,7.70,27.32
+Andorra,,Both,2018,7.79,27.75
+Andorra,,Both,2019,7.85,28.15
+Andorra,,Both,2020,6.77,28.53
+Andorra,,Both,2021,6.88,28.93
+Armenia,,Both,2010,11.51,27.68
+Armenia,,Both,2011,11.34,27.87
+Armenia,,Both,2012,11.42,28.09
+Armenia,,Both,2013,11.35,28.37
+Armenia,,Both,2014,11.16,28.69
+Armenia,,Both,2015,11.17,29.01
+Armenia,,Both,2016,11.09,29.36
+Armenia,,Both,2017,11.25,29.73
+Armenia,,Both,2018,11.06,30.14
+Armenia,,Both,2019,10.87,30.54
+Armenia,,Both,2020,8.09,30.96
+Armenia,,Both,2021,8.98,31.35
+Austria,,Both,2010,8.83,24.47
+Austria,,Both,2011,8.92,24.75
+Austria,,Both,2012,9.06,25.04
+Austria,,Both,2013,9.20,25.34
+Austria,,Both,2014,9.37,25.62
+Austria,,Both,2015,9.49,25.89
+Austria,,Both,2016,9.49,26.15
+Austria,,Both,2017,9.31,26.42
+Austria,,Both,2018,9.27,26.72
+Austria,,Both,2019,9.15,26.99
+Austria,,Both,2020,8.48,27.26
+Austria,,Both,2021,8.28,27.55
+Azerbaijan,,Both,2010,11.41,27.30
+Azerbaijan,,Both,2011,11.44,27.61
+Azerbaijan,,Both,2012,11.49,27.96
+Azerbaijan,,Both,2013,11.55,28.33
+Azerbaijan,,Both,2014,11.64,28.74
+Azerbaijan,,Both,2015,11.80,29.14
+Azerbaijan,,Both,2016,11.92,29.57
+Azerbaijan,,Both,2017,12.07,30.02
+Azerbaijan,,Both,2018,12.19,30.47
+Azerbaijan,,Both,2019,12.31,30.92
+Azerbaijan,,Both,2020,9.26,31.36
+Azerbaijan,,Both,2021,8.80,31.81
+Belarus,,Both,2010,9.10,29.42
+Belarus,,Both,2011,9.19,29.88
+Belarus,,Both,2012,9.31,30.36
+Belarus,,Both,2013,9.52,30.87
+Belarus,,Both,2014,9.67,31.40
+Belarus,,Both,2015,9.75,31.93
+Belarus,,Both,2016,9.89,32.48
+Belarus,,Both,2017,10.03,33.04
+Belarus,,Both,2018,10.17,33.59
+Belarus,,Both,2019,10.28,34.12
+Belarus,,Both,2020,8.75,34.65
+Belarus,,Both,2021,7.78,35.13
+Belgium,,Both,2010,5.72,26.08
+Belgium,,Both,2011,5.74,26.37
+Belgium,,Both,2012,5.75,26.68
+Belgium,,Both,2013,5.78,26.99
+Belgium,,Both,2014,5.83,27.31
+Belgium,,Both,2015,5.85,27.62
+Belgium,,Both,2016,5.85,27.92
+Belgium,,Both,2017,5.82,28.23
+Belgium,,Both,2018,5.81,28.54
+Belgium,,Both,2019,5.83,28.84
+Belgium,,Both,2020,4.99,29.15
+Belgium,,Both,2021,5.54,29.44
+Bosnia and Herzegovina,,Both,2010,10.47,29.26
+Bosnia and Herzegovina,,Both,2011,10.52,29.62
+Bosnia and Herzegovina,,Both,2012,10.59,30.02
+Bosnia and Herzegovina,,Both,2013,10.67,30.43
+Bosnia and Herzegovina,,Both,2014,10.75,30.80
+Bosnia and Herzegovina,,Both,2015,10.82,31.13
+Bosnia and Herzegovina,,Both,2016,10.83,31.45
+Bosnia and Herzegovina,,Both,2017,10.89,31.75
+Bosnia and Herzegovina,,Both,2018,10.93,32.07
+Bosnia and Herzegovina,,Both,2019,11.03,32.36
+Bosnia and Herzegovina,,Both,2020,9.72,32.65
+Bosnia and Herzegovina,,Both,2021,8.76,32.99
+Bulgaria,,Both,2010,15.11,31.80
+Bulgaria,,Both,2011,15.28,32.10
+Bulgaria,,Both,2012,15.04,32.40
+Bulgaria,,Both,2013,14.97,32.72
+Bulgaria,,Both,2014,15.17,33.04
+Bulgaria,,Both,2015,15.31,33.37
+Bulgaria,,Both,2016,15.63,33.69
+Bulgaria,,Both,2017,15.55,34.06
+Bulgaria,,Both,2018,15.52,34.43
+Bulgaria,,Both,2019,15.56,34.73
+Bulgaria,,Both,2020,13.54,34.99
+Bulgaria,,Both,2021,11.14,35.23
+Croatia,,Both,2010,10.43,33.99
+Croatia,,Both,2011,10.31,34.39
+Croatia,,Both,2012,10.32,34.82
+Croatia,,Both,2013,10.45,35.26
+Croatia,,Both,2014,10.43,35.69
+Croatia,,Both,2015,10.64,36.09
+Croatia,,Both,2016,10.60,36.48
+Croatia,,Both,2017,10.65,36.85
+Croatia,,Both,2018,10.70,37.21
+Croatia,,Both,2019,10.77,37.57
+Croatia,,Both,2020,9.92,38.00
+Croatia,,Both,2021,9.18,38.43
+Cyprus,,Both,2010,8.94,24.72
+Cyprus,,Both,2011,8.99,25.12
+Cyprus,,Both,2012,9.06,25.53
+Cyprus,,Both,2013,9.15,25.95
+Cyprus,,Both,2014,9.20,26.37
+Cyprus,,Both,2015,9.26,26.79
+Cyprus,,Both,2016,9.30,27.19
+Cyprus,,Both,2017,9.34,27.60
+Cyprus,,Both,2018,9.43,28.01
+Cyprus,,Both,2019,9.47,28.41
+Cyprus,,Both,2020,9.43,28.80
+Cyprus,,Both,2021,9.07,29.19
+Czechia,,Both,2010,9.82,33.18
+Czechia,,Both,2011,10.05,33.49
+Czechia,,Both,2012,10.19,33.82
+Czechia,,Both,2013,10.55,34.18
+Czechia,,Both,2014,10.64,34.56
+Czechia,,Both,2015,10.71,34.94
+Czechia,,Both,2016,10.79,35.33
+Czechia,,Both,2017,10.88,35.72
+Czechia,,Both,2018,11.06,36.11
+Czechia,,Both,2019,11.17,36.48
+Czechia,,Both,2020,9.87,36.83
+Czechia,,Both,2021,9.12,37.16
+Denmark,,Both,2010,5.56,25.43
+Denmark,,Both,2011,5.61,25.68
+Denmark,,Both,2012,5.63,25.93
+Denmark,,Both,2013,5.66,26.17
+Denmark,,Both,2014,5.69,26.40
+Denmark,,Both,2015,5.74,26.62
+Denmark,,Both,2016,5.80,26.83
+Denmark,,Both,2017,5.80,27.05
+Denmark,,Both,2018,5.82,27.26
+Denmark,,Both,2019,5.86,27.47
+Denmark,,Both,2020,5.79,27.68
+Denmark,,Both,2021,5.70,27.90
+Estonia,,Both,2010,13.71,32.85
+Estonia,,Both,2011,14.13,33.18
+Estonia,,Both,2012,14.55,33.55
+Estonia,,Both,2013,15.08,33.92
+Estonia,,Both,2014,15.58,34.31
+Estonia,,Both,2015,15.98,34.68
+Estonia,,Both,2016,16.26,35.01
+Estonia,,Both,2017,16.24,35.36
+Estonia,,Both,2018,16.16,35.71
+Estonia,,Both,2019,16.22,36.05
+Estonia,,Both,2020,15.84,36.44
+Estonia,,Both,2021,13.42,36.73
+Finland,,Both,2010,7.56,29.37
+Finland,,Both,2011,7.67,29.59
+Finland,,Both,2012,7.79,29.81
+Finland,,Both,2013,7.93,30.03
+Finland,,Both,2014,8.13,30.26
+Finland,,Both,2015,8.28,30.48
+Finland,,Both,2016,8.36,30.71
+Finland,,Both,2017,8.51,30.96
+Finland,,Both,2018,8.62,31.22
+Finland,,Both,2019,8.66,31.45
+Finland,,Both,2020,8.57,31.67
+Finland,,Both,2021,8.42,31.88
+France,,Both,2010,6.06,24.93
+France,,Both,2011,6.10,25.31
+France,,Both,2012,6.17,25.68
+France,,Both,2013,6.26,26.06
+France,,Both,2014,6.31,26.42
+France,,Both,2015,6.35,26.77
+France,,Both,2016,6.40,27.10
+France,,Both,2017,6.47,27.42
+France,,Both,2018,6.56,27.74
+France,,Both,2019,6.61,28.03
+France,,Both,2020,6.04,28.33
+France,,Both,2021,6.11,28.60
+Georgia,,Both,2010,11.64,29.09
+Georgia,,Both,2011,13.17,29.27
+Georgia,,Both,2012,13.77,29.49
+Georgia,,Both,2013,13.65,29.74
+Georgia,,Both,2014,13.05,30.00
+Georgia,,Both,2015,12.47,30.24
+Georgia,,Both,2016,11.92,30.43
+Georgia,,Both,2017,11.42,30.61
+Georgia,,Both,2018,10.75,30.79
+Georgia,,Both,2019,10.54,30.95
+Georgia,,Both,2020,9.28,31.12
+Georgia,,Both,2021,7.65,31.28
+Germany,,Both,2010,8.93,28.54
+Germany,,Both,2011,8.99,28.71
+Germany,,Both,2012,9.08,28.90
+Germany,,Both,2013,9.16,29.10
+Germany,,Both,2014,9.16,29.30
+Germany,,Both,2015,9.17,29.48
+Germany,,Both,2016,9.13,29.65
+Germany,,Both,2017,9.09,29.82
+Germany,,Both,2018,9.03,30.01
+Germany,,Both,2019,9.00,30.21
+Germany,,Both,2020,8.74,30.43
+Germany,,Both,2021,8.44,30.66
+Greece,,Both,2010,7.88,30.74
+Greece,,Both,2011,7.95,31.11
+Greece,,Both,2012,8.03,31.50
+Greece,,Both,2013,8.15,31.90
+Greece,,Both,2014,8.32,32.30
+Greece,,Both,2015,8.50,32.69
+Greece,,Both,2016,8.64,33.05
+Greece,,Both,2017,8.77,33.40
+Greece,,Both,2018,8.91,33.76
+Greece,,Both,2019,8.99,34.11
+Greece,,Both,2020,8.73,34.45
+Greece,,Both,2021,8.20,34.79
+Hungary,,Both,2010,10.91,36.30
+Hungary,,Both,2011,11.06,36.63
+Hungary,,Both,2012,11.16,36.97
+Hungary,,Both,2013,11.34,37.31
+Hungary,,Both,2014,11.48,37.66
+Hungary,,Both,2015,11.74,38.01
+Hungary,,Both,2016,12.10,38.38
+Hungary,,Both,2017,12.21,38.80
+Hungary,,Both,2018,12.21,39.21
+Hungary,,Both,2019,12.23,39.60
+Hungary,,Both,2020,11.27,39.98
+Hungary,,Both,2021,9.83,40.33
+Iceland,,Both,2010,7.00,32.51
+Iceland,,Both,2011,7.02,32.79
+Iceland,,Both,2012,7.11,33.09
+Iceland,,Both,2013,7.15,33.36
+Iceland,,Both,2014,7.21,33.62
+Iceland,,Both,2015,7.18,33.85
+Iceland,,Both,2016,7.13,34.05
+Iceland,,Both,2017,7.10,34.26
+Iceland,,Both,2018,7.10,34.47
+Iceland,,Both,2019,7.19,34.68
+Iceland,,Both,2020,7.17,34.90
+Iceland,,Both,2021,7.24,35.13
+Ireland,,Both,2010,6.58,30.26
+Ireland,,Both,2011,6.60,30.63
+Ireland,,Both,2012,6.71,31.00
+Ireland,,Both,2013,6.78,31.37
+Ireland,,Both,2014,6.72,31.74
+Ireland,,Both,2015,6.79,32.09
+Ireland,,Both,2016,6.83,32.41
+Ireland,,Both,2017,6.85,32.72
+Ireland,,Both,2018,6.88,33.02
+Ireland,,Both,2019,6.90,33.28
+Ireland,,Both,2020,6.48,33.52
+Ireland,,Both,2021,6.26,33.77
+Israel,,Both,2010,9.38,25.89
+Israel,,Both,2011,9.36,26.11
+Israel,,Both,2012,9.38,26.33
+Israel,,Both,2013,9.40,26.56
+Israel,,Both,2014,9.21,26.80
+Israel,,Both,2015,9.47,27.06
+Israel,,Both,2016,9.45,27.31
+Israel,,Both,2017,9.43,27.58
+Israel,,Both,2018,9.40,27.85
+Israel,,Both,2019,9.49,28.12
+Israel,,Both,2020,8.93,28.39
+Israel,,Both,2021,8.71,28.65
+Italy,,Both,2010,8.46,23.85
+Italy,,Both,2011,8.58,24.09
+Italy,,Both,2012,8.69,24.36
+Italy,,Both,2013,8.76,24.66
+Italy,,Both,2014,8.83,24.98
+Italy,,Both,2015,8.97,25.31
+Italy,,Both,2016,9.00,25.67
+Italy,,Both,2017,9.08,26.10
+Italy,,Both,2018,9.16,26.55
+Italy,,Both,2019,9.29,26.98
+Italy,,Both,2020,8.17,27.40
+Italy,,Both,2021,8.64,27.83
+Kazakhstan,,Both,2010,8.37,26.18
+Kazakhstan,,Both,2011,8.19,26.44
+Kazakhstan,,Both,2012,8.11,26.71
+Kazakhstan,,Both,2013,8.07,26.99
+Kazakhstan,,Both,2014,8.06,27.29
+Kazakhstan,,Both,2015,8.07,27.60
+Kazakhstan,,Both,2016,8.06,27.93
+Kazakhstan,,Both,2017,8.03,28.29
+Kazakhstan,,Both,2018,8.10,28.68
+Kazakhstan,,Both,2019,8.13,29.06
+Kazakhstan,,Both,2020,6.88,29.45
+Kazakhstan,,Both,2021,5.92,29.82
+Latvia,,Both,2010,10.61,32.91
+Latvia,,Both,2011,10.73,33.20
+Latvia,,Both,2012,10.69,33.52
+Latvia,,Both,2013,10.72,33.86
+Latvia,,Both,2014,10.74,34.23
+Latvia,,Both,2015,10.74,34.61
+Latvia,,Both,2016,10.82,34.98
+Latvia,,Both,2017,10.94,35.38
+Latvia,,Both,2018,11.01,35.78
+Latvia,,Both,2019,11.09,36.15
+Latvia,,Both,2020,10.63,36.55
+Latvia,,Both,2021,8.84,36.85
+Lithuania,,Both,2010,9.24,30.51
+Lithuania,,Both,2011,9.40,30.83
+Lithuania,,Both,2012,9.47,31.16
+Lithuania,,Both,2013,9.49,31.50
+Lithuania,,Both,2014,9.61,31.87
+Lithuania,,Both,2015,9.77,32.26
+Lithuania,,Both,2016,9.88,32.67
+Lithuania,,Both,2017,10.15,33.11
+Lithuania,,Both,2018,10.34,33.57
+Lithuania,,Both,2019,10.52,34.02
+Lithuania,,Both,2020,9.32,34.50
+Lithuania,,Both,2021,8.49,34.93
+Luxembourg,,Both,2010,7.02,27.00
+Luxembourg,,Both,2011,7.09,27.24
+Luxembourg,,Both,2012,7.13,27.47
+Luxembourg,,Both,2013,7.32,27.72
+Luxembourg,,Both,2014,7.41,27.99
+Luxembourg,,Both,2015,7.47,28.26
+Luxembourg,,Both,2016,7.44,28.50
+Luxembourg,,Both,2017,7.52,28.74
+Luxembourg,,Both,2018,7.58,29.00
+Luxembourg,,Both,2019,7.59,29.27
+Luxembourg,,Both,2020,6.86,29.56
+Luxembourg,,Both,2021,7.00,29.84
+Malta,,Both,2010,8.28,27.12
+Malta,,Both,2011,8.24,27.44
+Malta,,Both,2012,8.29,27.76
+Malta,,Both,2013,8.42,28.06
+Malta,,Both,2014,8.57,28.36
+Malta,,Both,2015,8.71,28.66
+Malta,,Both,2016,8.72,28.93
+Malta,,Both,2017,8.72,29.21
+Malta,,Both,2018,8.75,29.49
+Malta,,Both,2019,8.79,29.76
+Malta,,Both,2020,8.38,30.03
+Malta,,Both,2021,8.51,30.33
+Monaco,,Both,2010,7.22,34.43
+Monaco,,Both,2011,7.26,34.65
+Monaco,,Both,2012,7.29,34.89
+Monaco,,Both,2013,7.33,35.15
+Monaco,,Both,2014,7.36,35.43
+Monaco,,Both,2015,7.41,35.67
+Monaco,,Both,2016,7.44,35.95
+Monaco,,Both,2017,7.49,36.24
+Monaco,,Both,2018,7.52,36.53
+Monaco,,Both,2019,7.56,36.79
+Monaco,,Both,2020,7.36,37.06
+Monaco,,Both,2021,6.56,37.34
+Montenegro,,Both,2010,10.80,37.07
+Montenegro,,Both,2011,10.86,37.55
+Montenegro,,Both,2012,10.89,38.05
+Montenegro,,Both,2013,10.94,38.55
+Montenegro,,Both,2014,11.03,39.03
+Montenegro,,Both,2015,11.14,39.47
+Montenegro,,Both,2016,11.21,39.90
+Montenegro,,Both,2017,11.26,40.31
+Montenegro,,Both,2018,11.33,40.71
+Montenegro,,Both,2019,11.38,41.07
+Montenegro,,Both,2020,10.08,41.45
+Montenegro,,Both,2021,8.25,41.79
+Netherlands,,Both,2010,5.78,26.10
+Netherlands,,Both,2011,5.82,26.38
+Netherlands,,Both,2012,5.85,26.66
+Netherlands,,Both,2013,5.97,26.94
+Netherlands,,Both,2014,6.03,27.22
+Netherlands,,Both,2015,6.03,27.49
+Netherlands,,Both,2016,6.03,27.76
+Netherlands,,Both,2017,5.99,28.04
+Netherlands,,Both,2018,5.94,28.32
+Netherlands,,Both,2019,5.97,28.58
+Netherlands,,Both,2020,5.51,28.85
+Netherlands,,Both,2021,5.56,29.11
+North Macedonia,,Both,2010,11.94,31.32
+North Macedonia,,Both,2011,12.03,31.68
+North Macedonia,,Both,2012,12.12,32.05
+North Macedonia,,Both,2013,12.17,32.43
+North Macedonia,,Both,2014,12.22,32.80
+North Macedonia,,Both,2015,12.29,33.17
+North Macedonia,,Both,2016,12.32,33.55
+North Macedonia,,Both,2017,12.38,33.92
+North Macedonia,,Both,2018,12.44,34.29
+North Macedonia,,Both,2019,12.41,34.64
+North Macedonia,,Both,2020,9.98,34.99
+North Macedonia,,Both,2021,8.59,35.33
+Norway,,Both,2010,5.23,25.08
+Norway,,Both,2011,5.22,25.25
+Norway,,Both,2012,5.23,25.46
+Norway,,Both,2013,5.23,25.69
+Norway,,Both,2014,5.20,25.93
+Norway,,Both,2015,5.18,26.17
+Norway,,Both,2016,5.17,26.40
+Norway,,Both,2017,5.14,26.65
+Norway,,Both,2018,5.12,26.91
+Norway,,Both,2019,5.20,27.15
+Norway,,Both,2020,5.20,27.40
+Norway,,Both,2021,5.18,27.65
+Poland,,Both,2010,8.97,29.10
+Poland,,Both,2011,8.96,29.39
+Poland,,Both,2012,8.95,29.68
+Poland,,Both,2013,8.92,29.98
+Poland,,Both,2014,8.89,30.28
+Poland,,Both,2015,9.05,30.59
+Poland,,Both,2016,9.13,30.89
+Poland,,Both,2017,9.25,31.20
+Poland,,Both,2018,9.41,31.52
+Poland,,Both,2019,9.52,31.82
+Poland,,Both,2020,8.27,32.16
+Poland,,Both,2021,7.69,32.52
+Portugal,,Both,2010,7.68,28.20
+Portugal,,Both,2011,7.70,28.53
+Portugal,,Both,2012,7.73,28.87
+Portugal,,Both,2013,7.77,29.22
+Portugal,,Both,2014,7.83,29.56
+Portugal,,Both,2015,7.85,29.90
+Portugal,,Both,2016,7.87,30.24
+Portugal,,Both,2017,7.91,30.61
+Portugal,,Both,2018,8.03,30.97
+Portugal,,Both,2019,8.13,31.29
+Portugal,,Both,2020,7.54,31.56
+Portugal,,Both,2021,7.54,31.86
+Republic of Moldova,,Both,2010,10.49,33.09
+Republic of Moldova,,Both,2011,10.74,33.61
+Republic of Moldova,,Both,2012,11.00,34.18
+Republic of Moldova,,Both,2013,11.27,34.76
+Republic of Moldova,,Both,2014,11.58,35.35
+Republic of Moldova,,Both,2015,12.00,35.91
+Republic of Moldova,,Both,2016,12.33,36.46
+Republic of Moldova,,Both,2017,12.61,37.00
+Republic of Moldova,,Both,2018,12.71,37.55
+Republic of Moldova,,Both,2019,12.77,38.10
+Republic of Moldova,,Both,2020,11.53,38.67
+Republic of Moldova,,Both,2021,10.36,39.18
+Romania,,Both,2010,10.43,32.44
+Romania,,Both,2011,10.48,32.91
+Romania,,Both,2012,10.53,33.40
+Romania,,Both,2013,10.52,33.88
+Romania,,Both,2014,10.52,34.34
+Romania,,Both,2015,10.60,34.80
+Romania,,Both,2016,10.56,35.21
+Romania,,Both,2017,10.59,35.61
+Romania,,Both,2018,10.62,36.00
+Romania,,Both,2019,10.70,36.34
+Romania,,Both,2020,9.43,36.67
+Romania,,Both,2021,8.47,36.92
+Russian Federation,,Both,2010,8.85,30.80
+Russian Federation,,Both,2011,9.03,31.28
+Russian Federation,,Both,2012,9.14,31.82
+Russian Federation,,Both,2013,9.19,32.40
+Russian Federation,,Both,2014,9.26,32.99
+Russian Federation,,Both,2015,9.40,33.56
+Russian Federation,,Both,2016,9.58,34.09
+Russian Federation,,Both,2017,9.73,34.62
+Russian Federation,,Both,2018,9.85,35.14
+Russian Federation,,Both,2019,9.92,35.64
+Russian Federation,,Both,2020,8.35,36.17
+Russian Federation,,Both,2021,7.38,36.65
+San Marino,,Both,2010,7.00,31.54
+San Marino,,Both,2011,7.09,31.87
+San Marino,,Both,2012,7.18,32.21
+San Marino,,Both,2013,7.25,32.55
+San Marino,,Both,2014,7.37,32.88
+San Marino,,Both,2015,7.47,33.19
+San Marino,,Both,2016,7.53,33.48
+San Marino,,Both,2017,7.60,33.77
+San Marino,,Both,2018,7.64,34.04
+San Marino,,Both,2019,7.70,34.30
+San Marino,,Both,2020,6.31,34.55
+San Marino,,Both,2021,6.70,34.80
+Serbia,,Both,2010,10.83,31.98
+Serbia,,Both,2011,10.88,32.44
+Serbia,,Both,2012,10.97,32.91
+Serbia,,Both,2013,11.06,33.37
+Serbia,,Both,2014,11.18,33.82
+Serbia,,Both,2015,11.31,34.29
+Serbia,,Both,2016,11.42,34.76
+Serbia,,Both,2017,11.54,35.21
+Serbia,,Both,2018,11.62,35.68
+Serbia,,Both,2019,11.69,36.14
+Serbia,,Both,2020,10.50,36.61
+Serbia,,Both,2021,9.76,37.05
+Slovakia,,Both,2010,10.76,32.86
+Slovakia,,Both,2011,10.83,33.21
+Slovakia,,Both,2012,10.89,33.60
+Slovakia,,Both,2013,10.96,34.02
+Slovakia,,Both,2014,11.00,34.45
+Slovakia,,Both,2015,11.10,34.90
+Slovakia,,Both,2016,11.15,35.35
+Slovakia,,Both,2017,11.23,35.81
+Slovakia,,Both,2018,11.29,36.28
+Slovakia,,Both,2019,11.36,36.71
+Slovakia,,Both,2020,10.47,37.16
+Slovakia,,Both,2021,8.65,37.54
+Slovenia,,Both,2010,9.23,34.60
+Slovenia,,Both,2011,9.44,35.00
+Slovenia,,Both,2012,9.58,35.44
+Slovenia,,Both,2013,9.80,35.88
+Slovenia,,Both,2014,9.98,36.32
+Slovenia,,Both,2015,10.01,36.75
+Slovenia,,Both,2016,10.04,37.19
+Slovenia,,Both,2017,10.14,37.63
+Slovenia,,Both,2018,10.18,38.06
+Slovenia,,Both,2019,10.27,38.45
+Slovenia,,Both,2020,9.10,38.84
+Slovenia,,Both,2021,8.98,39.19
+Spain,,Both,2010,8.27,30.97
+Spain,,Both,2011,8.31,31.29
+Spain,,Both,2012,8.32,31.64
+Spain,,Both,2013,8.43,32.00
+Spain,,Both,2014,8.47,32.37
+Spain,,Both,2015,8.49,32.76
+Spain,,Both,2016,8.54,33.17
+Spain,,Both,2017,8.59,33.65
+Spain,,Both,2018,8.68,34.15
+Spain,,Both,2019,8.77,34.61
+Spain,,Both,2020,7.67,35.05
+Spain,,Both,2021,8.22,35.61
+Sweden,,Both,2010,6.92,26.38
+Sweden,,Both,2011,6.94,26.60
+Sweden,,Both,2012,6.94,26.83
+Sweden,,Both,2013,7.04,27.07
+Sweden,,Both,2014,7.12,27.31
+Sweden,,Both,2015,7.19,27.57
+Sweden,,Both,2016,7.29,27.83
+Sweden,,Both,2017,7.36,28.11
+Sweden,,Both,2018,7.28,28.40
+Sweden,,Both,2019,7.28,28.66
+Sweden,,Both,2020,6.62,28.92
+Sweden,,Both,2021,7.00,29.16
+Switzerland,,Both,2010,7.08,21.59
+Switzerland,,Both,2011,7.14,21.77
+Switzerland,,Both,2012,7.18,21.96
+Switzerland,,Both,2013,7.18,22.18
+Switzerland,,Both,2014,7.18,22.40
+Switzerland,,Both,2015,7.16,22.63
+Switzerland,,Both,2016,7.16,22.87
+Switzerland,,Both,2017,7.13,23.14
+Switzerland,,Both,2018,7.19,23.42
+Switzerland,,Both,2019,7.26,23.69
+Switzerland,,Both,2020,6.58,23.98
+Switzerland,,Both,2021,6.94,24.25
+Ukraine,,Both,2010,9.99,30.86
+Ukraine,,Both,2011,10.03,31.23
+Ukraine,,Both,2012,10.08,31.62
+Ukraine,,Both,2013,10.22,32.05
+Ukraine,,Both,2014,10.27,32.48
+Ukraine,,Both,2015,10.50,32.89
+Ukraine,,Both,2016,10.62,33.30
+Ukraine,,Both,2017,10.63,33.71
+Ukraine,,Both,2018,10.67,34.14
+Ukraine,,Both,2019,10.73,34.56
+Ukraine,,Both,2020,10.21,35.06
+Ukraine,,Both,2021,8.85,35.50
+United Kingdom,,Both,2010,6.40,32.05
+United Kingdom,,Both,2011,6.41,32.29
+United Kingdom,,Both,2012,6.43,32.54
+United Kingdom,,Both,2013,6.44,32.79
+United Kingdom,,Both,2014,6.49,33.04
+United Kingdom,,Both,2015,6.51,33.29
+United Kingdom,,Both,2016,6.58,33.52
+United Kingdom,,Both,2017,6.63,33.77
+United Kingdom,,Both,2018,6.68,34.01
+United Kingdom,,Both,2019,6.75,34.24
+United Kingdom,,Both,2020,5.86,34.47
+United Kingdom,,Both,2021,5.85,34.74

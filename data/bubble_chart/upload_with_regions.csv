@@ -1,0 +1,577 @@
+country,continent,year,death,pop,obesity
+Albania,Southern Europe,2010,8.28,2887537.928,27.82
+Albania,Southern Europe,2011,8.34,2866683.227,28.16
+Albania,Southern Europe,2012,8.4,2848412.215,28.51
+Albania,Southern Europe,2013,8.48,2831519.967,28.85
+Albania,Southern Europe,2014,8.56,2811551.544,29.21
+Albania,Southern Europe,2015,8.63,2783163.19,29.59
+Albania,Southern Europe,2016,8.69,2754742.121,29.98
+Albania,Southern Europe,2017,8.75,2739941.576,30.34
+Albania,Southern Europe,2018,8.79,2727322.62,30.7
+Albania,Southern Europe,2019,8.81,2708477.035,31.07
+Albania,Southern Europe,2020,7.41,2688664.842,31.44
+Albania,Southern Europe,2021,6.92,2667861.962,31.81
+Andorra,Southern Europe,2010,6.97,84023.07061,24.74
+Andorra,Southern Europe,2011,7.1,78211.45405,24.99
+Andorra,Southern Europe,2012,7.22,76154.2813,25.31
+Andorra,Southern Europe,2013,7.32,75946.87604,25.72
+Andorra,Southern Europe,2014,7.41,76758.23035,26.11
+Andorra,Southern Europe,2015,7.49,77744.10726,26.48
+Andorra,Southern Europe,2016,7.58,78212.04629,26.9
+Andorra,Southern Europe,2017,7.7,79983.97167,27.32
+Andorra,Southern Europe,2018,7.79,81596.92643,27.75
+Andorra,Southern Europe,2019,7.85,83064.77461,28.15
+Andorra,Southern Europe,2020,6.77,84395.96609,28.53
+Andorra,Southern Europe,2021,6.88,85593.3334,28.93
+Armenia,Central Europe,2010,11.51,3113961.516,27.68
+Armenia,Central Europe,2011,11.34,3100954.455,27.87
+Armenia,Central Europe,2012,11.42,3089193.783,28.09
+Armenia,Central Europe,2013,11.35,3078763.053,28.37
+Armenia,Central Europe,2014,11.16,3069112.555,28.69
+Armenia,Central Europe,2015,11.17,3059492.28,29.01
+Armenia,Central Europe,2016,11.09,3049758.933,29.36
+Armenia,Central Europe,2017,11.25,3040742.477,29.73
+Armenia,Central Europe,2018,11.06,3032658.92,30.14
+Armenia,Central Europe,2019,10.87,3024838.414,30.54
+Armenia,Central Europe,2020,8.09,3011472.184,30.96
+Armenia,Central Europe,2021,8.98,2995279.714,31.35
+Austria,Western Europe,2010,8.83,8371235.231,24.47
+Austria,Western Europe,2011,8.92,8401727.694,24.75
+Austria,Western Europe,2012,9.06,8445172.569,25.04
+Austria,Western Europe,2013,9.2,8503333.249,25.34
+Austria,Western Europe,2014,9.37,8576947.878,25.62
+Austria,Western Europe,2015,9.49,8661713.099,25.89
+Austria,Western Europe,2016,9.49,8740810.768,26.15
+Austria,Western Europe,2017,9.31,8798413.233,26.42
+Austria,Western Europe,2018,9.27,8851383.358,26.72
+Austria,Western Europe,2019,9.15,8900697.113,26.99
+Austria,Western Europe,2020,8.48,8943873.542,27.26
+Austria,Western Europe,2021,8.28,8982311.518,27.55
+Azerbaijan,Central Europe,2010,11.41,9296785.005,27.3
+Azerbaijan,Central Europe,2011,11.44,9424234.682,27.61
+Azerbaijan,Central Europe,2012,11.49,9552400.945,27.96
+Azerbaijan,Central Europe,2013,11.55,9680235.969,28.33
+Azerbaijan,Central Europe,2014,11.64,9805938.689,28.74
+Azerbaijan,Central Europe,2015,11.8,9928066.124,29.14
+Azerbaijan,Central Europe,2016,11.92,10044681.42,29.57
+Azerbaijan,Central Europe,2017,12.07,10154522.46,30.02
+Azerbaijan,Central Europe,2018,12.19,10257802.05,30.47
+Azerbaijan,Central Europe,2019,12.31,10355592.88,30.92
+Azerbaijan,Central Europe,2020,9.26,10436676.37,31.36
+Azerbaijan,Central Europe,2021,8.8,10500168.38,31.81
+Belarus,Eastern Europe,2010,9.1,9655447.904,29.42
+Belarus,Eastern Europe,2011,9.19,9619105.179,29.88
+Belarus,Eastern Europe,2012,9.31,9592677.204,30.36
+Belarus,Eastern Europe,2013,9.52,9575427.38,30.87
+Belarus,Eastern Europe,2014,9.67,9560438.736,31.4
+Belarus,Eastern Europe,2015,9.75,9548359.203,31.93
+Belarus,Eastern Europe,2016,9.89,9534273.413,32.48
+Belarus,Eastern Europe,2017,10.03,9513693.001,33.04
+Belarus,Eastern Europe,2018,10.17,9485592.116,33.59
+Belarus,Eastern Europe,2019,10.28,9449997.444,34.12
+Belarus,Eastern Europe,2020,8.75,9398586.13,34.65
+Belarus,Eastern Europe,2021,7.78,9324657.468,35.13
+Belgium,Western Europe,2010,5.72,10875113.52,26.08
+Belgium,Western Europe,2011,5.74,10957234.69,26.37
+Belgium,Western Europe,2012,5.75,11034366.58,26.68
+Belgium,Western Europe,2013,5.78,11103696.41,26.99
+Belgium,Western Europe,2014,5.83,11166912.13,27.31
+Belgium,Western Europe,2015,5.85,11225082.64,27.62
+Belgium,Western Europe,2016,5.85,11278768.38,27.92
+Belgium,Western Europe,2017,5.82,11328577.08,28.23
+Belgium,Western Europe,2018,5.81,11373843.81,28.54
+Belgium,Western Europe,2019,5.83,11414813.88,28.84
+Belgium,Western Europe,2020,4.99,11443596.73,29.15
+Belgium,Western Europe,2021,5.54,11469271.63,29.44
+Bosnia and Herzegovina,Southern Europe,2010,10.47,3801585.819,29.26
+Bosnia and Herzegovina,Southern Europe,2011,10.52,3744124.721,29.62
+Bosnia and Herzegovina,Southern Europe,2012,10.59,3689829.485,30.02
+Bosnia and Herzegovina,Southern Europe,2013,10.67,3643411.862,30.43
+Bosnia and Herzegovina,Southern Europe,2014,10.75,3603382.509,30.8
+Bosnia and Herzegovina,Southern Europe,2015,10.82,3560513.978,31.13
+Bosnia and Herzegovina,Southern Europe,2016,10.83,3515475.177,31.45
+Bosnia and Herzegovina,Southern Europe,2017,10.89,3472363.605,31.75
+Bosnia and Herzegovina,Southern Europe,2018,10.93,3430692.397,32.07
+Bosnia and Herzegovina,Southern Europe,2019,11.03,3390673.729,32.36
+Bosnia and Herzegovina,Southern Europe,2020,9.72,3349756.802,32.65
+Bosnia and Herzegovina,Southern Europe,2021,8.76,3302863.695,32.99
+Bulgaria,Eastern Europe,2010,15.11,7435781.853,31.8
+Bulgaria,Eastern Europe,2011,15.28,7358780.93,32.1
+Bulgaria,Eastern Europe,2012,15.04,7292494.219,32.4
+Bulgaria,Eastern Europe,2013,14.97,7238201.752,32.72
+Bulgaria,Eastern Europe,2014,15.17,7189378.689,33.04
+Bulgaria,Eastern Europe,2015,15.31,7141050.254,33.37
+Bulgaria,Eastern Europe,2016,15.63,7092292.436,33.69
+Bulgaria,Eastern Europe,2017,15.55,7041911.521,34.06
+Bulgaria,Eastern Europe,2018,15.52,6989759.661,34.43
+Bulgaria,Eastern Europe,2019,15.56,6936678.757,34.73
+Bulgaria,Eastern Europe,2020,13.54,6872909.927,34.99
+Bulgaria,Eastern Europe,2021,11.14,6786933.061,35.23
+Croatia,Southern Europe,2010,10.43,4384801.097,33.99
+Croatia,Southern Europe,2011,10.31,4373010.895,34.39
+Croatia,Southern Europe,2012,10.32,4360567.964,34.82
+Croatia,Southern Europe,2013,10.45,4347926.519,35.26
+Croatia,Southern Europe,2014,10.43,4334534.156,35.69
+Croatia,Southern Europe,2015,10.64,4318679.922,36.09
+Croatia,Southern Europe,2016,10.6,4302321.354,36.48
+Croatia,Southern Europe,2017,10.65,4286313.229,36.85
+Croatia,Southern Europe,2018,10.7,4269508.298,37.21
+Croatia,Southern Europe,2019,10.77,4252705.402,37.57
+Croatia,Southern Europe,2020,9.92,4233335.86,38
+Croatia,Southern Europe,2021,9.18,4208639.425,38.43
+Cyprus,Southern Europe,2010,8.94,1121754.663,24.72
+Cyprus,Southern Europe,2011,8.99,1144941.12,25.12
+Cyprus,Southern Europe,2012,9.06,1167784.79,25.53
+Cyprus,Southern Europe,2013,9.15,1190337.972,25.95
+Cyprus,Southern Europe,2014,9.2,1212677.995,26.37
+Cyprus,Southern Europe,2015,9.26,1234826.566,26.79
+Cyprus,Southern Europe,2016,9.3,1256773.131,27.19
+Cyprus,Southern Europe,2017,9.34,1278319.813,27.6
+Cyprus,Southern Europe,2018,9.43,1299218.069,28.01
+Cyprus,Southern Europe,2019,9.47,1319376.832,28.41
+Cyprus,Southern Europe,2020,9.43,1338917.455,28.8
+Cyprus,Southern Europe,2021,9.07,1357775.946,29.19
+Czechia,Eastern Europe,2010,9.82,10473686.27,33.18
+Czechia,Eastern Europe,2011,10.05,10500800.48,33.49
+Czechia,Eastern Europe,2012,10.19,10522720.89,33.82
+Czechia,Eastern Europe,2013,10.55,10542073.53,34.18
+Czechia,Eastern Europe,2014,10.64,10561514.99,34.56
+Czechia,Eastern Europe,2015,10.71,10581021.21,34.94
+Czechia,Eastern Europe,2016,10.79,10599954.23,35.33
+Czechia,Eastern Europe,2017,10.88,10618261.12,35.72
+Czechia,Eastern Europe,2018,11.06,10633995.03,36.11
+Czechia,Eastern Europe,2019,11.17,10646243.53,36.48
+Czechia,Eastern Europe,2020,9.87,10647069.43,36.83
+Czechia,Eastern Europe,2021,9.12,10632383.17,37.16
+Denmark,Northern Europe,2010,5.56,5535258.915,25.43
+Denmark,Northern Europe,2011,5.61,5560433.889,25.68
+Denmark,Northern Europe,2012,5.63,5585431.675,25.93
+Denmark,Northern Europe,2013,5.66,5611485.103,26.17
+Denmark,Northern Europe,2014,5.69,5640347.071,26.4
+Denmark,Northern Europe,2015,5.74,5672834.773,26.62
+Denmark,Northern Europe,2016,5.8,5707416.249,26.83
+Denmark,Northern Europe,2017,5.8,5741241.878,27.05
+Denmark,Northern Europe,2018,5.82,5772104.058,27.26
+Denmark,Northern Europe,2019,5.86,5800319.346,27.47
+Denmark,Northern Europe,2020,5.79,5826972.55,27.68
+Denmark,Northern Europe,2021,5.7,5851783.434,27.9
+Estonia,Northern Europe,2010,13.71,1332331.066,32.85
+Estonia,Northern Europe,2011,14.13,1328632.733,33.18
+Estonia,Northern Europe,2012,14.55,1324226.057,33.55
+Estonia,Northern Europe,2013,15.08,1320105.448,33.92
+Estonia,Northern Europe,2014,15.58,1316978.145,34.31
+Estonia,Northern Europe,2015,15.98,1315310.282,34.68
+Estonia,Northern Europe,2016,16.26,1314826.83,35.01
+Estonia,Northern Europe,2017,16.24,1314773.378,35.36
+Estonia,Northern Europe,2018,16.16,1314879.473,35.71
+Estonia,Northern Europe,2019,16.22,1314645.574,36.05
+Estonia,Northern Europe,2020,15.84,1313779.135,36.44
+Estonia,Northern Europe,2021,13.42,1310833.883,36.73
+Finland,Northern Europe,2010,7.56,5382722.053,29.37
+Finland,Northern Europe,2011,7.67,5408003.813,29.59
+Finland,Northern Europe,2012,7.79,5432394.562,29.81
+Finland,Northern Europe,2013,7.93,5455309.618,30.03
+Finland,Northern Europe,2014,8.13,5476274.271,30.26
+Finland,Northern Europe,2015,8.28,5494485.996,30.48
+Finland,Northern Europe,2016,8.36,5509000.385,30.71
+Finland,Northern Europe,2017,8.51,5519494.779,30.96
+Finland,Northern Europe,2018,8.62,5526346.188,31.22
+Finland,Northern Europe,2019,8.66,5530695.064,31.45
+Finland,Northern Europe,2020,8.57,5533961.408,31.67
+Finland,Northern Europe,2021,8.42,5535925.358,31.88
+France,Western Europe,2010,6.06,63752631.04,24.93
+France,Western Europe,2011,6.1,64072217.44,25.31
+France,Western Europe,2012,6.17,64386351.39,25.68
+France,Western Europe,2013,6.26,64696997.59,26.06
+France,Western Europe,2014,6.31,65003341.47,26.42
+France,Western Europe,2015,6.35,65285565.39,26.77
+France,Western Europe,2016,6.4,65533863.36,27.1
+France,Western Europe,2017,6.47,65756774.92,27.42
+France,Western Europe,2018,6.56,65959312.5,27.74
+France,Western Europe,2019,6.61,66143081.96,28.03
+France,Western Europe,2020,6.04,66281784.05,28.33
+France,Western Europe,2021,6.11,66389876.74,28.6
+Georgia,Eastern Europe,2010,11.64,3995395.687,29.09
+Georgia,Eastern Europe,2011,13.17,3946979.86,29.27
+Georgia,Eastern Europe,2012,13.77,3902287.425,29.49
+Georgia,Eastern Europe,2013,13.65,3862323.682,29.74
+Georgia,Eastern Europe,2014,13.05,3827051.908,30
+Georgia,Eastern Europe,2015,12.47,3794220.858,30.24
+Georgia,Eastern Europe,2016,11.92,3761766.082,30.43
+Georgia,Eastern Europe,2017,11.42,3730713.518,30.61
+Georgia,Eastern Europe,2018,10.75,3702039.806,30.79
+Georgia,Eastern Europe,2019,10.54,3674788.796,30.95
+Georgia,Eastern Europe,2020,9.28,3644844.037,31.12
+Georgia,Eastern Europe,2021,7.65,3607286.293,31.28
+Germany,Western Europe,2010,8.93,81640320.91,28.54
+Germany,Western Europe,2011,8.99,81554393.02,28.71
+Germany,Western Europe,2012,9.08,81655393.2,28.9
+Germany,Western Europe,2013,9.16,81925729.69,29.1
+Germany,Western Europe,2014,9.16,82360213.38,29.3
+Germany,Western Europe,2015,9.17,82887906.28,29.48
+Germany,Western Europe,2016,9.13,83468572.36,29.65
+Germany,Western Europe,2017,9.09,84130985.99,29.82
+Germany,Western Europe,2018,9.03,84641239.75,30.01
+Germany,Western Europe,2019,9,84955597.99,30.21
+Germany,Western Europe,2020,8.74,85202428.48,30.43
+Germany,Western Europe,2021,8.44,85371847.52,30.66
+Greece,Southern Europe,2010,7.88,11072828.59,30.74
+Greece,Southern Europe,2011,7.95,11010374.79,31.11
+Greece,Southern Europe,2012,8.03,10907175.07,31.5
+Greece,Southern Europe,2013,8.15,10787370.54,31.9
+Greece,Southern Europe,2014,8.32,10677819.88,32.3
+Greece,Southern Europe,2015,8.5,10575608,32.69
+Greece,Southern Europe,2016,8.64,10497120.27,33.05
+Greece,Southern Europe,2017,8.77,10439107.27,33.4
+Greece,Southern Europe,2018,8.91,10378824.22,33.76
+Greece,Southern Europe,2019,8.99,10316652.26,34.11
+Greece,Southern Europe,2020,8.73,10250327.8,34.45
+Greece,Southern Europe,2021,8.2,10174910.32,34.79
+Hungary,Eastern Europe,2010,10.91,9961693.595,36.3
+Hungary,Eastern Europe,2011,11.06,9931932.516,36.63
+Hungary,Eastern Europe,2012,11.16,9901885.122,36.97
+Hungary,Eastern Europe,2013,11.34,9873087.386,37.31
+Hungary,Eastern Europe,2014,11.48,9845432.999,37.66
+Hungary,Eastern Europe,2015,11.74,9816133.719,38.01
+Hungary,Eastern Europe,2016,12.1,9786440.892,38.38
+Hungary,Eastern Europe,2017,12.21,9755910.646,38.8
+Hungary,Eastern Europe,2018,12.21,9722543.076,39.21
+Hungary,Eastern Europe,2019,12.23,9688911.429,39.6
+Hungary,Eastern Europe,2020,11.27,9649797.706,39.98
+Hungary,Eastern Europe,2021,9.83,9597310.373,40.33
+Iceland,Northern Europe,2010,7,318440.5552,32.51
+Iceland,Northern Europe,2011,7.02,319341.4276,32.79
+Iceland,Northern Europe,2012,7.11,320606.1545,33.09
+Iceland,Northern Europe,2013,7.15,322742.3996,33.36
+Iceland,Northern Europe,2014,7.21,325790.4947,33.62
+Iceland,Northern Europe,2015,7.18,329409.6886,33.85
+Iceland,Northern Europe,2016,7.13,333385.3304,34.05
+Iceland,Northern Europe,2017,7.1,337480.8753,34.26
+Iceland,Northern Europe,2018,7.1,341068.6398,34.47
+Iceland,Northern Europe,2019,7.19,344346.6793,34.68
+Iceland,Northern Europe,2020,7.17,347445.6636,34.9
+Iceland,Northern Europe,2021,7.24,350385.9394,35.13
+Ireland,Northern Europe,2010,6.58,4598719.221,30.26
+Ireland,Northern Europe,2011,6.6,4656749.832,30.63
+Ireland,Northern Europe,2012,6.71,4705516.131,31
+Ireland,Northern Europe,2013,6.78,4746050.478,31.37
+Ireland,Northern Europe,2014,6.72,4780078.823,31.74
+Ireland,Northern Europe,2015,6.79,4809323.065,32.09
+Ireland,Northern Europe,2016,6.83,4835047.627,32.41
+Ireland,Northern Europe,2017,6.85,4859187.97,32.72
+Ireland,Northern Europe,2018,6.88,4882273.721,33.02
+Ireland,Northern Europe,2019,6.9,4903560.717,33.28
+Ireland,Northern Europe,2020,6.48,4923036.214,33.52
+Ireland,Northern Europe,2021,6.26,4941374.274,33.77
+Israel,Central Europe,2010,9.38,7845894.47,25.89
+Israel,Central Europe,2011,9.36,8001492.808,26.11
+Israel,Central Europe,2012,9.38,8158194.919,26.33
+Israel,Central Europe,2013,9.4,8316609.333,26.56
+Israel,Central Europe,2014,9.21,8476260.758,26.8
+Israel,Central Europe,2015,9.47,8637308.605,27.06
+Israel,Central Europe,2016,9.45,8799971.204,27.31
+Israel,Central Europe,2017,9.43,8963001.641,27.58
+Israel,Central Europe,2018,9.4,9124822.227,27.85
+Israel,Central Europe,2019,9.49,9283686.224,28.12
+Israel,Central Europe,2020,8.93,9439442.022,28.39
+Israel,Central Europe,2021,8.71,9593936.117,28.65
+Italy,Southern Europe,2010,8.46,60325306.92,23.85
+Italy,Southern Europe,2011,8.58,60564660.88,24.09
+Italy,Southern Europe,2012,8.69,60710639.43,24.36
+Italy,Southern Europe,2013,8.76,60783277.01,24.66
+Italy,Southern Europe,2014,8.83,60800879.56,24.98
+Italy,Southern Europe,2015,8.97,60768766.82,25.31
+Italy,Southern Europe,2016,9,60692488.1,25.67
+Italy,Southern Europe,2017,9.08,60587235.22,26.1
+Italy,Southern Europe,2018,9.16,60452471.95,26.55
+Italy,Southern Europe,2019,9.29,60295448.15,26.98
+Italy,Southern Europe,2020,8.17,60073251.23,27.4
+Italy,Southern Europe,2021,8.64,59811452.41,27.83
+Kazakhstan,Eastern Europe,2010,8.37,16204593.87,26.18
+Kazakhstan,Eastern Europe,2011,8.19,16439699.46,26.44
+Kazakhstan,Eastern Europe,2012,8.11,16673682.3,26.71
+Kazakhstan,Eastern Europe,2013,8.07,16910718.43,26.99
+Kazakhstan,Eastern Europe,2014,8.06,17160778.18,27.29
+Kazakhstan,Eastern Europe,2015,8.07,17415571.37,27.6
+Kazakhstan,Eastern Europe,2016,8.06,17669998.89,27.93
+Kazakhstan,Eastern Europe,2017,8.03,17926925.32,28.29
+Kazakhstan,Eastern Europe,2018,8.1,18188330.39,28.68
+Kazakhstan,Eastern Europe,2019,8.13,18456280.33,29.06
+Kazakhstan,Eastern Europe,2020,6.88,18716891.47,29.45
+Kazakhstan,Eastern Europe,2021,5.92,18955521.2,29.82
+Latvia,Eastern Europe,2010,10.61,2115921.76,32.91
+Latvia,Eastern Europe,2011,10.73,2085035.842,33.2
+Latvia,Eastern Europe,2012,10.69,2056661.33,33.52
+Latvia,Eastern Europe,2013,10.72,2030996.247,33.86
+Latvia,Eastern Europe,2014,10.74,2008172.703,34.23
+Latvia,Eastern Europe,2015,10.74,1987896.354,34.61
+Latvia,Eastern Europe,2016,10.82,1968786.141,34.98
+Latvia,Eastern Europe,2017,10.94,1949768.315,35.38
+Latvia,Eastern Europe,2018,11.01,1930562.53,35.78
+Latvia,Eastern Europe,2019,11.09,1911813.828,36.15
+Latvia,Eastern Europe,2020,10.63,1892857.198,36.55
+Latvia,Eastern Europe,2021,8.84,1870327.888,36.85
+Lithuania,Eastern Europe,2010,9.24,3091640.476,30.51
+Lithuania,Eastern Europe,2011,9.4,3052770.995,30.83
+Lithuania,Eastern Europe,2012,9.47,3015790.41,31.16
+Lithuania,Eastern Europe,2013,9.49,2980341.542,31.5
+Lithuania,Eastern Europe,2014,9.61,2946907.841,31.87
+Lithuania,Eastern Europe,2015,9.77,2914902.944,32.26
+Lithuania,Eastern Europe,2016,9.88,2882970.002,32.67
+Lithuania,Eastern Europe,2017,10.15,2852163.728,33.11
+Lithuania,Eastern Europe,2018,10.34,2822829.209,33.57
+Lithuania,Eastern Europe,2019,10.52,2794134.746,34.02
+Lithuania,Eastern Europe,2020,9.32,2763280.8,34.5
+Lithuania,Eastern Europe,2021,8.49,2728300.438,34.93
+Luxembourg,Western Europe,2010,7.02,502746.1485,27
+Luxembourg,Western Europe,2011,7.09,512867.0102,27.24
+Luxembourg,Western Europe,2012,7.13,524852.4552,27.47
+Luxembourg,Western Europe,2013,7.32,537332.9347,27.72
+Luxembourg,Western Europe,2014,7.41,549996.6246,27.99
+Luxembourg,Western Europe,2015,7.47,563104.3501,28.26
+Luxembourg,Western Europe,2016,7.44,576702.4126,28.5
+Luxembourg,Western Europe,2017,7.52,590823.0315,28.74
+Luxembourg,Western Europe,2018,7.58,604642.8982,29
+Luxembourg,Western Europe,2019,7.59,618181.0914,29.27
+Luxembourg,Western Europe,2020,6.86,631369.0802,29.56
+Luxembourg,Western Europe,2021,7,644266.3476,29.84
+Malta,Southern Europe,2010,8.28,424116.8322,27.12
+Malta,Southern Europe,2011,8.24,426087.789,27.44
+Malta,Southern Europe,2012,8.29,427918.6424,27.76
+Malta,Southern Europe,2013,8.42,429670.1306,28.06
+Malta,Southern Europe,2014,8.57,431400.9117,28.36
+Malta,Southern Europe,2015,8.71,433168.3417,28.66
+Malta,Southern Europe,2016,8.72,434976.5207,28.93
+Malta,Southern Europe,2017,8.72,436737.484,29.21
+Malta,Southern Europe,2018,8.75,438379.3048,29.49
+Malta,Southern Europe,2019,8.79,439876.7204,29.76
+Malta,Southern Europe,2020,8.38,441199.2132,30.03
+Malta,Southern Europe,2021,8.51,442219.1095,30.33
+Monaco,Western Europe,2010,7.22,35728.95247,34.43
+Monaco,Western Europe,2011,7.26,35988.15425,34.65
+Monaco,Western Europe,2012,7.29,36242.56417,34.89
+Monaco,Western Europe,2013,7.33,36485.54995,35.15
+Monaco,Western Europe,2014,7.36,36707.12039,35.43
+Monaco,Western Europe,2015,7.41,36932.94612,35.67
+Monaco,Western Europe,2016,7.44,37163.72363,35.95
+Monaco,Western Europe,2017,7.49,37319.57405,36.24
+Monaco,Western Europe,2018,7.52,37483.31194,36.53
+Monaco,Western Europe,2019,7.56,37650.21465,36.79
+Monaco,Western Europe,2020,7.36,37785.6144,37.06
+Monaco,Western Europe,2021,6.56,37863.45034,37.34
+Montenegro,Southern Europe,2010,10.8,632595.3794,37.07
+Montenegro,Southern Europe,2011,10.86,631501.764,37.55
+Montenegro,Southern Europe,2012,10.89,630368.9319,38.05
+Montenegro,Southern Europe,2013,10.94,629295.2976,38.55
+Montenegro,Southern Europe,2014,11.03,628254.29,39.03
+Montenegro,Southern Europe,2015,11.14,627208.0247,39.47
+Montenegro,Southern Europe,2016,11.21,626101.8217,39.9
+Montenegro,Southern Europe,2017,11.26,624921.8002,40.31
+Montenegro,Southern Europe,2018,11.33,623724.137,40.71
+Montenegro,Southern Europe,2019,11.38,622516.5761,41.07
+Montenegro,Southern Europe,2020,10.08,620805.4957,41.45
+Montenegro,Southern Europe,2021,8.25,618060.3128,41.79
+Netherlands,Western Europe,2010,5.78,16593357.3,26.1
+Netherlands,Western Europe,2011,5.82,16661668.01,26.38
+Netherlands,Western Europe,2012,5.85,16727831.88,26.66
+Netherlands,Western Europe,2013,5.97,16792512.77,26.94
+Netherlands,Western Europe,2014,6.03,16857686.83,27.22
+Netherlands,Western Europe,2015,6.03,16921695.85,27.49
+Netherlands,Western Europe,2016,6.03,16981991.69,27.76
+Netherlands,Western Europe,2017,5.99,17037957.37,28.04
+Netherlands,Western Europe,2018,5.94,17088783.01,28.32
+Netherlands,Western Europe,2019,5.97,17136136.24,28.58
+Netherlands,Western Europe,2020,5.51,17176116.79,28.85
+Netherlands,Western Europe,2021,5.56,17210661.8,29.11
+North Macedonia,Southern Europe,2010,11.94,2142861.068,31.32
+North Macedonia,Southern Europe,2011,12.03,2148788.99,31.68
+North Macedonia,Southern Europe,2012,12.12,2154109.887,32.05
+North Macedonia,Southern Europe,2013,12.17,2160058.258,32.43
+North Macedonia,Southern Europe,2014,12.22,2167051.765,32.8
+North Macedonia,Southern Europe,2015,12.29,2170245.413,33.17
+North Macedonia,Southern Europe,2016,12.32,2171321.673,33.55
+North Macedonia,Southern Europe,2017,12.38,2176734.069,33.92
+North Macedonia,Southern Europe,2018,12.44,2182625.287,34.29
+North Macedonia,Southern Europe,2019,12.41,2185210.728,34.64
+North Macedonia,Southern Europe,2020,9.98,2183271.511,34.99
+North Macedonia,Southern Europe,2021,8.59,2176435.004,35.33
+Norway,Northern Europe,2010,5.23,4864344.751,25.08
+Norway,Northern Europe,2011,5.22,4926669.128,25.25
+Norway,Northern Europe,2012,5.23,4989265.469,25.46
+Norway,Northern Europe,2013,5.23,5050915.091,25.69
+Norway,Northern Europe,2014,5.2,5110247.762,25.93
+Norway,Northern Europe,2015,5.18,5166339.095,26.17
+Norway,Northern Europe,2016,5.17,5217756.418,26.4
+Norway,Northern Europe,2017,5.14,5264424.616,26.65
+Norway,Northern Europe,2018,5.12,5307156.193,26.91
+Norway,Northern Europe,2019,5.2,5346384.595,27.15
+Norway,Northern Europe,2020,5.2,5383237.13,27.4
+Norway,Northern Europe,2021,5.18,5418070.187,27.65
+Poland,Eastern Europe,2010,8.97,38381664.95,29.1
+Poland,Eastern Europe,2011,8.96,38421909.96,29.39
+Poland,Eastern Europe,2012,8.95,38445037.1,29.68
+Poland,Eastern Europe,2013,8.92,38454262.98,29.98
+Poland,Eastern Europe,2014,8.89,38460899.52,30.28
+Poland,Eastern Europe,2015,9.05,38465411.69,30.59
+Poland,Eastern Europe,2016,9.13,38471263.76,30.89
+Poland,Eastern Europe,2017,9.25,38478651.21,31.2
+Poland,Eastern Europe,2018,9.41,38471314.7,31.52
+Poland,Eastern Europe,2019,9.52,38445070.47,31.82
+Poland,Eastern Europe,2020,8.27,38372694.1,32.16
+Poland,Eastern Europe,2021,7.69,38238455.52,32.52
+Portugal,Southern Europe,2010,7.68,10790822.39,28.2
+Portugal,Southern Europe,2011,7.7,10789999.14,28.53
+Portugal,Southern Europe,2012,7.73,10782616.55,28.87
+Portugal,Southern Europe,2013,7.77,10769774.14,29.22
+Portugal,Southern Europe,2014,7.83,10755055.06,29.56
+Portugal,Southern Europe,2015,7.85,10740522.95,29.9
+Portugal,Southern Europe,2016,7.87,10725395.53,30.24
+Portugal,Southern Europe,2017,7.91,10708888.55,30.61
+Portugal,Southern Europe,2018,8.03,10690818.56,30.97
+Portugal,Southern Europe,2019,8.13,10670571.17,31.29
+Portugal,Southern Europe,2020,7.54,10643096.69,31.56
+Portugal,Southern Europe,2021,7.54,10607848.7,31.86
+Republic of Moldova,Eastern Europe,2010,10.49,3846882.984,33.09
+Republic of Moldova,Eastern Europe,2011,10.74,3822046.429,33.61
+Republic of Moldova,Eastern Europe,2012,11,3800072.861,34.18
+Republic of Moldova,Eastern Europe,2013,11.27,3779108.364,34.76
+Republic of Moldova,Eastern Europe,2014,11.58,3758106.526,35.35
+Republic of Moldova,Eastern Europe,2015,12,3735730.243,35.91
+Republic of Moldova,Eastern Europe,2016,12.33,3713208.517,36.46
+Republic of Moldova,Eastern Europe,2017,12.61,3692003.725,37
+Republic of Moldova,Eastern Europe,2018,12.71,3671037.983,37.55
+Republic of Moldova,Eastern Europe,2019,12.77,3649240.352,38.1
+Republic of Moldova,Eastern Europe,2020,11.53,3624436.328,38.67
+Republic of Moldova,Eastern Europe,2021,10.36,3593444.205,39.18
+Romania,Eastern Europe,2010,10.43,20687044.75,32.44
+Romania,Eastern Europe,2011,10.48,20510479.55,32.91
+Romania,Eastern Europe,2012,10.53,20341336.55,33.4
+Romania,Eastern Europe,2013,10.52,20185458.62,33.88
+Romania,Eastern Europe,2014,10.52,20017345.96,34.34
+Romania,Eastern Europe,2015,10.6,19824824.82,34.8
+Romania,Eastern Europe,2016,10.56,19656277.63,35.21
+Romania,Eastern Europe,2017,10.59,19523332.86,35.61
+Romania,Eastern Europe,2018,10.62,19392468.39,36
+Romania,Eastern Europe,2019,10.7,19263264.55,36.34
+Romania,Eastern Europe,2020,9.43,19117661.56,36.67
+Romania,Eastern Europe,2021,8.47,18938555.15,36.92
+Russian Federation,Eastern Europe,2010,8.85,145349843.8,30.8
+Russian Federation,Eastern Europe,2011,9.03,145394578.8,31.28
+Russian Federation,Eastern Europe,2012,9.14,145537120.8,31.82
+Russian Federation,Eastern Europe,2013,9.19,145719123.5,32.4
+Russian Federation,Eastern Europe,2014,9.26,145893866.8,32.99
+Russian Federation,Eastern Europe,2015,9.4,146038647.4,33.56
+Russian Federation,Eastern Europe,2016,9.58,146129017.3,34.09
+Russian Federation,Eastern Europe,2017,9.73,146150957.4,34.62
+Russian Federation,Eastern Europe,2018,9.85,146090509.6,35.14
+Russian Federation,Eastern Europe,2019,9.92,145939139.9,35.64
+Russian Federation,Eastern Europe,2020,8.35,145574315.1,36.17
+Russian Federation,Eastern Europe,2021,7.38,144853838.8,36.65
+San Marino,Southern Europe,2010,7,31007.02236,31.54
+San Marino,Southern Europe,2011,7.09,31280.4457,31.87
+San Marino,Southern Europe,2012,7.18,31533.73257,32.21
+San Marino,Southern Europe,2013,7.25,31764.70598,32.55
+San Marino,Southern Europe,2014,7.37,31972.88566,32.88
+San Marino,Southern Europe,2015,7.47,32154.24646,33.19
+San Marino,Southern Europe,2016,7.53,32303.94774,33.48
+San Marino,Southern Europe,2017,7.6,32425.68422,33.77
+San Marino,Southern Europe,2018,7.64,32528.11581,34.04
+San Marino,Southern Europe,2019,7.7,32615.40356,34.3
+San Marino,Southern Europe,2020,6.31,32680.67957,34.55
+San Marino,Southern Europe,2021,6.7,32740.07406,34.8
+Serbia,Southern Europe,2010,10.83,9113762.621,31.98
+Serbia,Southern Europe,2011,10.88,9098555.372,32.44
+Serbia,Southern Europe,2012,10.97,9091156.357,32.91
+Serbia,Southern Europe,2013,11.06,9102404.264,33.37
+Serbia,Southern Europe,2014,11.18,9119967.553,33.82
+Serbia,Southern Europe,2015,11.31,9099766.623,34.29
+Serbia,Southern Europe,2016,11.42,9069107.194,34.76
+Serbia,Southern Europe,2017,11.54,9057928.669,35.21
+Serbia,Southern Europe,2018,11.62,9041747.241,35.68
+Serbia,Southern Europe,2019,11.69,9014900.144,36.14
+Serbia,Southern Europe,2020,10.5,8975814.07,36.61
+Serbia,Southern Europe,2021,9.76,8919508.965,37.05
+Slovakia,Eastern Europe,2010,10.76,5410015.804,32.86
+Slovakia,Eastern Europe,2011,10.83,5415223.817,33.21
+Slovakia,Eastern Europe,2012,10.89,5418113.122,33.6
+Slovakia,Eastern Europe,2013,10.96,5420035.59,34.02
+Slovakia,Eastern Europe,2014,11,5422308.391,34.45
+Slovakia,Eastern Europe,2015,11.1,5424779.571,34.9
+Slovakia,Eastern Europe,2016,11.15,5428218.281,35.35
+Slovakia,Eastern Europe,2017,11.23,5432394.77,35.81
+Slovakia,Eastern Europe,2018,11.29,5435756.566,36.28
+Slovakia,Eastern Europe,2019,11.36,5438906.729,36.71
+Slovakia,Eastern Europe,2020,10.47,5439137.689,37.16
+Slovakia,Eastern Europe,2021,8.65,5429455.08,37.54
+Slovenia,Southern Europe,2010,9.23,2041072.831,34.6
+Slovenia,Southern Europe,2011,9.44,2048155.437,35
+Slovenia,Southern Europe,2012,9.58,2054199.515,35.44
+Slovenia,Southern Europe,2013,9.8,2059186.926,35.88
+Slovenia,Southern Europe,2014,9.98,2063801.075,36.32
+Slovenia,Southern Europe,2015,10.01,2067660.624,36.75
+Slovenia,Southern Europe,2016,10.04,2070395.986,37.19
+Slovenia,Southern Europe,2017,10.14,2072307.445,37.63
+Slovenia,Southern Europe,2018,10.18,2073438.425,38.06
+Slovenia,Southern Europe,2019,10.27,2073994.265,38.45
+Slovenia,Southern Europe,2020,9.1,2072558.031,38.84
+Slovenia,Southern Europe,2021,8.98,2069651.475,39.19
+Spain,Southern Europe,2010,8.27,46975653.59,30.97
+Spain,Southern Europe,2011,8.31,47149898.07,31.29
+Spain,Southern Europe,2012,8.32,47172100.96,31.64
+Spain,Southern Europe,2013,8.43,47075016.45,32
+Spain,Southern Europe,2014,8.47,46913113.21,32.37
+Spain,Southern Europe,2015,8.49,46735593.59,32.76
+Spain,Southern Europe,2016,8.54,46560612.46,33.17
+Spain,Southern Europe,2017,8.59,46381466.24,33.65
+Spain,Southern Europe,2018,8.68,46194217.06,34.15
+Spain,Southern Europe,2019,8.77,46002815.85,34.61
+Spain,Southern Europe,2020,7.67,45780860.34,35.05
+Spain,Southern Europe,2021,8.22,45549328.18,35.61
+Sweden,Northern Europe,2010,6.92,9423509.408,26.38
+Sweden,Northern Europe,2011,6.94,9505887.165,26.6
+Sweden,Northern Europe,2012,6.94,9590918.225,26.83
+Sweden,Northern Europe,2013,7.04,9679777.114,27.07
+Sweden,Northern Europe,2014,7.12,9772348.095,27.31
+Sweden,Northern Europe,2015,7.19,9866896.657,27.57
+Sweden,Northern Europe,2016,7.29,9960810.527,27.83
+Sweden,Northern Europe,2017,7.36,10051318.71,28.11
+Sweden,Northern Europe,2018,7.28,10138343.37,28.4
+Sweden,Northern Europe,2019,7.28,10222753.83,28.66
+Sweden,Northern Europe,2020,6.62,10300025.39,28.92
+Sweden,Northern Europe,2021,7,10373513.22,29.16
+Switzerland,Western Europe,2010,7.08,7962928.063,21.59
+Switzerland,Western Europe,2011,7.14,8053456.37,21.77
+Switzerland,Western Europe,2012,7.18,8146567.604,21.96
+Switzerland,Western Europe,2013,7.18,8241323.917,22.18
+Switzerland,Western Europe,2014,7.18,8336886.425,22.4
+Switzerland,Western Europe,2015,7.16,8431130.58,22.63
+Switzerland,Western Europe,2016,7.16,8522267.555,22.87
+Switzerland,Western Europe,2017,7.13,8610517.551,23.14
+Switzerland,Western Europe,2018,7.19,8695157.302,23.42
+Switzerland,Western Europe,2019,7.26,8776629.311,23.69
+Switzerland,Western Europe,2020,6.58,8851290.868,23.98
+Switzerland,Western Europe,2021,6.94,8922811.608,24.25
+Ukraine,Eastern Europe,2010,9.99,46078040.96,30.86
+Ukraine,Eastern Europe,2011,10.03,45892495.65,31.23
+Ukraine,Eastern Europe,2012,10.08,45717956.43,31.62
+Ukraine,Eastern Europe,2013,10.22,45528810.53,32.05
+Ukraine,Eastern Europe,2014,10.27,45314166.99,32.48
+Ukraine,Eastern Europe,2015,10.5,45076412.84,32.89
+Ukraine,Eastern Europe,2016,10.62,44815688.38,33.3
+Ukraine,Eastern Europe,2017,10.63,44526888.42,33.71
+Ukraine,Eastern Europe,2018,10.67,44208807.74,34.14
+Ukraine,Eastern Europe,2019,10.73,43865486.43,34.56
+Ukraine,Eastern Europe,2020,10.21,43504149.21,35.06
+Ukraine,Eastern Europe,2021,8.85,43077810.63,35.5
+United Kingdom,Northern Europe,2010,6.4,62914836.12,32.05
+United Kingdom,Northern Europe,2011,6.41,63463389.93,32.29
+United Kingdom,Northern Europe,2012,6.43,64004093.8,32.54
+United Kingdom,Northern Europe,2013,6.44,64522765.64,32.79
+United Kingdom,Northern Europe,2014,6.49,65026697.35,33.04
+United Kingdom,Northern Europe,2015,6.51,65518093.4,33.29
+United Kingdom,Northern Europe,2016,6.58,65990282.49,33.52
+United Kingdom,Northern Europe,2017,6.63,66440001.63,33.77
+United Kingdom,Northern Europe,2018,6.68,66859753.54,34.01
+United Kingdom,Northern Europe,2019,6.75,67250111.95,34.24
+United Kingdom,Northern Europe,2020,5.86,67578976.55,34.47
+United Kingdom,Northern Europe,2021,5.85,67848390.1,34.74
