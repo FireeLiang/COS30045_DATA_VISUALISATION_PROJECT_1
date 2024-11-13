@@ -7,9 +7,42 @@
 <input type="range" min="2010" max="2020" value="2010" step="1" id="yearSlider">
 <label for="yearSlider">Year: <span id="yearValue">2010</span></label>
 
+<div>
+  <label for="regionSelect">Filter by Region:</label>
+  <select id="regionSelect">
+    <option value="All">All Regions</option>
+    <option value="Eastern Europe">Eastern Europe</option>
+    <option value="Western Europe">Western Europe</option>
+    <option value="Northern Europe">Northern Europe</option>
+    <option value="Southern Europe">Southern Europe</option>
+    <option value="Central Europe">Central Europe</option>
+  </select>
+</div>
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
+
+    <!-- Detailed Information Table -->
+    <div id="infoTable" style="margin-top: 20px;">
+      <table border="1" style="width: 50%; text-align: center;">
+          <thead>
+              <tr>
+                  <th>Country</th>
+                  <th>Region</th>
+                  <th>Obesity Rate</th>
+                  <th>Death Rate</th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td id="countryCell"></td>
+                  <td id="regionCell"></td>
+                  <td id="obesityCell"></td>
+                  <td id="deathCell"></td>
+              </tr>
+          </tbody>
+      </table>
+  </div>
 
 <!-- A bit of CSS: change stroke color of circle on hover (white -> black) -->
 <style>
