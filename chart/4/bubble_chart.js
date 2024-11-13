@@ -36,8 +36,21 @@ const xAxis = svg.append("g")
     .attr("transform", `translate(0, ${height})`)
     .call(d3.axisBottom(x).ticks(25, "s"));
 
+svg.append("text")
+    .attr("text-anchor", "end")
+    .attr("x", width/2 + 30)
+    .attr("y", height + 40) // Adjusted positioning
+    .text("Obesity Rate");
+
 const y = d3.scaleLinear().domain([0, 20]).range([height, 0]);
 const yAxis = svg.append("g").call(d3.axisLeft(y));
+
+svg.append("text")
+    .attr("text-anchor", "end")
+    .attr("transform", "rotate(-90)")
+    .attr("x", -150)
+    .attr("y", -margin.left + 15) // Adjusted positioning
+    .text("Death Rate");
 
 const z = d3.scaleLinear().domain([31007.02236, 146150957.4]).range([5, 20]);
 const myColor = d3.scaleOrdinal()
@@ -141,7 +154,7 @@ d3.csv("../data/bubble_chart/upload_with_regions.csv").then(function(data) {
     // Add a legend for the regions below the x-axis
     const legend = svg.append("g")
         .attr("class", "legend")
-        .attr("transform", `translate(${width / 2 - 400}, ${height + 50})`); // Centered below the x-axis
+        .attr("transform", `translate(${width / 2 - 400}, ${height + 70})`); // Centered below the x-axis
 
     const regions = ["Eastern Europe", "Western Europe", "Northern Europe", "Southern Europe", "Central Europe"];
 

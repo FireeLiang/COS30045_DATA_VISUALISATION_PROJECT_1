@@ -1,31 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
     <title>Adult Obesity Percentages</title>
     <!-- Load d3.js -->
     <script src="https://d3js.org/d3.v4.js"></script>
     <link rel="stylesheet" href="../styles/line.css">
-    
-  </head>
-  <body>
-    <!-- Create a div where the graph will take place -->
-    <div id="female"></div>
-
-    <br>
-    <div id="text-content">
-        <h2>Analysis of Obesity Rates in Europe</h2>
-        <h3>Female Population</h3>
-        <ol>
-            <li>Eastern Europe (red line) has the highest share of obesity, rising steadily from approximately 24% in 2014 to around 28% by 2022.</li>
-            <li>Southern Europe (purple line) also shows a significant increase, from about 18% in 2014 to over 22% in 2022.</li>
-            <li>Northern Europe (green line), Central Europe (orange line), and Western Europe (blue line) have similar trends, starting around 18% in 2014 and leveling off at approximately 21% by 2022.</li>
-            <li>Western Europe has the lowest increase in obesity rates compared to other regions, showing a relatively smaller change over time.</li>
-          </ol>
-          
-          
+</head>
+<body>
+    <!-- Container for the chart and text content -->
+    <div class="content-container">
+        <!-- Div for the chart -->
+        <div id="female"></div>
+        
+        <!-- Break line to separate chart and text content -->
+        <div class="break-line"></div>
+        
+        <!-- Div for the text content -->
+        
+            <h2>Analysis of Obesity Rates in Europe</h2>
+            <h3>Female Population</h3>
+            <ol>
+              <li>Eastern Europe (red line) has the highest share of obesity, rising steadily from approximately 24% in 2014 to around 28% by 2022.</li>
+              <li>Southern Europe (purple line) also shows a significant increase, from about 18% in 2014 to over 22% in 2022.</li>
+              <li>Northern Europe (green line), Central Europe (orange line), and Western Europe (blue line) have similar trends, starting around 18% in 2014 and leveling off at approximately 21% by 2022.</li>
+              <li>Western Europe has the lowest increase in obesity rates compared to other regions, showing a relatively smaller change over time.</li>
+            </ol>
+        
     </div>
+    
     <script src="../chart/2/female.js"></script>
-
-  </body>
+</body>
 </html>
