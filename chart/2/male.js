@@ -1,5 +1,5 @@
 // Set the dimensions and margins of the graph
-var margin = {top: 10, right: 30, bottom: 60, left: 80},
+var margin = {top: 10, right: 30, bottom: 150, left: 80},
     width = 660 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
@@ -103,4 +103,42 @@ d3.csv("../data/line/filtered_xlsx_male_final.csv", function(data) {
     yAxis.call(d3.axisLeft(t.rescaleY(y)));
     lines.attr("transform", "translate(" + t.x + "," + t.y + ") scale(" + t.k + ")");
   }
+
+// Add legend under the chart
+var legend = svg.append("g")
+.attr("transform", "translate(0," + (height + 60) + ")");
+
+legend.selectAll("rect")
+.data(res)
+.enter()
+.append("rect")
+.attr("x", function(d, i) {
+    return (i % 2) * 200;
+}) // Adjust spacing for two lines
+.attr("y", function(d, i) {
+    return Math.floor(i / 2) * 30.5;
+}) // Stacking for every two items
+.attr("width", 10)
+.attr("height", 10)
+.style("fill", function(d) {
+    return color(d);
+});
+
+legend.selectAll("text")
+.data(res)
+.enter()
+.append("text")
+.attr("x", function(d, i) {
+    return (i % 2) * 200 + 20;
+}) // Align with rectangle
+.attr("y", function(d, i) {
+    return Math.floor(i / 2) * 31 + 5;
+}) // Position text below rectangles
+.html(function(d) {
+    // Add line breaks for long labels
+    return d.replace("Europe", "<tspan>Europe</tspan>");
+})
+.style("alignment-baseline", "middle")
+.attr("dominant-baseline", "middle") // Center vertically
+.attr("text-anchor", "start"); // Align text to the left
 });

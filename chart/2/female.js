@@ -1,7 +1,7 @@
 // Set the dimensions and margins of the graph
-var margin = {top: 10, right: 30, bottom: 60, left: 80},
+var margin = {top: 10, right: 30, bottom: 150, left: 80},
     width = 660 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    height = 400 - margin.top - margin.bottom;
 
 // Append the svg object to the body of the page
 var svg = d3.select("#female")
