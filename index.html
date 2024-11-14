@@ -1,177 +1,202 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-	<meta charset="UTF-8"/>
-	<meta name="description"	content="Data Visualisation Project"/>
-	<meta name="keywords"		  content="HTML, CSS, JavaScript"/>
-	<meta name="author"			  content="Ashley, Liang, Ethan"/>
+	<head>
 
-	<title>Data Visualization Project</title>
-	<!--Insert description of exercise  -->
+		<meta charset="UTF-8"/>
 
-	<script src="https://d3js.org/d3.v7.js"></script>
-	<script src="scripts/barchart.js" defer></script>
+		<meta name="description"	content="Data Visualisation Project"/>
 
-	<link rel="stylesheet" href="styles/styles.css">
+		<meta name="keywords"		  content="HTML, CSS, JavaScript"/>
 
-    <!-- Font Import -->
-    <link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
+		<meta name="author"			  content="Ashley, Liang, Ethan"/>
 
-</head>
+		<title>Data Visualization Project</title>
+		<!--Insert description of exercise  -->
+
+		<script src="https://d3js.org/d3.v7.js"></script>
+		
+		<script src="scripts/barchart.js" defer></script>
+
+		<link rel="stylesheet" href="styles/styles.css">
+
+		<!-- Font Import -->
+		<link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
+
+	</head>
 
 <body>
-	<div id="tooltip" style="position: absolute; opacity: 0; background-color: white; border: 1px solid #ccc; padding: 5px; border-radius: 5px; pointer-events: none;"></div>
-	<section id="title">
-		<section id="caption">
-			<span class="border">
-				<h1>Obesity</h1>
-				<h2>A collection of visualizations that represent obesity across the world.</h2>
-			</span>
-		</section>
-    </section>
 
+	<div id="tooltip" style="position: absolute; opacity: 0; background-color: white; border: 1px solid #ccc; padding: 5px; border-radius: 5px; pointer-events: none;"></div>
+	
+	<section id="title">
+		
+		<section id="caption">
+			
+			<span class="border">
+				
+				<h1>Obesity</h1>
+				
+				<h2>A collection of visualizations that represent obesity across the world.</h2>
+			
+			</span>
+		
+		</section>
+    
+	</section>
+	
 	<section id="parallax1">
+		
 		<section id="text1">Percentage of Adults (18+) with Obesity Across The World </section>
+	
 	</section>
 
-	<section class="section1">
-		<embed type="text/html" src="visualization pages/chloropleth.html" width="100%" height="100%" >
+	<section id="choropleth">
+		
+		<embed type="text/html" src="visualization_pages/choropleth/choropleth.html" width="100%" height="100%" >
+	
 	</section>
 
 	<section id="S1references">
+		
 		<p>The above facts were taken from WHO <a href="#ref1">(World Health Organization: WHO, 2024)</a>.</p>
+		
 		<p>The chloropleth data is also from WHO <a href="#ref2">(World Health Organization: WHO, n.d.)</a>.</p>
+	
 	</section>
-
+	
 	<section id="parallax2">
+		
 		<section id="text2">Trend In Gender Disparity Among Obesity Across Different Regions
+		
 		</section>
+	
 	</section>
 
 	<br>
+
 	<br>
 
 	<section class="section_line">
-		<embed type="text/html" src="visualization pages/line.html" width="100%" height="100%" >
+		
+		<embed type="text/html" src="visualization_pages/line/line.html" width="100%" height="100%" >
+	
 	</section>
 
 	<section class="section_line" style="text-align: center; height: 125%;">
+		
 		<section class="section_line2">
-			<embed type="text/html" src="visualization pages/line(2).html" width="100%" height="100%" >
+			
+			<embed type="text/html" src="visualization_pages/line/line(2).html" width="100%" height="100%" >
+		
 		</section>
+		
 		<section class="section_line2">
-			<embed type="text/html" src="visualization pages/line(3).html" width="100%" height="100%" >
+			
+			<embed type="text/html" src="visualization_pages/line/line(3).html" width="100%" height="100%" >
+		
 		</section>
+
 	</section>
 
 	<section id="S1references">
+		
 		<p>The above facts were taken from OECD <a href="#ref1">https://data-explorer.oecd.org/</a>.</p>
+		
 		<p>The line data is also from D3 <a href="#ref2">Holtz, Y. (n.d.). The D3 Graph Gallery – Simple charts made in d3.js. https://d3-graph-gallery.com/index.html</a>.</p>
-	</section>
-
 	
+	</section>
 
 	<section id="parallax3">
+		
 		<section id="text3">Children and Adult Obesity Rates in 2022</section>
+	
 	</section>
 
-	<section class="section1 barclass">
-		<div id="my_dataviz_bar">
-			<div id="buttons-barchart">
-				<button id="grouped">Grouped</button>
-				<button id="stacked">Stacked</button>
-			</div>
-		</div>
-		<div id="chart_text">
-			<h3>Regional Differences in Obesity Rates Among Adults and Children</h3>
-			<p>
-				The bar chart reveals notable disparities in obesity rates between adults and children across four European regions: Eastern, Southern, Northern, and Western Europe. In each region, adults show significantly higher obesity rates than children, highlighting a trend where obesity impacts adults more prominently than the younger population.
-			</p>
-			
-			<h3>Eastern Europe Leads in Adult Obesity Rates</h3>
-			<p>
-				Eastern Europe stands out with the highest obesity rate among adults, with approximately 26.5% of the adult population affected. This figure indicates that adults in Eastern Europe experience greater obesity prevalence compared to other regions, potentially due to lifestyle factors, dietary habits, or socioeconomic conditions prevalent in this region. In contrast, the childhood obesity rate in Eastern Europe is much lower, at 8.51%, suggesting that children in this region are less affected by obesity-related factors impacting adults.
-			</p>
-			
-			<h3>Southern and Northern Europe Exhibit Similar Adult Obesity Levels</h3>
-			<p>
-				In Southern and Northern Europe, adult obesity rates are close, with Southern Europe at 22.8% and Northern Europe at 22.2%. Both regions show a significant gap between adult and child obesity rates, as childhood obesity stands at 10.52% in Southern Europe and 8.37% in Northern Europe. This consistency across two regions may indicate shared cultural or dietary factors affecting adults in these areas, while children seem to be somewhat shielded from these influences, maintaining lower obesity rates.
-			</p>
-			
-			<h3>Western Europe Shows the Lowest Obesity Rates for Both Adults and Children</h3>
-			<p>
-				Western Europe has the lowest obesity rates among both adults and children, with adults at 15.8% and children at 6.98%. This lower prevalence might reflect healthier lifestyle practices, effective public health policies, or socioeconomic advantages that reduce obesity risks in this region. The smaller difference between adult and child obesity rates also suggests that obesity prevention efforts may be more effective and consistent across all age groups in Western Europe compared to other regions.
-			</p>
-			
-			<h3>Why Are Adults More Prone to Obesity Than Children?</h3>
-			<p>
-				The consistently higher obesity rates among adults compared to children can be attributed to several factors. Firstly, adults often have more sedentary lifestyles due to work-related or other responsibilities, leading to reduced physical activity. Many adults work in office-based or less physically demanding jobs, which limits daily movement and contributes to weight gain over time.
-			</p>
-			<p>
-				Additionally, adults may face more dietary challenges than children. They have greater independence in choosing their food, and often consume convenience foods high in calories, sugars, and fats due to time constraints. Unlike children, who may have more controlled diets through school programs or parental guidance, adults frequently make dietary decisions influenced by stress, time pressures, and convenience, which can contribute to unhealthy eating habits.
-			</p>
-			<p>
-				Metabolic factors also play a role. As people age, their metabolism naturally slows down, making it easier to gain weight even with the same caloric intake. Hormonal changes, especially in middle age, can further predispose adults to weight gain, which is less common in children.
-			</p>
-			<p>
-				Moreover, adults are exposed to long-term lifestyle habits, which may accumulate over years, contributing to obesity. In contrast, children generally have fewer years of exposure to such habits. By the time a person reaches adulthood, years of consistent eating and activity patterns, often influenced by cultural, social, and economic factors, may lead to a higher body weight.
-			</p>
-			
-			<h3>Overall Observations</h3>
-			<p>
-				The chart emphasizes that adult obesity rates are consistently higher than childhood obesity rates across all regions. Eastern Europe’s leading adult obesity rate and Western Europe’s comparatively low levels highlight a clear regional disparity, suggesting that different environmental, economic, or cultural factors may contribute to these variations.
-			</p>
-		</div>
+	<section id="barchart">
+		
+		<embed type="text/html" src="visualization_pages/barchart/barchart.html" width="100%" height="100%" >
+	
 	</section>
 
 	<section id="parallax4">
+		
 		<section id="text2">Obesity Kills</section>
+	
 	</section>
 
 	<br>
+
 	<br>
 
-	<section class="section_bubble_chart">
-		<embed type="text/html" src="visualization pages/bubble_chart.html" width="100%" height="100%" >
+	<section id="bubblechart">
+		
+		<embed type="text/html" src="visualization_pages/bubblechart/bubble_chart.html" width="100%" height="100%" >
+	
 	</section>
 
 	<section id="S1references">
+		
 		<p>The above facts were taken from IHME<a href="#ref1">Homepage. (n.d.). Institute for Health Metrics and Evaluation. https://www.healthdata.org/</a>.</p>
+		
 		<p>The bubble chart data is also from D3<a href="#ref2">Holtz, Y. (n.d.). The D3 Graph Gallery – Simple charts made in d3.js. https://d3-graph-gallery.com/index.html</a>.</p>
+	
 	</section>
 
 	<section id="parallax5">
+		
 		<section id="text2">Existence of National Standards for Managing Obesity and Overweight</section>
+	
 	</section>
 
 	<br>
+
 	<br>
 
-	<section class="section_sunburst">
-		<embed type="text/html" src="visualization pages/sunburst.html" width="100%" height="100%" >
-			
+	<section id="sunburst">
+		
+		<embed type="text/html" src="visualization_pages/sunburst/sunburst.html" width="100%" height="100%" >
+	
 	</section>
 
 	<section class="references">
+		
 		<h1>References</h1>
+		
 		<section class="reference">
+			
 			<p id="ref1">
+				
 				[1] 
+				
 				<a href="https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight">
+					
 					World Health Organization: WHO. (2024, March 1). Obesity and overweight. Retrieved November 6, 2024, from https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight
+				
 				</a>
+			
 			</p>
+		
 		</section>
+		
 		<section class="reference">
+			
 			<p id="ref2">
+				
 				[2]
+				
 				<a href="https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight">
+					
 					World Health Organization: WHO. (n.d.). Indicator details. Retrieved November 6, 2024, from https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi--30-(age-standardized-estimate)-(-)
+				
 				</a>
+			
 			</p>
+		
 		</section>
+	
 	</section>
 
 </body>
+
 </html>

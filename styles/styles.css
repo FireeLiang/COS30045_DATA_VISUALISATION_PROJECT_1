@@ -152,17 +152,6 @@ section {
     background-size: 100%;
 }
 
-/*Fifth parallax image*/
-#parallax5 {
-    background-image: url(../images/Parallax5.png);
-    position: relative;
-    height: 125%; 
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
-
 /*Parallax 4 Text*/
 #text4 {
     background-color: white;
@@ -180,17 +169,55 @@ section {
     mix-blend-mode: multiply;
 }
 
-/*sections*/
-.section1 {
+/*Fifth parallax image*/
+#parallax5 {
+    background-image: url(../images/Parallax5.png);
+    position: relative;
+    height: 125%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*Graph sections*/
+#choropleth {
     height: 100%;
     padding-top: 5%;
 }
 
-.section2 {
-    height: 125%;
-    background-color: #ccc;
+.section_line{
+    height: 100%;
+    width: 100%;
+    flex: 1; /* Makes both sections take equal width */
+    height: 95vh; /* Increased height to allow more content display */
 }
 
+.section_line2{
+    height: 100%;
+    width: 49%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#barchart {
+    height: 100%;
+    padding-top: 5%;
+}
+
+#bubblechart {
+    flex: 1; /* Makes both sections take equal width */
+    height: 100vh; /* Increased height to allow more content display */
+    box-sizing: border-box;
+}
+
+#sunburst {
+    flex: 1; /* Makes both sections take equal width */
+    height: 160vh; /* Increased height to allow more content display */
+    box-sizing: border-box;
+}
+
+/*References where required */
 .references {
     padding-left: 10%;
     padding-right: 10%;
@@ -208,6 +235,7 @@ section {
     color: #0277BD;
 }
 
+/*Hyperlink formatting*/
 a {
     color: #0277BD;
 }
@@ -220,94 +248,11 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Flex container for chart and text */
-.section1.barclass {
-    display: flex;
-    width: 100%;
-    padding: 20px;
-    height: 100%;
-    box-sizing: border-box; /* Ensures padding is included in the width */
-    overflow: hidden; /* Prevents any content from overflowing outside */
-}
-
-/* Chart container with flex column direction */
-#my_dataviz_bar {
-    flex: 0 0 60%;
-    max-width: 60%;
-    height: 100%;
-    padding-right: 20px;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column; /* Stack children vertically */
-}
-
-/* Center the buttons horizontally */
-#buttons-barchart {
-    text-align: center;
-    margin-bottom: 10px; /* Space below the buttons */
-}
-
-/* Style the buttons */
-#buttons-barchart button {
-    margin-right: 5px;
-    padding: 5px 10px;
-    font-size: 14px;
-    cursor: pointer;
-}
-
-/* Text container with 40% width */
-#chart_text {
-    flex: 0 0 40%; /* 40% width */
-    max-width: 40%; /* Ensures it doesn't exceed 40% of the container */
-    height: 93%; /* Set a fixed height to control the scrollable area */
-    padding-left: 20px; /* Optional space between text and chart */
-    box-sizing: border-box; /* Includes padding in the width calculation */
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start; /* Aligns text to the top */
-    overflow-y: auto; /* Enables vertical scrolling */
-    text-align: justify;
-}
-.section_line{
-    height: 100%;
-    width: 100%;
-}
-
-.section_line2{
-    height: 100%;
-    width: 49%;
-    vertical-align: middle;
-    display: inline-block;
-}
-
+/*Containers if Applicable*/
 .container {
     display: flex;
     flex-direction: row;
     width: 100%;
     gap: 20px; /* Optional spacing between sections */
     box-sizing: border-box;
-}
-
-.section_line {
-    flex: 1; /* Makes both sections take equal width */
-    height: 95vh; /* Increased height to allow more content display */
-}
-
-.section_bubble_chart {
-    flex: 1; /* Makes both sections take equal width */
-    height: 100vh; /* Increased height to allow more content display */
-    box-sizing: border-box;
-}
-
-.section_sunburst {
-    flex: 1; /* Makes both sections take equal width */
-    height: 160vh; /* Increased height to allow more content display */
-    box-sizing: border-box;
-}
-
-.sunburst_padding {
-    padding-left : 100px;
-    padding-right : 100px;
-    padding-bottom : 100px;
-    margin-bottom : 100px;
 }
