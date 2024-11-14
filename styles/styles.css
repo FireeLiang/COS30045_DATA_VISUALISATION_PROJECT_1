@@ -61,7 +61,7 @@ section {
 /*Parallax 1 Text*/
 #text1 {
     background-color: white;
-    color: #1C246C;
+    color: #FF9900;
     font-size: 4em;
     font-weight: bold;
     margin: auto;
@@ -72,7 +72,7 @@ section {
     top: 50%; 
     left: 50%;
     transform: translate(-50%, -50%); 
-    mix-blend-mode: multiply;
+    mix-blend-mode:hard-light;
     letter-spacing: 0em;
 }
 
