@@ -268,7 +268,7 @@ d3.csv("../age/barchart.csv").then(function(data) {
 
     const color = d3.scaleOrdinal()
         .domain(subgroups)
-        .range(["#FF00FF","#FF9900"]);  // Purple for Adult, Yellow for Children
+        .range(["#439EBD","#F7AD19"]);  // Purple for Adult, Yellow for Children
 
     // Y scales for grouped and stacked charts
     const yGrouped = d3.scaleLinear()

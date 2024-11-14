@@ -293,3 +293,10 @@ a:hover {
     height: 130vh; /* Increased height to allow more content display */
     box-sizing: border-box;
 }
+
+.sunburst_padding {
+    padding-left : 100px;
+    padding-right : 100px;
+    padding-bottom : 100px;
+    margin-bottom : 100px;
+}
