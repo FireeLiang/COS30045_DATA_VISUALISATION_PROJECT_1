@@ -247,7 +247,7 @@ const svg = d3.select("#my_dataviz_bar")
 const tooltip = d3.select("#tooltip");
 
 // Parse the Data
-d3.csv("../age/barchart.csv").then(function(data) {
+d3.csv("https://raw.githubusercontent.com/FireeLiang/COS30045_DATA_VISUALISATION_PROJECT_1/refs/heads/main/age/barchart.csv").then(function(data) {
 
     // List of subgroups = header of the csv files = Adult and Children
     const subgroups = data.columns.slice(1);
