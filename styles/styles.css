@@ -301,7 +301,7 @@ a:hover {
 
 .section_sunburst {
     flex: 1; /* Makes both sections take equal width */
-    height: 130vh; /* Increased height to allow more content display */
+    height: 160vh; /* Increased height to allow more content display */
     box-sizing: border-box;
 }
 
