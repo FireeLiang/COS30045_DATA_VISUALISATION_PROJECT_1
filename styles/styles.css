@@ -76,39 +76,13 @@ section {
     letter-spacing: 0em;
 }
 
-/*Section 1 Text*/
-#S1text{
-    padding-top: 15%;
-    text-align: center;
-    padding-bottom: 5%;
-}
-
-#S1text h1{
-    letter-spacing: 0.25em;
-    font-size: 1.5em;
-    text-align: center;
-    padding-bottom: 2.5%;
-}
-
-#S1text p{
-    padding-left: 10%;
-    padding-right: 10%;
-    font-size: 1.2em;
-    text-align: center;
-    padding-bottom: 1.2em;
-}
-
-#S1text h1 section{
-    display: inline;
-}
-
 /*section 1 references*/
 #S1references{
     padding-left: 10%;
     padding-right: 10%;
     font-size: 1.2em;
     text-align: center;
-    padding-bottom: 15%;
+    padding-bottom: 5%;
 }
 
 /*Second parallax image*/
@@ -197,7 +171,8 @@ section {
 
 /*sections*/
 .section1 {
-    height: 125%;
+    height: 100%;
+    padding-top: 5%;
 }
 
 .section2 {
@@ -284,6 +259,14 @@ a:hover {
 }
 .section_line{
     height: 100%;
+    width: 100%;
+}
+
+.section_line2{
+    height: 100%;
+    width: 49%;
+    vertical-align: middle;
+    display: inline-block;
 }
 
 .container {
@@ -297,7 +280,6 @@ a:hover {
 .section_line {
     flex: 1; /* Makes both sections take equal width */
     height: 95vh; /* Increased height to allow more content display */
-    box-sizing: border-box;
 }
 
 .section_bubble_chart {
