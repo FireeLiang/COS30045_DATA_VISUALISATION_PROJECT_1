@@ -55,7 +55,7 @@ svg.append("text")
 const z = d3.scaleLinear().domain([31007.02236, 146150957.4]).range([5, 20]);
 const myColor = d3.scaleOrdinal()
     .domain(["Eastern Europe", "Western Europe", "Northern Europe", "Southern Europe", "Central Europe"])
-    .range(d3.schemeSet2);
+    .range(["#FF9843", "#FFDD95", "#86A7FC", "#3468C0", "#CB9DF0"]);
 
 // Tooltip setup
 const tooltip = d3.select("#my_dataviz")
