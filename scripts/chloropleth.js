@@ -99,7 +99,7 @@ function init() {
 
     var colorScale = d3.scaleSequential()
                         .domain([0, 100])
-                        .interpolator(d3.interpolateRgb("#FF9900", "#FF00FF")); // Color choice
+                        .interpolator(d3.interpolateRgb("#F4D4BD", "#0000FF")); // Color choice
 
     // Hide tooltip when drawing the map
     function resetTooltip() {
@@ -234,7 +234,7 @@ function init() {
                                 .attr("x2", "100%")
                                 .attr("y2", "0%");
 
-        var grades = [0, 25, 50, 75, 100];
+        var grades = [0, 20, 40, 80];
 
         grades.forEach((grade, i) => {
             gradient.append("stop")
