@@ -245,7 +245,7 @@ a:hover {
 }
 
 /* Chart container with flex column direction */
-#my_dataviz {
+#my_dataviz_bar {
     flex: 0 0 60%;
     max-width: 60%;
     height: 100%;
