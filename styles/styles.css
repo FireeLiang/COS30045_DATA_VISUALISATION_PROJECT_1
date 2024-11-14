@@ -61,7 +61,7 @@ section {
 /*Parallax 1 Text*/
 #text1 {
     background-color: white;
-    color: green;
+    color: #1C246C;
     font-size: 4em;
     font-weight: bold;
     margin: auto;
@@ -144,6 +144,17 @@ section {
 /*Forth parallax image*/
 #parallax4 {
     background-image: url(../images/Parallax4.png);
+    position: relative;
+    height: 125%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*Fifth parallax image*/
+#parallax5 {
+    background-image: url(../images/Parallax5.png);
     position: relative;
     height: 125%; 
     background-attachment: fixed;
