@@ -21,7 +21,7 @@ body {
     padding: 0.5em 0.8em;
     font-size: 0.75em;
     font-weight: bold;
-    background-color: #F06B22;
+    background-color: #FF9900;
     color: white;
     border: none;
     cursor: pointer;
@@ -29,12 +29,12 @@ body {
 }
 
 .buttons:hover {
-    background-color: #53579C;
+    background-color: #F06B22;
 }
 
 #label {
     font-size: 1em;
-    color: #F06B22;
+    color: #FF9900;
     font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ body {
     padding: 0.5em;
     font: 0.75em sans-serif;
     color: white;
-    background: #F06B22;
+    background: #FF9900;
     border-radius: 0.25em;
     pointer-events: none;
     opacity: 0; 
