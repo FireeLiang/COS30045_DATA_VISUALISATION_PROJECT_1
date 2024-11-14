@@ -229,14 +229,14 @@
 // });
 
 const margin = { top: 20, right: 30, bottom: 50, left: 60 };
-const container = document.getElementById("my_dataviz");
+const container = document.getElementById("my_dataviz_bar");
 
 // Calculate width and height based on the container dimensions
 const width = container.clientWidth - margin.left - margin.right;
 const height = container.clientHeight - margin.top - margin.bottom - 50; // Adjust for buttons height if necessary
 
 // Append the SVG object to the container after the buttons
-const svg = d3.select("#my_dataviz")
+const svg = d3.select("#my_dataviz_bar")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
