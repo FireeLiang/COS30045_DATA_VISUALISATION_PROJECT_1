@@ -19,22 +19,50 @@
     </head>
     
     <body>
+        <div id = "chart">
+            <div id = "mapbox">
+                <div id="header">
+                    <button id="both" class="buttons">Both</button>
+                    <button id="male" class="buttons">Male</button>
+                    <button id="female" class="buttons">Female</button>
+                </div>
 
-        <div id="header">
-            <button id="both" class="buttons">Both</button>
-            <button id="male" class="buttons">Male</button>
-            <button id="female" class="buttons">Female</button>
-        </div>
+                <div id="slider-container">
+                    <div class="year-label" id="yearLabel">Year: 2022</div>
+                    <div id="slider" class="slider-container"></div>
+                </div>
 
-        <div id="slider-container">
-            <div class="year-label" id="yearLabel">Year: 2022</div>
-            <div id="slider" class="slider-container"></div>
-        </div>
-
-        <div id="map"></div>
-        <div id="legend"></div>
-        <div class="tooltip" id="tooltip"></div>
-
+                <div id="map"></div>
+                <div id="legend"></div>
+                <div class="tooltip" id="tooltip"></div>
+            </div>
+            <div id = "textbox">
+                <h1>Obesity is not about being 'Fat'</h1>
+                <p>
+                    According to the World Health Organization (WHO), 
+                    Obesity is a chronic complex disease where one's health is impaired by excessive fat deposits. 
+                    Obesity is the opposite extremity of malnutrition, possibly caused by an imbalanced diet and/or lack of physical activity.
+                    Obesity may also be the product of obesogenic environments, psycho-social factors and genetic variants.
+                    
+                </p>
+                <p>
+                    Obesity is the onset of multiple diseases and health complications. 
+                    The risks of Noncommunicable Diseases (NCDs), such as Type 2 diabetes, cardiovascular disease 
+                    and certain types of cancer can be exacerbated by obesity.
+                    Bone health and reproduction are also negatively affected by obesity.
+                </p>
+                <p>
+                    For adults, WHO defines properly diagnosed obesity cases as those where a person's Body Mass Index (BMI) 
+                    is greater than or equal to 30.
+                </p>
+                <p>
+                    The following chloropleth utilizes data from the WHO, measuring the percentage of obese adults (+18) 
+                    in comparison with the population, seperating the data based on gender
+                    across the years from 1990 to 2022. Data that is Not Available (N/A) is colored accordingly.
+                </p>
+            </div>
+        <div>
+            
     </body>
 
 </html>
