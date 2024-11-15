@@ -57,3 +57,16 @@
     overflow-y: auto; /* Enables vertical scrolling */
     text-align: justify;
 }
+
+#tooltip {
+    position: absolute;
+    opacity: 0; /* Starts hidden */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    color: #fff; /* White text */
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    pointer-events: none; /* Ensures it doesn’t interfere with mouse events */
+    transition: opacity 0.2s ease-in-out; /* Smooth fade-in/fade-out */
+    z-index: 10; /* Make sure it’s on top of other elements */
+}
